@@ -1,0 +1,869 @@
+{
+ "id": "02",
+ "numero": 2,
+ "titulo": "La amikino de Marko",
+ "texto": {
+  "licencia": "CC BY-ND 4.0",
+  "titolo_morfemas": [
+   [
+    "La"
+   ],
+   null,
+   [
+    "amik",
+    "in",
+    "o"
+   ],
+   null,
+   [
+    "de"
+   ],
+   null,
+   [
+    "Marko"
+   ]
+  ],
+  "paragrafoj_morfemas": [
+   [
+    [
+     "Marko"
+    ],
+    null,
+    [
+     "hav",
+     "as"
+    ],
+    null,
+    [
+     "amik",
+     "in",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Ŝi",
+     "a"
+    ],
+    null,
+    [
+     "nom",
+     "o"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "Ana"
+    ],
+    ".",
+    null,
+    [
+     "Ŝi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "jun",
+     "a"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "bel",
+     "a"
+    ],
+    ".",
+    null,
+    [
+     "Ana"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "Marko"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "ge",
+     "amik",
+     "o",
+     "j"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Ana"
+    ],
+    null,
+    [
+     "ven",
+     "is"
+    ],
+    null,
+    [
+     "al"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "hejm",
+     "o"
+    ],
+    null,
+    [
+     "de"
+    ],
+    null,
+    [
+     "Marko"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Bon",
+     "vol",
+     "u"
+    ],
+    null,
+    [
+     "en",
+     "ir",
+     "i"
+    ],
+    ",",
+    null,
+    [
+     "amik",
+     "in",
+     "o"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Salut",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "Marko"
+    ],
+    ".",
+    null,
+    [
+     "Kio",
+     "n"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "far",
+     "as"
+    ],
+    "?"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Salut",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "leg",
+     "is"
+    ],
+    ",",
+    null,
+    [
+     "sed"
+    ],
+    null,
+    [
+     "nun"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "vol",
+     "as"
+    ],
+    null,
+    [
+     "parol",
+     "i"
+    ],
+    null,
+    [
+     "kun"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Ĉu"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "hav",
+     "as"
+    ],
+    null,
+    [
+     "bon",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "libr",
+     "o",
+     "n"
+    ],
+    "?"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Jes"
+    ],
+    ",",
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "hav",
+     "as"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "ŝat",
+     "as"
+    ],
+    null,
+    [
+     "leg",
+     "i"
+    ],
+    null,
+    [
+     "nur"
+    ],
+    null,
+    [
+     "bon",
+     "a",
+     "j",
+     "n"
+    ],
+    null,
+    [
+     "libr",
+     "o",
+     "j",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Ĉu"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "vol",
+     "as"
+    ],
+    null,
+    [
+     "trink",
+     "i"
+    ],
+    null,
+    [
+     "kaf",
+     "o",
+     "n"
+    ],
+    "?"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Jes"
+    ],
+    ".",
+    null,
+    [
+     "Ĉu"
+    ],
+    null,
+    [
+     "vi",
+     "a",
+     "j"
+    ],
+    null,
+    [
+     "ge",
+     "patr",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "ge",
+     "frat",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "vi",
+     "a"
+    ],
+    null,
+    [
+     "hejm",
+     "o"
+    ],
+    "?"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Ne"
+    ],
+    ".",
+    null,
+    [
+     "Jen"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "kaf",
+     "o"
+    ],
+    ",",
+    null,
+    [
+     "ĝi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "ankoraŭ"
+    ],
+    null,
+    [
+     "varm",
+     "a"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "nun"
+    ],
+    null,
+    [
+     "kuir",
+     "is"
+    ],
+    null,
+    [
+     "ĝi",
+     "n"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Dank",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "pov",
+     "as"
+    ],
+    null,
+    [
+     "trink",
+     "i"
+    ],
+    null,
+    [
+     "ankaŭ"
+    ],
+    null,
+    [
+     "mal",
+     "varm",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "kaf",
+     "o",
+     "n"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Marko"
+    ],
+    null,
+    [
+     "rigard",
+     "is"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "bel",
+     "a",
+     "j",
+     "n"
+    ],
+    null,
+    [
+     "okul",
+     "o",
+     "j",
+     "n"
+    ],
+    null,
+    [
+     "de"
+    ],
+    null,
+    [
+     "Ana"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "vid",
+     "as"
+    ],
+    ",",
+    null,
+    [
+     "ke"
+    ],
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "am",
+     "as"
+    ],
+    null,
+    [
+     "ŝi",
+     "n"
+    ],
+    "."
+   ]
+  ],
+  "parrafos": [
+   "Marko havas amikinon. Ŝia nomo estas Ana. Ŝi estas juna kaj bela. Ana kaj Marko estas geamikoj.",
+   "Ana venis al la hejmo de Marko.",
+   "– Bonvolu eniri, amikino.",
+   "– Saluton Marko. Kion vi faras?",
+   "– Saluton. Mi legis, sed nun mi volas paroli kun vi.",
+   "– Ĉu vi havas bonan libron?",
+   "– Jes, mi havas. Mi ŝatas legi nur bonajn librojn. Ĉu vi volas trinki kafon?",
+   "– Jes. Ĉu viaj gepatroj kaj gefratoj estas en via hejmo?",
+   "– Ne. Jen la kafo, ĝi estas ankoraŭ varma. Mi nun kuiris ĝin.",
+   "– Dankon. Mi povas trinki ankaŭ malvarman kafon.",
+   "Marko rigardis la belajn okulojn de Ana. Mi vidas, ke li amas ŝin."
+  ]
+ },
+ "gramatica_md": "# Adjetivos\n\nLos adjetivos acaban en _**-A**_.\n\n- _bel**a**_ – bello, bonito\n- _grand**a**_ – grande\n\n**💡 Truco:** nombre en *-o*, cualidad en *-a*: *amiko bona* / *bona amiko*.\n\n# Declinación\n\nSolo hay dos casos: nominativo y acusativo. Este último se forma añadiendo **-N** al nominativo. Esta terminación indica el complemento u objeto directo en sustantivos, adjetivos y pronombres.\n\n**Nominativo:**\n\n- _Vi estas bon**a** amik**o**_ – Tú eres un buen amigo\n- _Vi estas bon**aj** amik**oj**_ – Ustedes son buenos amigos / Vosotros sois buenos amigos\n\n**Acusativo:**\n\n- _Vi havas bon**an** amik**on**_ – Tienes un buen amigo\n- _Vi havas bon**ajn** amik**ojn**_ – Tienes buenos amigos\n\n**⚠️ Atención:** el acusativo *-n* se pega también al adjetivo: *bonan amikon*, no *bona amikon*.\n\nLos demás casos se forman con preposiciones. El genitivo con **de** (\"de\"), el dativo con **al** (\"a\"), el ablativo con **kun** (\"con\") o con otras preposiciones, según el sentido:\n\n- _Mi iras **kun** vi_ – Voy contigo\n- _Mi iras **al** vi_ – Voy hacia ti\n- _La teksto **de** la libro estas bona_ – El texto del libro es bueno\n\n**💡 Truco:** cuando en español pienses \"de/a/con\", en esperanto normalmente usa una preposición clara: *de*, *al*, *kun*.\n\n# Conjugación\n\n## Infinitivo: *-I*\n\n- _labor**i**_ – Trabajar\n- _manĝ**i**_ – Comer\n\n## Pasado: *-IS*\n\n- _mi hav**is**_ – Yo tenía/tuve\n- _vi hav**is**_ – Tú tenías/tuviste, ustedes tenían/tuvieron, vosotros teníais/tuvisteis\n- _li/ŝi/ĝi hav**is**_ – Él/Ella/\"Ello\" tenía/tuvo\n- _mi manĝ**is**_ – Yo comía/comí\n\n**💡 Truco:** las vocales del tiempo forman una serie fácil: *-i* infinitivo, *-a* presente, *-i* pasado con *-is*, *-o* futuro con *-os*.\n\n## Futuro: *-OS*\n\n- _mi manĝ**os**_ – Yo comeré\n- _li manĝ**os**_ – Él comerá\n- _ili manĝ**os**_ – Ellos/Ellas comerán\n\n**⚠️ Atención:** *-is* puede traducirse como pretérito o imperfecto según el contexto: *havis* = \"tuvo\" o \"tenía\".\n\n# Conjunción *ke*\n\nEn español la palabra \"que\" tiene diversos sentidos. La conjunción copulativa \"que\" es en esperanto **KE**:\n\n- _Vi vidas **ke** mi manĝas_ – (Tú) ves que (yo) como\n- _Mi diras **ke** ŝi venos_ – Digo que ella vendrá\n\nSe suele utilizar de forma indirecta, con verbos como: decir, creer, opinar, ver, querer, obligar a que, etc.\n\n**💡 Truco:** cuando en español dices \"veo que...\", \"digo que...\", casi siempre puedes usar *ke*.\n\n# Prefijo *mal-*\n\nIndica la idea contraria u opuesta a la expresada por la raíz:\n\n- *bona* – bueno\n  - _**mal**bona_ – malo\n- *granda* – grande\n  - _**mal**granda_ – pequeño\n- *bela* – bonito, bello\n  - _**mal**bela_ – feo\n\n**💡 Truco:** *mal-* no significa \"mal hecho\"; invierte la idea: *bona* → *malbona*, *granda* → *malgranda*.\n\n# Prefijo *ge-*\n\nIndica un grupo mixto de personas de ambos sexos.\n\n- _**ge**amikoj_ – amigos y amigas\n- _**ge**patroj_ – padres (= padre y madre, padres y madres)\n\n**⚠️ Atención:** *ge-* siempre habla de un grupo mixto; no lo uses para una sola persona.\n\n# Expresiones de cortesía\n\n- _**bonvolu**_ – por favor\n- _**dankon**_ – gracias\n- _**saluton**_ – hola\n\n# Orden de las palabras\n\nEs libre, gracias al acusativo.\n\n- *Li amas ŝin* – Él la ama (a ella)\n- *Ŝin amas li* – Él la ama (a ella)\n\n**💡 Truco:** busca la *-n* para saber quién recibe la acción, aunque cambie el orden.\n\n# Qué\n\n\"Qué\", con el significado de \"qué cosa\", se traduce:\n\n1. KIO\n   - *Kio estas sur la tablo? La libro estas sur la tablo.* (¿Qué hay sobre la mesa? = ¿Qué cosa...?)\n2. KION\n   - _Kio**n** vi vidas?_ (¿Qué ves?)\n   - _Homo**n** mi vidas_ – Veo un hombre, un ser humano En este caso lleva **-N** de acusativo, por ser objeto directo.\n\nNunca se utiliza antes de un nombre. Correcto: Kiu homo ŝi estas?; kiun belan kukon ŝi manĝas? Incorrecto: Kio homo...; kion belan kukon...\n\n**⚠️ Atención:** antes de un sustantivo usa *kiu/kia*, no *kio*: *kiu homo*, *kia aŭto*.\n",
+ "raices_nuevas": [
+  "demand",
+  "dom",
+  "facil",
+  "grand",
+  "kia",
+  "mon",
+  "nov",
+  "pri",
+  "se",
+  "tre",
+  "dir"
+ ],
+ "cartas": [
+  {
+   "id": "L02-palabra-ca242b31",
+   "tipo": "palabra",
+   "lec": 2,
+   "es": "entrar",
+   "eo": "eniri",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-palabra-5df882c8",
+   "tipo": "palabra",
+   "lec": 2,
+   "es": "contenido",
+   "eo": "enhavo",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-palabra-936a9653",
+   "tipo": "palabra",
+   "lec": 2,
+   "es": "reunión",
+   "eo": "kunsido",
+   "aceptadas": [
+    "kunveno"
+   ]
+  },
+  {
+   "id": "L02-palabra-c3616d2b",
+   "tipo": "palabra",
+   "lec": 2,
+   "es": "malo",
+   "eo": "malbona",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-palabra-0e7176c1",
+   "tipo": "palabra",
+   "lec": 2,
+   "es": "difícil",
+   "eo": "malfacila",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-palabra-7c0c36d5",
+   "tipo": "palabra",
+   "lec": 2,
+   "es": "viejo",
+   "eo": "maljuna",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-palabra-199fac97",
+   "tipo": "palabra",
+   "lec": 2,
+   "es": "padres",
+   "eo": "gepatroj",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-palabra-d8b0d756",
+   "tipo": "palabra",
+   "lec": 2,
+   "es": "llegar",
+   "eo": "alveni",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-palabra-ef59eb2f",
+   "tipo": "palabra",
+   "lec": 2,
+   "es": "bienvenido",
+   "eo": "bonvena",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-palabra-1c8a2acb",
+   "tipo": "palabra",
+   "lec": 2,
+   "es": "hermanos y hermanas",
+   "eo": "gefratoj",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-palabra-d6b31b20",
+   "tipo": "palabra",
+   "lec": 2,
+   "es": "propina",
+   "eo": "trinkmono",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-palabra-0feaae2c",
+   "tipo": "palabra",
+   "lec": 2,
+   "es": "odiar",
+   "eo": "malami",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-palabra-6f50f619",
+   "tipo": "palabra",
+   "lec": 2,
+   "es": "colaborar",
+   "eo": "kunlabori",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-frase-57fe7385",
+   "tipo": "frase",
+   "lec": 2,
+   "es": "Marko tiene un amigo y una amiga. Son amigos.",
+   "eo": "Marko havas amikon kaj amikinon. Ili estas geamikoj.",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-cloze-edf2788c",
+   "tipo": "cloze",
+   "lec": 2,
+   "es": "Marko tiene un amigo y una amiga. Son amigos.",
+   "eo": "Marko havas amikon kaj amikinon. Ili estas geamikoj.",
+   "plantilla": "Marko havas amik{0} kaj amikin{1}. Ili estas {2}amikoj.",
+   "huecos": [
+    "on",
+    "on",
+    "ge"
+   ]
+  },
+  {
+   "id": "L02-frase-c8dc4806",
+   "tipo": "frase",
+   "lec": 2,
+   "es": "Él hace café y lo beben en nuestra casa.",
+   "eo": "Li kuiras kafon kaj ili trinkas ĝin en nia hejmo.",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-cloze-c531a726",
+   "tipo": "cloze",
+   "lec": 2,
+   "es": "Él hace café y lo beben en nuestra casa.",
+   "eo": "Li kuiras kafon kaj ili trinkas ĝin en nia hejmo.",
+   "plantilla": "Li kuiras kaf{0} kaj ili trinkas ĝi{1} en nia hejmo.",
+   "huecos": [
+    "on",
+    "n"
+   ]
+  },
+  {
+   "id": "L02-frase-91210b96",
+   "tipo": "frase",
+   "lec": 2,
+   "es": "Van al hotel.",
+   "eo": "Ili iras al la hotelo.",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-cloze-0f65a710",
+   "tipo": "cloze",
+   "lec": 2,
+   "es": "Van al hotel.",
+   "eo": "Ili iras al la hotelo.",
+   "plantilla": "Ili iras {0} la hotelo.",
+   "huecos": [
+    "al"
+   ]
+  },
+  {
+   "id": "L02-frase-d3b4d0ee",
+   "tipo": "frase",
+   "lec": 2,
+   "es": "Ella ve que Marko la ama.",
+   "eo": "Ŝi vidas, ke Marko amas ŝin.",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-cloze-26f1e5ff",
+   "tipo": "cloze",
+   "lec": 2,
+   "es": "Ella ve que Marko la ama.",
+   "eo": "Ŝi vidas, ke Marko amas ŝin.",
+   "plantilla": "Ŝi vidas, {0} Marko amas ŝi{1}.",
+   "huecos": [
+    "ke",
+    "n"
+   ]
+  },
+  {
+   "id": "L02-frase-38d5dbee",
+   "tipo": "frase",
+   "lec": 2,
+   "es": "Tienen libros de texto fáciles.",
+   "eo": "Ili havas facilajn lernolibrojn.",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-cloze-9d41eaa2",
+   "tipo": "cloze",
+   "lec": 2,
+   "es": "Tienen libros de texto fáciles.",
+   "eo": "Ili havas facilajn lernolibrojn.",
+   "plantilla": "Ili havas facil{0} lernolibroj{1}.",
+   "huecos": [
+    "ajn",
+    "n"
+   ]
+  },
+  {
+   "id": "L02-pregunta-7d3496eb",
+   "tipo": "pregunta",
+   "lec": 2,
+   "es": "¿Cómo era tu antigua casa?",
+   "eo": "Kia estis via malnova hejmo?",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-pregunta-043ebbea",
+   "tipo": "pregunta",
+   "lec": 2,
+   "es": "¿Qué libros has leído, y eran buenos?",
+   "eo": "Kiujn librojn vi legis kaj ĉu ili estas bonaj?",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-pregunta-c66ba0cb",
+   "tipo": "pregunta",
+   "lec": 2,
+   "es": "¿Qué hicieron Ana y Marko en la pequeña habitación de Marko?",
+   "eo": "Kion faris Ana kaj Marko en la malgranda ĉambro de Marko?",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-pregunta-683fe190",
+   "tipo": "pregunta",
+   "lec": 2,
+   "es": "¿Te gusta leer libros de amor?",
+   "eo": "Ĉu vi ŝatas legi librojn pri amo?",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-pregunta-08ffc1c3",
+   "tipo": "pregunta",
+   "lec": 2,
+   "es": "¿Quién irá contigo a tu casa?",
+   "eo": "Kiu iros kun vi al via hejmo?",
+   "aceptadas": []
+  },
+  {
+   "id": "L02-pregunta-8d2603e5",
+   "tipo": "pregunta",
+   "lec": 2,
+   "es": "¿Cómo son los ojos de tu amiga?",
+   "eo": "Kiaj estas la okuloj de via amikino?",
+   "aceptadas": []
+  }
+ ],
+ "fuente": {
+  "repositorio": "https://github.com/Esperanto/kurso-zagreba-metodo",
+  "lengua": "es"
+ }
+}

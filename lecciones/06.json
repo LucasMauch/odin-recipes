@@ -1,0 +1,988 @@
+{
+ "id": "06",
+ "numero": 6,
+ "titulo": "Maja",
+ "texto": {
+  "licencia": "CC BY-ND 4.0",
+  "titolo_morfemas": [
+   [
+    "Maja"
+   ]
+  ],
+  "paragrafoj_morfemas": [
+   [
+    [
+     "Maja"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "bel",
+     "et",
+     "a"
+    ],
+    null,
+    [
+     "jun",
+     "ul",
+     "in",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Ĉiu",
+     "j"
+    ],
+    null,
+    [
+     "ŝi",
+     "a",
+     "j"
+    ],
+    null,
+    [
+     "ge",
+     "amik",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "am",
+     "as"
+    ],
+    null,
+    [
+     "ŝi",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Antaŭ"
+    ],
+    null,
+    [
+     "tri"
+    ],
+    null,
+    [
+     "tag",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "mal",
+     "bon",
+     "o"
+    ],
+    null,
+    [
+     "okaz",
+     "is"
+    ],
+    ":",
+    null,
+    [
+     "sur"
+    ],
+    null,
+    [
+     "strat",
+     "o"
+    ],
+    null,
+    [
+     "aŭt",
+     "o"
+    ],
+    null,
+    [
+     "fal",
+     "ig",
+     "is"
+    ],
+    null,
+    [
+     "ŝi",
+     "n"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Maja"
+    ],
+    null,
+    [
+     "mal",
+     "san",
+     "iĝ",
+     "is"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "hav",
+     "as"
+    ],
+    null,
+    [
+     "alt",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "temperatur",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Ŝi",
+     "a"
+    ],
+    null,
+    [
+     "patr",
+     "in",
+     "o"
+    ],
+    null,
+    [
+     "dir",
+     "is"
+    ],
+    ",",
+    null,
+    [
+     "ke"
+    ],
+    null,
+    [
+     "ŝi"
+    ],
+    null,
+    [
+     "dev",
+     "as"
+    ],
+    null,
+    [
+     "rest",
+     "i"
+    ],
+    null,
+    [
+     "hejm",
+     "e"
+    ],
+    ".",
+    null,
+    [
+     "Morgaŭ"
+    ],
+    null,
+    [
+     "ŝi"
+    ],
+    null,
+    [
+     "vok",
+     "os"
+    ],
+    null,
+    [
+     "doktor",
+     "o",
+     "n"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "La"
+    ],
+    null,
+    [
+     "doktor",
+     "o"
+    ],
+    null,
+    [
+     "ven",
+     "is"
+    ],
+    null,
+    [
+     "je"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "naŭ",
+     "a"
+    ],
+    null,
+    [
+     "hor",
+     "o"
+    ],
+    null,
+    [
+     "por"
+    ],
+    null,
+    [
+     "help",
+     "i"
+    ],
+    null,
+    [
+     "al"
+    ],
+    null,
+    [
+     "Maja"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Dir",
+     "u"
+    ],
+    null,
+    "\"A\"",
+    null,
+    "…",
+    [
+     "montr",
+     "u"
+    ],
+    null,
+    [
+     "vi",
+     "a",
+     "j",
+     "n"
+    ],
+    null,
+    [
+     "man",
+     "o",
+     "j",
+     "n"
+    ],
+    null,
+    "…",
+    null,
+    [
+     "montr",
+     "u"
+    ],
+    null,
+    [
+     "vi",
+     "a",
+     "j",
+     "n"
+    ],
+    null,
+    [
+     "pied",
+     "o",
+     "j",
+     "n"
+    ],
+    null,
+    "…",
+    null,
+    [
+     "mal",
+     "vest",
+     "u"
+    ],
+    null,
+    [
+     "vi",
+     "n"
+    ],
+    "!"
+   ],
+   [
+    [
+     "La"
+    ],
+    null,
+    [
+     "doktor",
+     "o"
+    ],
+    null,
+    [
+     "ĉio",
+     "n"
+    ],
+    null,
+    [
+     "bon",
+     "e"
+    ],
+    null,
+    [
+     "rigard",
+     "is"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "fine"
+    ],
+    null,
+    [
+     "dir",
+     "is"
+    ],
+    ":"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Unu"
+    ],
+    null,
+    [
+     "semajn",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "rest",
+     "u"
+    ],
+    null,
+    [
+     "hejm",
+     "e"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    "…",
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "ir",
+     "u"
+    ],
+    null,
+    [
+     "sub"
+    ],
+    null,
+    [
+     "aŭt",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Trink",
+     "u"
+    ],
+    null,
+    [
+     "mult",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "te",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "maten",
+     "e"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "vesper",
+     "e"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "dezir",
+     "as"
+    ],
+    ",",
+    null,
+    [
+     "ke"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "est",
+     "u"
+    ],
+    null,
+    [
+     "trankvil",
+     "a"
+    ],
+    ".",
+    null,
+    [
+     "Post"
+    ],
+    null,
+    [
+     "unu"
+    ],
+    null,
+    [
+     "semajn",
+     "o"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "fart",
+     "os"
+    ],
+    null,
+    [
+     "pli"
+    ],
+    null,
+    [
+     "bon",
+     "e"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "ven",
+     "os"
+    ],
+    null,
+    [
+     "por"
+    ],
+    null,
+    [
+     "re",
+     "vid",
+     "i"
+    ],
+    null,
+    [
+     "vi",
+     "n"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Sinjor",
+     "o"
+    ],
+    null,
+    [
+     "doktor",
+     "o"
+    ],
+    ",",
+    null,
+    [
+     "ĉu"
+    ],
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    null,
+    [
+     "bon",
+     "eg",
+     "a"
+    ],
+    null,
+    [
+     "amik",
+     "o"
+    ],
+    null,
+    [
+     "Karlo"
+    ],
+    null,
+    [
+     "pov",
+     "as"
+    ],
+    null,
+    [
+     "ven",
+     "i"
+    ],
+    null,
+    [
+     "vid",
+     "i"
+    ],
+    null,
+    [
+     "mi",
+     "n"
+    ],
+    "?"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Hm"
+    ],
+    ",",
+    null,
+    [
+     "jes"
+    ],
+    null,
+    "…",
+    null,
+    [
+     "jes"
+    ],
+    ".",
+    null,
+    [
+     "Li"
+    ],
+    null,
+    [
+     "pov",
+     "as"
+    ],
+    null,
+    [
+     "ven",
+     "i"
+    ],
+    null,
+    "…",
+    null,
+    [
+     "sed"
+    ],
+    null,
+    [
+     "ankaŭ"
+    ],
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "est",
+     "u"
+    ],
+    null,
+    [
+     "trankvil",
+     "a"
+    ],
+    "."
+   ]
+  ],
+  "parrafos": [
+   "Maja estas beleta junulino. Ĉiuj ŝiaj geamikoj amas ŝin. Antaŭ tri tagoj malbono okazis: sur strato aŭto faligis ŝin.",
+   "Maja malsaniĝis kaj havas altan temperaturon. Ŝia patrino diris, ke ŝi devas resti hejme. Morgaŭ ŝi vokos doktoron.",
+   "La doktoro venis je la naŭa horo por helpi al Maja.",
+   "– Diru \"A\" …montru viajn manojn … montru viajn piedojn … malvestu vin!",
+   "La doktoro ĉion bone rigardis kaj fine diris:",
+   "– Unu semajnon restu hejme kaj … ne iru sub aŭton. Trinku multan teon matene kaj vespere. Mi deziras, ke vi estu trankvila. Post unu semajno vi fartos pli bone. Mi venos por revidi vin.",
+   "– Sinjoro doktoro, ĉu mia bonega amiko Karlo povas veni vidi min?",
+   "– Hm, jes … jes. Li povas veni … sed ankaŭ li estu trankvila."
+  ]
+ },
+ "gramatica_md": "# Volitivo\n\nEl esperanto carece de modo subjuntivo. El volitivo (que no es solo imperativo) se usa:\n\na) Cuando el verbo expresa, directamente o indirectamente, orden, deseo, voluntad, mandato, ruego, permiso, consejo, encargo\n\n- _Mi **deziras**, **ke** vi lern**u**._ – Deseo que aprendas\n- _La patro **volas**, **ke** mi ir**u**._ – El padre quiere que vaya\n\nb) Después de \"para que\" o similares (\"a fin de que, con el objeto de que, etc.\"):\n\n- _Mi **eliras**, **por ke** vi leg**u** trankvile._ – Salgo para que leas tranquilamente\n\nEn todos los demás casos se usa el indicativo.\n\n**💡 Truco:** cuando en español aparece \"quiero que...\" o \"para que...\", revisa si en esperanto necesitas *-u*.\n\n**⚠️ Atención:** no uses *-u* para cualquier subjuntivo español; úsalo cuando hay deseo, orden, finalidad o petición.\n\n# Preposición *je*\n\nLa preposición comodín o indeterminada **je** se usa cuando el sentido de la frase no nos indica claramente qué preposición debemos emplear.\n\n- _**Je** kioma horo vi venos?_ – ¿A qué hora vendrás?\n- _**Je** la oka horo._ – A las ocho.\n\nAl decir la hora deben usarse los números ordinales: _je la kvin**a**_ (= a las cinco). La palabra **horo** puede no decirse si la frase queda clara: *mi venos je la oka (horo)*.\n\n**💡 Truco:** para la hora piensa \"a la octava\": *je la oka* = a las ocho.\n\n# El verbo *farti*\n\nLa palabra **farti** significa \"encontrarse (bien/mal...) o estar de salud\".\n\n- _Kiel vi **fartas**?_ – ¿Cómo estás? / ¿Qué tal (estás)?\n\nNo se dice \"Kiel vi estas?\".\n\n**⚠️ Atención:** para preguntar por la salud o estado de alguien se usa *farti*, no *esti*.\n\n# Sufijo *-et-*\n\nIndica el diminutivo o un grado menor:\n\n- _libr**et**o_ – Librito\n- _varm**et**a_ – Calentito, tibio\n- *eta* = malgranda\n\n**💡 Truco:** *-et-* suaviza o empequeñece: *varma* → *varmeta*, *libro* → *libreto*.\n\n# Sufijo *-eg-*\n\nIndica el aumentativo o un grado mayor:\n\n- _varm**eg**a_ – Abrasador\n- _bel**eg**a_ – Bellísimo/a\n- _ĉambr**eg**o_ – Habitación enorme\n\n**💡 Truco:** *-eg-* agranda o intensifica: *bona* → *bonega*, *varma* → *varmega*.\n\n# Sufijo *-iĝ-*\n\nSignifica \"hacerse, volverse\":\n\n- *beliĝi* – Hacerse bello\n- *trankviliĝi* – Tranquilizarse\n- *riĉiĝi* – Hacerse rico\n- _sid**iĝ**i_ – Sentarse\n\n**⚠️ Atención:** *-iĝ-* no significa \"hacer a otro\"; significa que el sujeto cambia de estado.\n",
+ "raices_nuevas": [
+  "bezon",
+  "esper",
+  "famili",
+  "foj",
+  "hieraŭ",
+  "hodiaŭ",
+  "infan",
+  "kar",
+  "land",
+  "loĝ",
+  "neces",
+  "pens",
+  "pet",
+  "proksim",
+  "rimark",
+  "terur",
+  "tuj",
+  "tut",
+  "util",
+  "zorg"
+ ],
+ "cartas": [
+  {
+   "id": "L06-palabra-2378e811",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "cartero",
+   "eo": "leterportisto",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-27a97304",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "patria",
+   "eo": "hejmlando",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-f9281fda",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "un poquito",
+   "eo": "iomete",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-fbbe9db6",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "muy bien",
+   "eo": "bonege",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-5c31e93f",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "cena",
+   "eo": "vespermanĝo",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-4a6ccb1b",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "ocuparse de",
+   "eo": "prizorgi",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-6f1a3035",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "con suerte",
+   "eo": "espereble",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-59cf806e",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "de alta calidad",
+   "eo": "altkvalita",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-c3928f63",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "reflexionar",
+   "eo": "pripensi",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-db6a014b",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "quitar",
+   "eo": "depreni",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-36fb1603",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "casa",
+   "eo": "loĝejo",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-d9007442",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "dos veces",
+   "eo": "dufoje",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-76f332f6",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "muchas veces",
+   "eo": "multfoje",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-2dddf98b",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "llamarse",
+   "eo": "nomiĝi",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-a5570040",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "ponerse rojo",
+   "eo": "ruĝiĝi",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-83231fb1",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "librito",
+   "eo": "libreto",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-palabra-04bf39f2",
+   "tipo": "palabra",
+   "lec": 6,
+   "es": "abrasador",
+   "eo": "varmega",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-frase-24ffbdf9",
+   "tipo": "frase",
+   "lec": 6,
+   "es": "Los padres siempre desean que aprenda mucho.",
+   "eo": "La gepatroj ĉiam deziras, ke mi lernu multon.",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-cloze-b630d30e",
+   "tipo": "cloze",
+   "lec": 6,
+   "es": "Los padres siempre desean que aprenda mucho.",
+   "eo": "La gepatroj ĉiam deziras, ke mi lernu multon.",
+   "plantilla": "La gepatroj ĉiam deziras, ke mi lern{0} mult{1}.",
+   "huecos": [
+    "u",
+    "on"
+   ]
+  },
+  {
+   "id": "L06-frase-a5674719",
+   "tipo": "frase",
+   "lec": 6,
+   "es": "Mi amigo desea que vaya a cantar con él.",
+   "eo": "Mia amiko deziras, ke mi iru kanti kun li.",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-cloze-e24baa30",
+   "tipo": "cloze",
+   "lec": 6,
+   "es": "Mi amigo desea que vaya a cantar con él.",
+   "eo": "Mia amiko deziras, ke mi iru kanti kun li.",
+   "plantilla": "Mia amiko deziras, ke mi ir{0} kant{1} kun li.",
+   "huecos": [
+    "u",
+    "i"
+   ]
+  },
+  {
+   "id": "L06-frase-0e924b7c",
+   "tipo": "frase",
+   "lec": 6,
+   "es": "El padre quiere que su hijo se coma el pastel que está sobre la mesa.",
+   "eo": "La patro volas, ke lia infano manĝu kukon, kiu estas sur la tablo.",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-cloze-e17e2d39",
+   "tipo": "cloze",
+   "lec": 6,
+   "es": "El padre quiere que su hijo se coma el pastel que está sobre la mesa.",
+   "eo": "La patro volas, ke lia infano manĝu kukon, kiu estas sur la tablo.",
+   "plantilla": "La patro volas, ke lia infano manĝ{0} kukon, {1} estas sur la tablo.",
+   "huecos": [
+    "u",
+    "kiu"
+   ]
+  },
+  {
+   "id": "L06-frase-d0bf8b07",
+   "tipo": "frase",
+   "lec": 6,
+   "es": "Vivimos en una habitación pequeña.",
+   "eo": "Ni loĝas en malgranda ĉambro.",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-cloze-215f62dc",
+   "tipo": "cloze",
+   "lec": 6,
+   "es": "Vivimos en una habitación pequeña.",
+   "eo": "Ni loĝas en malgranda ĉambro.",
+   "plantilla": "Ni loĝas en malgranda ĉambr{0}.",
+   "huecos": [
+    "o"
+   ]
+  },
+  {
+   "id": "L06-frase-31c33fba",
+   "tipo": "frase",
+   "lec": 6,
+   "es": "Me inquieté cuando te vi.",
+   "eo": "Mi fariĝis maltrankvila, kiam mi vidis vin.",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-cloze-1de846de",
+   "tipo": "cloze",
+   "lec": 6,
+   "es": "Me inquieté cuando te vi.",
+   "eo": "Mi fariĝis maltrankvila, kiam mi vidis vin.",
+   "plantilla": "Mi far{0}is maltrankvila, kiam mi vidis vin.",
+   "huecos": [
+    "iĝ"
+   ]
+  },
+  {
+   "id": "L06-frase-63fd5462",
+   "tipo": "frase",
+   "lec": 6,
+   "es": "Todos notaron que ella es muy hermosa.",
+   "eo": "Ĉiuj rimarkis, ke ŝi estas belega.",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-cloze-93a7d254",
+   "tipo": "cloze",
+   "lec": 6,
+   "es": "Todos notaron que ella es muy hermosa.",
+   "eo": "Ĉiuj rimarkis, ke ŝi estas belega.",
+   "plantilla": "Ĉiuj rimarkis, ke ŝi estas bel{0}a.",
+   "huecos": [
+    "eg"
+   ]
+  },
+  {
+   "id": "L06-pregunta-4f70cb19",
+   "tipo": "pregunta",
+   "lec": 6,
+   "es": "¿Deseas que te muestre mi libro más reciente?",
+   "eo": "Ĉu vi deziras, ke mi montru al vi mian plej novan libron?",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-pregunta-0263d997",
+   "tipo": "pregunta",
+   "lec": 6,
+   "es": "¿Qué quieres desayunar mañana?",
+   "eo": "Kion vi volas morgaŭ matenmanĝi?",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-pregunta-b568b519",
+   "tipo": "pregunta",
+   "lec": 6,
+   "es": "¿Cuándo llega Marko, a las cinco o a las ocho?",
+   "eo": "Kiam Marko alvenos, je la kvina aŭ je la oka horo?",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-pregunta-2f63afff",
+   "tipo": "pregunta",
+   "lec": 6,
+   "es": "¿Cuándo te diste cuenta de que la familia entera me llama benefactor?",
+   "eo": "Kiam vi rimarkis, ke la tuta familio nomas min bonfarulo?",
+   "aceptadas": []
+  },
+  {
+   "id": "L06-pregunta-c68210c5",
+   "tipo": "pregunta",
+   "lec": 6,
+   "es": "¿Era útil el librito que te envié?",
+   "eo": "Ĉu la libreto, kiun mi sendis al vi, estis utila?",
+   "aceptadas": []
+  }
+ ],
+ "fuente": {
+  "repositorio": "https://github.com/Esperanto/kurso-zagreba-metodo",
+  "lengua": "es"
+ }
+}

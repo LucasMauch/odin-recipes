@@ -1,0 +1,13 @@
+{
+  "name": "esperanto-mia-vojo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Esperanto en 12 lecciones: app de estudio todo en uno",
+  "scripts": {
+    "test": "node --test tests/*.test.js && python3 -m unittest discover -s tests -p 'test_*.py'",
+    "build": "node tools/build.mjs",
+    "serve": "node tools/build.mjs && python3 -m http.server 8000 -d dist"
+  },
+  "license": "MIT"
+}

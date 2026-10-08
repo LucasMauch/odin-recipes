@@ -1,0 +1,1122 @@
+{
+ "id": "08",
+ "numero": 8,
+ "titulo": "Malbela tago",
+ "texto": {
+  "licencia": "CC BY-ND 4.0",
+  "titolo_morfemas": [
+   [
+    "Mal",
+    "bel",
+    "a"
+   ],
+   null,
+   [
+    "tag",
+    "o"
+   ]
+  ],
+  "paragrafoj_morfemas": [
+   [
+    [
+     "Hodiaŭ"
+    ],
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    null,
+    [
+     "patr",
+     "in",
+     "o"
+    ],
+    null,
+    [
+     "est",
+     "is"
+    ],
+    null,
+    [
+     "tre"
+    ],
+    null,
+    [
+     "mal",
+     "trankvil",
+     "a"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "ven",
+     "is"
+    ],
+    null,
+    [
+     "el"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "lern",
+     "ej",
+     "o"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "raport",
+     "is"
+    ],
+    null,
+    [
+     "al"
+    ],
+    null,
+    [
+     "ŝi"
+    ],
+    ",",
+    null,
+    [
+     "ke"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "ricev",
+     "is"
+    ],
+    null,
+    [
+     "mal",
+     "bon",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "not",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Ŝi"
+    ],
+    null,
+    [
+     "dir",
+     "is"
+    ],
+    ":",
+    null,
+    "\"",
+    [
+     "Knab",
+     "aĉ",
+     "o"
+    ],
+    ",",
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "dev",
+     "as"
+    ],
+    null,
+    [
+     "pli"
+    ],
+    null,
+    [
+     "mult",
+     "e"
+    ],
+    null,
+    [
+     "labor",
+     "ig",
+     "i"
+    ],
+    null,
+    [
+     "vi",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "kap",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Kiom"
+    ],
+    null,
+    [
+     "da"
+    ],
+    null,
+    [
+     "mal",
+     "bon",
+     "a",
+     "j"
+    ],
+    null,
+    [
+     "not",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "hav",
+     "as"
+    ],
+    "?",
+    "."
+   ],
+   [
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "est",
+     "is"
+    ],
+    null,
+    [
+     "mal",
+     "ĝoj",
+     "a"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Ir",
+     "u"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "vi",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "ĉambr",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "lern",
+     "u"
+    ],
+    "!",
+    null,
+    "–",
+    null,
+    [
+     "ŝi"
+    ],
+    null,
+    [
+     "dir",
+     "is"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "sid",
+     "is"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    null,
+    [
+     "ĉambr",
+     "o"
+    ],
+    ",",
+    null,
+    [
+     "sed"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "pov",
+     "is"
+    ],
+    null,
+    [
+     "nek"
+    ],
+    null,
+    [
+     "lern",
+     "i"
+    ],
+    null,
+    [
+     "nek"
+    ],
+    null,
+    [
+     "leg",
+     "i"
+    ],
+    ".",
+    null,
+    [
+     "Mi",
+     "a",
+     "j"
+    ],
+    null,
+    [
+     "pens",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "est",
+     "is"
+    ],
+    null,
+    [
+     "ĉe"
+    ],
+    null,
+    [
+     "lud",
+     "o"
+    ],
+    null,
+    [
+     "kun"
+    ],
+    null,
+    [
+     "mi",
+     "a",
+     "j"
+    ],
+    null,
+    [
+     "amik",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "ĉe"
+    ],
+    null,
+    [
+     "sport",
+     "o"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "dir",
+     "is"
+    ],
+    null,
+    [
+     "al"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "mem"
+    ],
+    ":",
+    null,
+    [
+     "Ĉu"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "tiom"
+    ],
+    null,
+    [
+     "mal",
+     "saĝ",
+     "a"
+    ],
+    ",",
+    null,
+    [
+     "kvankam"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "lern",
+     "is"
+    ],
+    null,
+    [
+     "mult",
+     "e"
+    ],
+    "?"
+   ],
+   [
+    null,
+    [
+     "Tiam"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "patr",
+     "in",
+     "o"
+    ],
+    null,
+    [
+     "en",
+     "ir",
+     "is"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "ĉambr",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "aŭd",
+     "is"
+    ],
+    null,
+    [
+     "mi",
+     "a",
+     "j",
+     "n"
+    ],
+    null,
+    [
+     "vort",
+     "o",
+     "j",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Ŝi"
+    ],
+    null,
+    [
+     "tuj"
+    ],
+    null,
+    [
+     "respond",
+     "is"
+    ],
+    ":"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Ne"
+    ],
+    ",",
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    null,
+    [
+     "kar",
+     "a"
+    ],
+    ",",
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "mal",
+     "saĝ",
+     "a"
+    ],
+    ".",
+    null,
+    [
+     "La"
+    ],
+    null,
+    [
+     "problem",
+     "o"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    ",",
+    null,
+    [
+     "ke"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "dev",
+     "as"
+    ],
+    null,
+    [
+     "lern",
+     "i"
+    ],
+    null,
+    [
+     "mult",
+     "e"
+    ],
+    null,
+    [
+     "pli"
+    ],
+    ".",
+    null,
+    [
+     "Tiam"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "hav",
+     "os"
+    ],
+    null,
+    [
+     "nur"
+    ],
+    null,
+    [
+     "mal",
+     "bon",
+     "a",
+     "j",
+     "n"
+    ],
+    null,
+    [
+     "not",
+     "o",
+     "j",
+     "n"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Ankaŭ"
+    ],
+    null,
+    [
+     "nun"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "hav",
+     "as"
+    ],
+    null,
+    [
+     "ili",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "hav",
+     "as"
+    ],
+    null,
+    [
+     "bon",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "not",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "pri"
+    ],
+    null,
+    [
+     "muzik",
+     "o"
+    ],
+    null,
+    "–",
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "dir",
+     "is"
+    ],
+    "."
+   ],
+   [
+    [
+     "La"
+    ],
+    null,
+    [
+     "patr",
+     "in",
+     "o"
+    ],
+    null,
+    [
+     "subit",
+     "e"
+    ],
+    null,
+    [
+     "ek",
+     "rid",
+     "is"
+    ],
+    ".",
+    null,
+    [
+     "Tio"
+    ],
+    null,
+    [
+     "de",
+     "nov",
+     "e"
+    ],
+    null,
+    [
+     "pli",
+     "bel",
+     "ig",
+     "is"
+    ],
+    null,
+    [
+     "mi",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "tag",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Sed"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "problem",
+     "o"
+    ],
+    null,
+    [
+     "tamen"
+    ],
+    null,
+    [
+     "rest",
+     "is"
+    ],
+    "."
+   ]
+  ],
+  "parrafos": [
+   "Hodiaŭ mia patrino estis tre maltrankvila. Mi venis el la lernejo kaj raportis al ŝi, ke mi ricevis malbonan noton. Ŝi diris: \"Knabaĉo, vi devas pli multe laborigi vian kapon. Kiom da malbonaj notoj vi havas?.",
+   "Mi estis malĝoja.",
+   "– Iru en vian ĉambron kaj lernu! – ŝi diris.",
+   "Mi sidis en mia ĉambro, sed mi povis nek lerni nek legi. Miaj pensoj estis ĉe ludo kun miaj amikoj kaj ĉe sporto.",
+   "Mi diris al mi mem: Ĉu mi estas tiom malsaĝa, kvankam mi lernis multe?",
+   "Tiam la patrino eniris en la ĉambron kaj aŭdis miajn vortojn. Ŝi tuj respondis:",
+   "– Ne, mia kara, vi ne estas malsaĝa. La problemo estas, ke vi devas lerni multe pli. Tiam vi ne havos nur malbonajn notojn.",
+   "Ankaŭ nun mi ne havas ilin. Mi havas bonan noton pri muziko – mi diris.",
+   "La patrino subite ekridis. Tio denove plibeligis mian tagon. Sed la problemo tamen restis."
+  ]
+ },
+ "gramatica_md": "# Preposición *da*\n\nLa preposición **da** se usa después de palabras que indican cantidad o medida:\n\n- *kiom da jaroj?* – \"¿Cuánto de años\" = ¿Cuántos años?\n- _kilogramo **da** sukero_ – un kilo de azúcar\n- _glaso **da** akvo_ – un vaso de agua\n\nSe usa **de** en vez de **da** antes del artículo (**la**), de los demostrativos, posesivos y numerales. Antes de los pronombres personales se puede usar **da** o **el**.\n\n**💡 Truco:** *da* va después de una cantidad: *glaso da akvo*, *multe da homoj*.\n\n**⚠️ Atención:** ante *la*, demostrativos o posesivos usa *de*, no *da*: *glaso de la akvo*.\n\n# Sufijo *-ig-*\n\nSignifica \"hacer, volver, hacer que, convertir en\":\n\n- _bel**ig**i_ – hacer bello, embellecer\n- _malbon**ig**i_ – hacer malo, estropear...\n- _malplen**ig**i_ – vaciar\n- _varm**ig**i_ – calentar\n- _mort**ig**i_ – matar\n- _dorm**ig**i_ – adormecer, dormir (a alguien)\n\n**💡 Truco:** *-ig-* hace que algo ocurra: *varma* → *varmigi* (\"hacer caliente\").\n\n**⚠️ Atención:** *-ig-* actúa sobre algo o alguien; no lo confundas con *-iĝ-*, donde el sujeto cambia solo.\n\n# Sufijo *-aĉ-*\n\nEs un sufijo con significado despectivo:\n\n- _hotel**aĉ**o_ – Hotel**uch**o, hotel de mala calidad...\n- _parol**aĉ**i_ – Hablar ininteligiblemente o groseramente\n- _vin**aĉ**o_ – Vino de mala calidad\n- *aĉa* – Asqueroso/a\n\n**⚠️ Atención:** *-aĉ-* es despectivo. Úsalo solo cuando quieras expresar mala calidad o desprecio.\n",
+ "raices_nuevas": [
+  "ag",
+  "aper",
+  "best",
+  "decid",
+  "dolor",
+  "glas",
+  "kelk",
+  "kontraŭ",
+  "klub",
+  "mort",
+  "oft",
+  "ord",
+  "plor",
+  "polic",
+  "pro",
+  "pur",
+  "sent",
+  "sovaĝ",
+  "super",
+  "ten",
+  "tim",
+  "trans",
+  "vin"
+ ],
+ "cartas": [
+  {
+   "id": "L08-palabra-af63809b",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "apoyar",
+   "eo": "subteni",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-f9ef626c",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "hacer desaparecer",
+   "eo": "malaperigi",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-155edfed",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "aguantar",
+   "eo": "elteni",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-4328bb52",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "utilizar",
+   "eo": "utiligi",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-14c1a9cf",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "abstenerse",
+   "eo": "deteni sin",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-41be31d0",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "en otras palabras",
+   "eo": "alivorte",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-94c25a38",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "postura",
+   "eo": "sinteno",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-8e4c6460",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "alojar",
+   "eo": "loĝigi",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-f4c76599",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "hacer recordar",
+   "eo": "memorigi",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-01534b6c",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "reforzar",
+   "eo": "plifortigi",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-089373ae",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "renovación",
+   "eo": "renovigo",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-b6084319",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "utilizable",
+   "eo": "utiligebla",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-c8e1dd32",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "hacer aparecer",
+   "eo": "aperigi",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-f170ab98",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "quitar",
+   "eo": "forigi",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-4200d04c",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "limpiar",
+   "eo": "purigi",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-f0c36718",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "inmortal",
+   "eo": "senmorta",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-0efa3bcd",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "vaciar",
+   "eo": "malplenigi",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-01a272f9",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "a veces",
+   "eo": "kelkfoje",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-97943c3b",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "entregar",
+   "eo": "transdoni",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-palabra-445ffc77",
+   "tipo": "palabra",
+   "lec": 8,
+   "es": "visión de conjunto",
+   "eo": "superrigardo",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-frase-ed4968e2",
+   "tipo": "frase",
+   "lec": 8,
+   "es": "Pusimos todo en orden y se lo entregamos.",
+   "eo": "Ni ordigis ĉion kaj transdonis al ili.",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-cloze-5e2f6fac",
+   "tipo": "cloze",
+   "lec": 8,
+   "es": "Pusimos todo en orden y se lo entregamos.",
+   "eo": "Ni ordigis ĉion kaj transdonis al ili.",
+   "plantilla": "Ni ord{0}is ĉion kaj transdonis al ili.",
+   "huecos": [
+    "ig"
+   ]
+  },
+  {
+   "id": "L08-frase-fe37cbc7",
+   "tipo": "frase",
+   "lec": 8,
+   "es": "Pido un vaso de café y un poco de agua.",
+   "eo": "Mi petas glason da kafo kaj iom da akvo.",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-cloze-bc11c440",
+   "tipo": "cloze",
+   "lec": 8,
+   "es": "Pido un vaso de café y un poco de agua.",
+   "eo": "Mi petas glason da kafo kaj iom da akvo.",
+   "plantilla": "Mi petas glason {0} kafo kaj iom {1} akvo.",
+   "huecos": [
+    "da",
+    "da"
+   ]
+  },
+  {
+   "id": "L08-frase-aef89f4a",
+   "tipo": "frase",
+   "lec": 8,
+   "es": "Le dolía la cabeza. Se enfermó.",
+   "eo": "Doloris lin la kapo. Li malsaniĝis.",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-cloze-143acf33",
+   "tipo": "cloze",
+   "lec": 8,
+   "es": "Le dolía la cabeza. Se enfermó.",
+   "eo": "Doloris lin la kapo. Li malsaniĝis.",
+   "plantilla": "Doloris lin la kapo. Li malsan{0}is.",
+   "huecos": [
+    "iĝ"
+   ]
+  },
+  {
+   "id": "L08-frase-7a482095",
+   "tipo": "frase",
+   "lec": 8,
+   "es": "A la niña le gusta ser bella, y por eso embellece su rostro.",
+   "eo": "La knabino ŝatas esti bela kaj pro tio ŝi beligas sian vizaĝon.",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-cloze-d9847e75",
+   "tipo": "cloze",
+   "lec": 8,
+   "es": "A la niña le gusta ser bella, y por eso embellece su rostro.",
+   "eo": "La knabino ŝatas esti bela kaj pro tio ŝi beligas sian vizaĝon.",
+   "plantilla": "La knabino ŝatas esti bela kaj pro tio ŝi bel{0}as sian vizaĝon.",
+   "huecos": [
+    "ig"
+   ]
+  },
+  {
+   "id": "L08-pregunta-10e5d4e3",
+   "tipo": "pregunta",
+   "lec": 8,
+   "es": "¿Quién limpiará la cocina después de la comida?",
+   "eo": "Kiu purigos la kuirejon post la tagmanĝo?",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-pregunta-6f0c2079",
+   "tipo": "pregunta",
+   "lec": 8,
+   "es": "¿Qué quieres beber: té, un poco de café o nada?",
+   "eo": "Kion vi volas trinki: teon, iom da kafo aŭ ĉu vi volas nenion?",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-pregunta-6f69fd36",
+   "tipo": "pregunta",
+   "lec": 8,
+   "es": "¿Por qué has decidido renovar tan de repente tu habitación pequeña?",
+   "eo": "Kial vi tiel subite decidis renovigi vian ĉambreton?",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-pregunta-4670ac09",
+   "tipo": "pregunta",
+   "lec": 8,
+   "es": "¿A quién le diste los vasos limpios para el vino?",
+   "eo": "Al kiu vi donis la purajn glasojn por la vino?",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-pregunta-ce281bd5",
+   "tipo": "pregunta",
+   "lec": 8,
+   "es": "¿Contra quién jugó tu club deportivo hace dos semanas?",
+   "eo": "Kontraŭ kiu ludis via sportklubo antaŭ du semajnoj?",
+   "aceptadas": []
+  },
+  {
+   "id": "L08-pregunta-573190b4",
+   "tipo": "pregunta",
+   "lec": 8,
+   "es": "¿Ves a menudo al policía que vive en el apartamento de encima?",
+   "eo": "Ĉu vi ofte vidas la policiston, kiu loĝas en la loĝejo super vi?",
+   "aceptadas": []
+  }
+ ],
+ "fuente": {
+  "repositorio": "https://github.com/Esperanto/kurso-zagreba-metodo",
+  "lengua": "es"
+ }
+}

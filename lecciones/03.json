@@ -1,0 +1,802 @@
+{
+ "id": "03",
+ "numero": 3,
+ "titulo": "En kafejo",
+ "texto": {
+  "licencia": "CC BY-ND 4.0",
+  "titolo_morfemas": [
+   [
+    "En"
+   ],
+   null,
+   [
+    "kaf",
+    "ej",
+    "o"
+   ]
+  ],
+  "paragrafoj_morfemas": [
+   [
+    [
+     "Ana"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "Marko"
+    ],
+    null,
+    [
+     "long",
+     "e"
+    ],
+    null,
+    [
+     "parol",
+     "is"
+    ],
+    null,
+    [
+     "antaŭ"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "lern",
+     "ej",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Post",
+     "e"
+    ],
+    null,
+    [
+     "ili"
+    ],
+    null,
+    [
+     "ĝoj",
+     "e"
+    ],
+    null,
+    [
+     "ir",
+     "is"
+    ],
+    null,
+    [
+     "tra"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "strat",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Est",
+     "is"
+    ],
+    null,
+    [
+     "varm",
+     "a"
+    ],
+    null,
+    [
+     "tag",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Ili"
+    ],
+    null,
+    [
+     "vid",
+     "is"
+    ],
+    null,
+    [
+     "kaf",
+     "ej",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "ĝi"
+    ],
+    null,
+    [
+     "kuk",
+     "o",
+     "j",
+     "n"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    null,
+    [
+     "Ni"
+    ],
+    null,
+    [
+     "en",
+     "ir",
+     "u"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "manĝ",
+     "u"
+    ],
+    null,
+    "–",
+    null,
+    [
+     "dir",
+     "is"
+    ],
+    null,
+    [
+     "Marko"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Ĉu"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "hav",
+     "as"
+    ],
+    null,
+    [
+     "sufiĉ",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "mon",
+     "o",
+     "n"
+    ],
+    "?"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Kompren",
+     "ebl",
+     "e"
+    ],
+    ",",
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "hav",
+     "as"
+    ],
+    null,
+    [
+     "cent"
+    ],
+    null,
+    [
+     "dolar",
+     "o",
+     "j",
+     "n"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Ho"
+    ],
+    ",",
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "riĉ",
+     "a"
+    ],
+    "!"
+   ],
+   [
+    [
+     "La"
+    ],
+    null,
+    [
+     "kelner",
+     "o"
+    ],
+    null,
+    [
+     "al",
+     "port",
+     "is"
+    ],
+    null,
+    [
+     "mult",
+     "a",
+     "j",
+     "n"
+    ],
+    null,
+    [
+     "kuk",
+     "o",
+     "j",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Ili"
+    ],
+    null,
+    [
+     "manĝ",
+     "is"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "post"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "manĝ",
+     "o"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "kelner",
+     "o"
+    ],
+    null,
+    [
+     "de",
+     "nov",
+     "e"
+    ],
+    null,
+    [
+     "ven",
+     "is"
+    ],
+    "."
+   ],
+   [
+    [
+     "Marko"
+    ],
+    null,
+    [
+     "serĉ",
+     "is"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "unu"
+    ],
+    null,
+    [
+     "lok",
+     "o"
+    ],
+    null,
+    "…",
+    null,
+    [
+     "serĉ",
+     "is"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "ali",
+     "a"
+    ],
+    null,
+    "…",
+    null,
+    [
+     "Li",
+     "a"
+    ],
+    null,
+    [
+     "vizaĝ",
+     "o"
+    ],
+    null,
+    [
+     "est",
+     "is"
+    ],
+    null,
+    [
+     "mal",
+     "ĝoj",
+     "a"
+    ],
+    ".",
+    null,
+    [
+     "Fin",
+     "e"
+    ],
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "dir",
+     "is"
+    ],
+    null,
+    [
+     "per"
+    ],
+    null,
+    [
+     "mal",
+     "fort",
+     "a"
+    ],
+    null,
+    [
+     "voĉ",
+     "o"
+    ],
+    ":"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "hav",
+     "as"
+    ],
+    null,
+    [
+     "mon",
+     "o",
+     "n"
+    ],
+    "."
+   ],
+   [
+    [
+     "Kio"
+    ],
+    null,
+    [
+     "okaz",
+     "is"
+    ],
+    null,
+    [
+     "post",
+     "e"
+    ],
+    "?",
+    null,
+    [
+     "Ĉu"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "sci",
+     "as"
+    ],
+    "?"
+   ]
+  ],
+  "parrafos": [
+   "Ana kaj Marko longe parolis antaŭ la lernejo. Poste ili ĝoje iris tra la strato. Estis varma tago. Ili vidis kafejon kaj en ĝi kukojn.",
+   "– Ni eniru kaj manĝu – diris Marko.",
+   "– Ĉu vi havas sufiĉan monon?",
+   "– Kompreneble, mi havas cent dolarojn.",
+   "– Ho, vi estas riĉa!",
+   "La kelnero alportis multajn kukojn. Ili manĝis kaj post la manĝo la kelnero denove venis.",
+   "Marko serĉis en unu loko … serĉis en alia … Lia vizaĝo estis malĝoja. Fine li diris per malforta voĉo:",
+   "– Mi ne havas monon.",
+   "Kio okazis poste? Ĉu vi scias?"
+  ]
+ },
+ "gramatica_md": "# Adverbios\n\nLos adverbios acaban en **-E**.\n\n- _bel**e**_ – Bellamente\n- _bon**e**_ – Bien\n\nEn esperanto el adjetivo acompaña al sustantivo.\n\n- _bel**a** amikin**o**_ – Una bella amiga\n- _bon**a** libr**o**_ – Un buen libro\n\nY el adverbio al verbo.\n\n- _bel**e** parol**i**_ – Hablar bellamente\n- _la instruisto instru**as** bon**e**_ – El profesor enseña bien\n\n**💡 Truco:** *-a* describe nombres; *-e* describe verbos, adjetivos o frases enteras.\n\nHay en esperanto algunos adverbios simples, no derivados, que no llevan la terminación **-E**.\n\n- *ankoraŭ* - Todavía\n\n**⚠️ Atención:** no añadas *-e* a los adverbios simples como *ankoraŭ*.\n\n# Preposiciones *per* y *kun*\n\n## *Per* - con (\"con, por medio de\"), e indica medio o instrumento\n\n- _Manĝi **per** kulero_ – Comer con una cuchara\n- _Ŝi kantis **per** tre bela voĉo._ – Cantó con una voz muy bonita\n\n## *Kun* - con (\"con\"), e indica compañía\n\n- _Mi iris **kun** amiko._ – Fui con un amigo\n- _Mi parolos **kun** li._ – Hablaré con él\n\n**⚠️ Atención:** el español usa \"con\" para todo, pero en esperanto separa instrumento y compañía: *per kulero*, *kun amiko*.\n\n# Preposición *post*\n\nSignifica \"tras, detrás de, después de\", e indica posterioridad en el tiempo o en el espacio.\n\n- _Mi venos **post** tri horoj._ – Vendré en tres horas\n- _Mi iras **post** vi_ – Voy detrás de ti\n\nSin embargo, se usa más en sentido temporal, y para indicar la posterioridad en el espacio suele emplearse **malantaŭ**.\n\n- _Mi iras **malantaŭ** vi_ – Voy detrás de ti\n\n**Poste** significa \"después, posteriormente\".\n\n**💡 Truco:** *post* suele ser temporal; para \"detrás de\" piensa en *malantaŭ*.\n\n# Sufijo *-ul-*\n\nIndica al individuo (sin sexo) caracterizado por lo que expresa la raíz:\n\n- _grand**ul**o_ – Una persona grande, un/una grandullón/a\n- _malbon**ul**o_ – una persona malvada\n- _malbel**ul**ino_ – Una mujer fea\n- _kaf**ul**o_ – una persona relacionada con el café\n- _bel**ul**o_ – una persona bella\n\n**💡 Truco:** *-ul-* convierte una cualidad en una persona: *juna* → *junulo*, *riĉa* → *riĉulo*.\n\n# Sufijo *-ej-*\n\nIndica el lugar o local destinado a algo apropiado para algo:\n\n- _lern**ej**o_ – Escuela (lugar para aprender)\n- _kuir**ej**o_ – Cocina (lugar para cocinar)\n\n**💡 Truco:** *-ej-* es \"lugar para\": *lerni* → *lernejo*, *kuiri* → *kuirejo*.\n\n# Sufijo *-ebl-*\n\nSignifica \"que se puede\":\n\n- _manĝ**ebl**a_ – Comestible (que se puede comer)\n- _vid**ebl**a_ – Visible (que se puede ver)\n- _kompren**ebl**e_ – Comprensible (que se puede comprender)\n- _**ebl**a_ – Posible\n- _**ebl**e_ – Posiblemente, tal vez, quizá(s)\n- _mal**ebl**a_ – Imposible\n\n**💡 Truco:** *-ebl-* equivale a \"que se puede\": *manĝebla* = \"que se puede comer\".\n\n# Imperativo\n\nEn esperanto la terminación del imperativo para todas las personas es **-U**. Hay que poner siempre el pronombre correspondiente, excepto en la segunda persona (**vi**) donde no es necesario:\n\n- _Manĝ**u**!_ – ¡Come! / ¡Coman! / ¡Comed!\n\n- _Ir**u**!_ – ¡Ve! / ¡Vayan! / ¡Id!\n\n- _Li lern**u**_ – ¡Que él aprenda!\n\n- _Ni vid**u**!_ – ¡Veamos!\n\n- _Mi dorm**u**!_ – ¡Que duerma yo! / ¡Tengo que dormir! (orden a uno mismo)\n\n**⚠️ Atención:** *-u* no es solo \"tú\": sirve para mandatos, deseos o exhortaciones con cualquier persona.\n",
+ "raices_nuevas": [
+  "afer",
+  "aŭ",
+  "kant",
+  "kie",
+  "kiel",
+  "nu",
+  "sci",
+  "sen",
+  "suk",
+  "rapid"
+ ],
+ "cartas": [
+  {
+   "id": "L03-palabra-b6f10e81",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "vestíbulo",
+   "eo": "antaŭĉambro",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-palabra-11e7405f",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "enemigo",
+   "eo": "malamiko",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-palabra-23bc8fb6",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "detrás de",
+   "eo": "malantaŭ",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-palabra-8924f48e",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "prever",
+   "eo": "antaŭvidi",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-palabra-aa305284",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "lento",
+   "eo": "malrapida",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-palabra-b7f8777b",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "ojear",
+   "eo": "trarigardi",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-palabra-d93da493",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "joven",
+   "eo": "junulo",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-palabra-2c1f56ce",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "poco",
+   "eo": "malmulte",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-palabra-52d066f0",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "al fin",
+   "eo": "finfine",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-palabra-af61ab37",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "pobre",
+   "eo": "malriĉulo",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-palabra-f70d1bc5",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "almuerzo",
+   "eo": "tagmanĝo",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-palabra-b69819a4",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "leer entero",
+   "eo": "tralegi",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-palabra-105eff1e",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "viejo",
+   "eo": "malnova",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-palabra-77aaacd2",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "lugar de trabajo",
+   "eo": "laborejo",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-palabra-32322617",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "transparente",
+   "eo": "travidebla",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-palabra-00fd4d6d",
+   "tipo": "palabra",
+   "lec": 3,
+   "es": "potable",
+   "eo": "trinkebla",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-frase-ff430ecc",
+   "tipo": "frase",
+   "lec": 3,
+   "es": "Mi amigo escribe mucho.",
+   "eo": "Mia amiko skribas multe.",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-cloze-234da843",
+   "tipo": "cloze",
+   "lec": 3,
+   "es": "Mi amigo escribe mucho.",
+   "eo": "Mia amiko skribas multe.",
+   "plantilla": "Mia amiko skribas mult{0}.",
+   "huecos": [
+    "e"
+   ]
+  },
+  {
+   "id": "L03-frase-f1aaa2e6",
+   "tipo": "frase",
+   "lec": 3,
+   "es": "Una hermosa camarera es una hermosa mujer.",
+   "eo": "Bela kelnerino estas belulino.",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-cloze-c9ea00cc",
+   "tipo": "cloze",
+   "lec": 3,
+   "es": "Una hermosa camarera es una hermosa mujer.",
+   "eo": "Bela kelnerino estas belulino.",
+   "plantilla": "Bela kelnerino estas bel{0}o.",
+   "huecos": [
+    "ulin"
+   ]
+  },
+  {
+   "id": "L03-frase-3e922fc5",
+   "tipo": "frase",
+   "lec": 3,
+   "es": "Tenemos muchas cosas hermosas.",
+   "eo": "Ni havas multajn belajn aferojn.",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-cloze-ce837c15",
+   "tipo": "cloze",
+   "lec": 3,
+   "es": "Tenemos muchas cosas hermosas.",
+   "eo": "Ni havas multajn belajn aferojn.",
+   "plantilla": "Ni havas multa{0} bela{1} afero{2}.",
+   "huecos": [
+    "jn",
+    "jn",
+    "jn"
+   ]
+  },
+  {
+   "id": "L03-frase-70699818",
+   "tipo": "frase",
+   "lec": 3,
+   "es": "Aprendemos juntos en la escuela.",
+   "eo": "Ni kune lernas en lernejo.",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-cloze-6db9a9f4",
+   "tipo": "cloze",
+   "lec": 3,
+   "es": "Aprendemos juntos en la escuela.",
+   "eo": "Ni kune lernas en lernejo.",
+   "plantilla": "Ni kun{0} lernas en lern{1}o.",
+   "huecos": [
+    "e",
+    "ej"
+   ]
+  },
+  {
+   "id": "L03-frase-d4a16c34",
+   "tipo": "frase",
+   "lec": 3,
+   "es": "Mis padres comen en un comedor.",
+   "eo": "Miaj gepatroj manĝas en manĝejo.",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-cloze-2dc9ff74",
+   "tipo": "cloze",
+   "lec": 3,
+   "es": "Mis padres comen en un comedor.",
+   "eo": "Miaj gepatroj manĝas en manĝejo.",
+   "plantilla": "Miaj {0}patroj manĝas en manĝ{1}.",
+   "huecos": [
+    "ge",
+    "ejo"
+   ]
+  },
+  {
+   "id": "L03-frase-01c1d02d",
+   "tipo": "frase",
+   "lec": 3,
+   "es": "El pastel es comestible.",
+   "eo": "La kuko estas manĝebla.",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-cloze-30cd90da",
+   "tipo": "cloze",
+   "lec": 3,
+   "es": "El pastel es comestible.",
+   "eo": "La kuko estas manĝebla.",
+   "plantilla": "La kuko estas manĝ{0}a.",
+   "huecos": [
+    "ebl"
+   ]
+  },
+  {
+   "id": "L03-pregunta-3145c410",
+   "tipo": "pregunta",
+   "lec": 3,
+   "es": "¿Los camareros en los grandes hoteles entienden muchos idiomas?",
+   "eo": "Ĉu kelneroj en grandaj hoteloj komprenas multajn lingvojn?",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-pregunta-1d5f61ae",
+   "tipo": "pregunta",
+   "lec": 3,
+   "es": "¿Sabes que a Ana le gusta una nueva canción sobre un hombre pobre y una chica guapa?",
+   "eo": "Ĉu vi scias, ĉu Ana ŝatas la novan kanton pri malriĉulo kaj belulino?",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-pregunta-d5201063",
+   "tipo": "pregunta",
+   "lec": 3,
+   "es": "¿Dónde viste al hombre mayor y al joven que llevaban una mesa grande?",
+   "eo": "Kie vi vidis la maljunulon kaj la junulon, kiuj portis grandan tablon?",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-pregunta-4cfd21e0",
+   "tipo": "pregunta",
+   "lec": 3,
+   "es": "¿Cómo es que has venido otra vez a nosotros sin tus hermanos?",
+   "eo": "Kiel okazis, ke vi denove venis al ni sen gefratoj?",
+   "aceptadas": []
+  },
+  {
+   "id": "L03-pregunta-39522be3",
+   "tipo": "pregunta",
+   "lec": 3,
+   "es": "¿Puedes aprender esperanto rápido con la ayuda de un nuevo libro de texto?",
+   "eo": "Ĉu vi povas per la nova lernolibro sufiĉe rapide lerni Esperanton?",
+   "aceptadas": []
+  }
+ ],
+ "fuente": {
+  "repositorio": "https://github.com/Esperanto/kurso-zagreba-metodo",
+  "lengua": "es"
+ }
+}

@@ -1,0 +1,15 @@
+{
+  "_nota": "Rúbrica «puedo hacer» PROPIA (no validada empíricamente), inspirada en descriptores de nivel A1 del MCER. Derivada de los temas de gramática de cada lección. Ver docs/INVESTIGACION.md.",
+  "1": ["Leo en voz alta palabras con ĉ ĝ ĥ ĵ ŝ ŭ y c.", "Pongo el acento en la penúltima sílaba.", "Formo frases con «mi/vi/li/ŝi/ni/ili + verbo en -as».", "Distingo sustantivo (-o), plural (-j) y posesivo (pronombre + -a).", "Pregunto con «Ĉu…?» y «Kiu…?» y respondo jes/ne."],
+  "2": ["Uso adjetivos (-a) concordando en plural y acusativo.", "Conjugo en pasado (-is) y futuro (-os) y uso el infinitivo.", "Uso «ke» para unir dos ideas.", "Formo opuestos con «mal-» y grupos con «ge-».", "Uso expresiones de cortesía básicas."],
+  "3": ["Uso adverbios (-e).", "Uso «per», «kun» y «post».", "Formo palabras con -ul-, -ej-, -ebl-.", "Doy órdenes con el imperativo (-u)."],
+  "4": ["Cuento y hago sumas y restas simples.", "Uso el acusativo de dirección.", "Uso «oni» y el reflexivo «si»." , "Uso el prefijo «re-»."],
+  "5": ["Uso la tabla de correlativos (ki-, ti-, i-, ĉi-, neni-).", "Comparo con «pli… ol» y «plej».", "Uso «dum» y «ĉi»; formo palabras con -ind-."],
+  "6": ["Expreso deseos y propuestas con el volitivo.", "Uso «je» y «farti».", "Uso -et-, -eg-, -iĝ-."],
+  "7": ["Uso doble negación y «mem».", "Me despido con naturalidad.", "Uso «ek-» y -aĵ-."],
+  "8": ["Uso «da» con cantidades.", "Uso -ig- y -aĉ-."],
+  "9": ["Uso el condicional (-us) y «kvazaŭ».", "Uso -ad-, -ar-, -um-."],
+  "10": ["Uso -an-, -ec-, -uj-."],
+  "11": ["Uso -il- y repaso las terminaciones del curso."],
+  "12": ["Uso «ju… des…».", "Uso «ajn» y «dis-».", "Hago un repaso global de las 12 lecciones."]
+}

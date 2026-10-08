@@ -1,0 +1,1034 @@
+{
+ "id": "04",
+ "numero": 4,
+ "titulo": "Miaj leteroj",
+ "texto": {
+  "licencia": "CC BY-ND 4.0",
+  "titolo_morfemas": [
+   [
+    "Mi",
+    "a",
+    "j"
+   ],
+   null,
+   [
+    "leter",
+    "o",
+    "j"
+   ]
+  ],
+  "paragrafoj_morfemas": [
+   [
+    [
+     "Marko"
+    ],
+    null,
+    [
+     "skrib",
+     "is"
+    ],
+    null,
+    [
+     "al"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "bel",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "leter",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Ĝi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "ver",
+     "a"
+    ],
+    null,
+    [
+     "am",
+     "leter",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "En"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "leter",
+     "o"
+    ],
+    null,
+    [
+     "est",
+     "is"
+    ],
+    null,
+    [
+     "ankaŭ"
+    ],
+    null,
+    [
+     "li",
+     "a"
+    ],
+    null,
+    [
+     "fot",
+     "o"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Kiam"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "re",
+     "ven",
+     "is"
+    ],
+    null,
+    [
+     "el"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "lern",
+     "ej",
+     "o"
+    ],
+    ",",
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "vol",
+     "is"
+    ],
+    null,
+    [
+     "ĝi",
+     "n"
+    ],
+    null,
+    [
+     "de",
+     "nov",
+     "e"
+    ],
+    null,
+    [
+     "leg",
+     "i"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "rapid",
+     "e"
+    ],
+    null,
+    [
+     "en",
+     "ir",
+     "is"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "mi",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "ĉambr",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Tie"
+    ],
+    null,
+    [
+     "star",
+     "is"
+    ],
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    null,
+    [
+     "frat",
+     "in",
+     "o"
+    ],
+    null,
+    [
+     "Vera"
+    ],
+    null,
+    [
+     "antaŭ"
+    ],
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    null,
+    [
+     "tabl",
+     "o"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "leg",
+     "is"
+    ],
+    null,
+    [
+     "mi",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "leter",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "En"
+    ],
+    null,
+    [
+     "ŝi",
+     "a"
+    ],
+    null,
+    [
+     "man",
+     "o"
+    ],
+    null,
+    [
+     "est",
+     "is"
+    ],
+    null,
+    [
+     "ankaŭ"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "fot",
+     "o"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "dir",
+     "is"
+    ],
+    null,
+    [
+     "koler",
+     "e"
+    ],
+    ":"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Kio",
+     "n"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "far",
+     "as"
+    ],
+    null,
+    [
+     "tie"
+    ],
+    "?",
+    null,
+    [
+     "Ne"
+    ],
+    null,
+    [
+     "leg",
+     "u"
+    ],
+    null,
+    [
+     "leter",
+     "o",
+     "j",
+     "n"
+    ],
+    null,
+    [
+     "de"
+    ],
+    null,
+    [
+     "ali",
+     "a",
+     "j"
+    ],
+    "!"
+   ],
+   [
+    [
+     "Mi",
+     "a"
+    ],
+    null,
+    [
+     "frat",
+     "in",
+     "o"
+    ],
+    null,
+    [
+     "far",
+     "iĝ",
+     "is"
+    ],
+    null,
+    [
+     "ruĝ",
+     "a"
+    ],
+    ".",
+    null,
+    [
+     "La"
+    ],
+    null,
+    [
+     "fot",
+     "o"
+    ],
+    null,
+    [
+     "fal",
+     "is"
+    ],
+    null,
+    [
+     "el"
+    ],
+    null,
+    [
+     "ŝi",
+     "a"
+    ],
+    null,
+    [
+     "man",
+     "o"
+    ],
+    null,
+    [
+     "sur"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "tabl",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "leter",
+     "o"
+    ],
+    null,
+    [
+     "fal",
+     "is"
+    ],
+    null,
+    [
+     "ankaŭ"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Ŝi"
+    ],
+    null,
+    [
+     "dir",
+     "is"
+    ],
+    ":"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Pardon",
+     "u"
+    ],
+    null,
+    "…",
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "serĉ",
+     "is"
+    ],
+    null,
+    [
+     "mi",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "libr",
+     "o",
+     "n"
+    ],
+    null,
+    "…"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Sed"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "bon",
+     "e"
+    ],
+    null,
+    [
+     "sci",
+     "as"
+    ],
+    ",",
+    null,
+    [
+     "ke"
+    ],
+    null,
+    [
+     "vi",
+     "a",
+     "j"
+    ],
+    null,
+    [
+     "libr",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "sur"
+    ],
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    null,
+    [
+     "tabl",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Ankaŭ"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    null,
+    [
+     "ĉambr",
+     "o"
+    ],
+    "!",
+    null,
+    [
+     "Re",
+     "don",
+     "u"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "leter",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "al"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Ŝi"
+    ],
+    null,
+    [
+     "ricev",
+     "is"
+    ],
+    null,
+    [
+     "bon",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "lecion",
+     "o",
+     "n"
+    ],
+    ":",
+    null,
+    [
+     "ŝi"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "plu"
+    ],
+    null,
+    [
+     "leg",
+     "os"
+    ],
+    null,
+    [
+     "leter",
+     "o",
+     "j",
+     "n"
+    ],
+    null,
+    [
+     "de"
+    ],
+    null,
+    [
+     "ali",
+     "a",
+     "j"
+    ],
+    "."
+   ],
+   [
+    [
+     "Ankaŭ"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "ricev",
+     "is"
+    ],
+    null,
+    [
+     "lecion",
+     "o",
+     "n"
+    ],
+    ":",
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "dev",
+     "as"
+    ],
+    null,
+    [
+     "bon",
+     "e"
+    ],
+    null,
+    [
+     "ferm",
+     "i"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "pord",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "de"
+    ],
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    null,
+    [
+     "ĉambr",
+     "o"
+    ],
+    "."
+   ]
+  ],
+  "parrafos": [
+   "Marko skribis al mi belan leteron. Ĝi estas vera amletero. En la letero estis ankaŭ lia foto.",
+   "Kiam mi revenis el la lernejo, mi volis ĝin denove legi. Mi rapide eniris en mian ĉambron. Tie staris mia fratino Vera antaŭ mia tablo kaj legis mian leteron. En ŝia mano estis ankaŭ la foto.",
+   "Mi diris kolere:",
+   "– Kion vi faras tie? Ne legu leterojn de aliaj!",
+   "Mia fratino fariĝis ruĝa. La foto falis el ŝia mano sur la tablon kaj la letero falis ankaŭ.",
+   "Ŝi diris:",
+   "– Pardonu … mi serĉis mian libron …",
+   "– Sed vi bone scias, ke viaj libroj ne estas sur mia tablo. Ankaŭ ne en mia ĉambro! Redonu la leteron al mi.",
+   "Ŝi ricevis bonan lecionon: ŝi ne plu legos leterojn de aliaj.",
+   "Ankaŭ mi ricevis lecionon: mi devas bone fermi la pordon de mia ĉambro."
+  ]
+ },
+ "gramatica_md": "# Números\n\nLos números se forman de la manera siguiente (los cardinales):\n\n- 1=unu, 2=du, 3=tri, 4=kvar, 5=kvin, 6=ses, 7=sep, 8=ok, 9=naŭ, 10=dek\n- 11 = dek unu; 12 = dek du; 13 = dek tri; 14 = dek kvar\n- 20 = dudek; 30 = tridek, 40 = kvardek\n- 51 = kvindek unu; 62 = sesdek du; 73 = sepdek tri, 84 = okdek kvar\n- 100 = cent; 200 = ducent; 300 = tricent\n- 1.000 = mil; 2.000 = du mil\n- 1.238 = mil ducent tridek ok; 153.837 = cent kvindek tri mil okcent tridek sep\n- 1.000.000 = miliono\n\n**💡 Truco:** los números grandes se leen por bloques, como en español: *mil ducent tridek ok* = 1.238.\n\n# Sumar y restar\n\n- 8 + 3 = 11 --- ok plus tri estas dek unu\n- 15 - 6 = 9 --- dek kvin minus ses estas naŭ\n\n**⚠️ Atención:** *dek unu* y *dek du* se escriben separados; *dudek* y *tridek* van en una palabra.\n\n# Acusativo de dirección\n\nDespués de una preposición, el sustantivo no lleva la terminación **-N** del acusativo.\n\n- *post mi* – Después de mí\n- *en domo* – En una casa\n- *al la domo* - A/Hacia la casa\n\nPero si queremos expresar la dirección de un movimiento, y la preposición (al contrario que **al**) no lo indica, entonces empleamos la terminación **-N**, formando el acusativo de dirección:\n\n- *Mi estas en la domo.* - Estoy en (la) casa\n- *Mi iras en la domo.* - Voy por el interior de la casa\n- _Mi iras en la domo**n**._ – Voy (=entro) a (la) casa\n\n**💡 Truco:** si hay movimiento hacia dentro/encima/detrás, añade *-n*: *en la domon* = \"hacia dentro de la casa\".\n\nOtros ejemplos:\n\n- _La kato saltis sur la tablo**n**._ – El gato saltó encima de la mesa. (antes no estaba encima)\n- *La kato saltis sur la tablo.* – El gato saltó encima de la mesa. (ya estaba en la mesa)\n\n**⚠️ Atención:** después de *al* no necesitas este *-n*, porque *al* ya indica dirección.\n\n# Pronombre *oni*\n\nSignifica \"se\", \"uno\", en sentido impersonal. También \"la gente\".\n\n- *Oni manĝas* - Se come, la gente come, uno come...\n- *Oni laboras multe* - Se trabaja mucho\n- *Oni parolas Esperanton* = Se habla esperanto\n\n**💡 Truco:** *oni* suele traducirse como \"se\": *oni diras* = \"se dice\".\n\n# Pronombre reflexivo *si*\n\nSignifica \"se\", \"sí mismo\", nunca es sujeto y se refiere siempre al nombre o al pronombre de tercera persona (li, ŝi, ĝi, ili) que realiza la acción del verbo.\n\n- _Li lavas **sin**_ - Él se lava (a sí mismo)\n- *Li lavas lin* - Él lo lava (a otro chico)\n- _Ŝi rigardas **sin**_ - Ella se mira (a sí misma)\n- *Ŝi rigardas ŝin* - Ella la mira (a otra chica)\n\nTodas las personas:\n\n- *Mi rigardas min*\n- *Vi rigardas vin*\n- _Li/Ŝi/Ĝi rigardas **sin**_\n- *Ni rigardas nin*\n- *Vi rigardas vin*\n- _Ili rigardas **sin**_\n\nLa palabra \"si\" se traduce por \"**ĉu**\" cuando expresa duda o pregunta:\n\n- *Mi ne scias, ĉu li venos* - No sé si vendrá Compárese con:\n- *Ĉu li venos?* - ¿Vendrá?\n\nEl \"si\" condicional se traduce por \"se\":\n\n- *Se mi malsanas, mi malmulte manĝas* - Si estoy enfermo, como poco Compárese con \"**kiam**\" (= cuándo, cuando):\n- *Kiam mi malsanas, mi malmulte manĝas.* - Cuando estoy enfermo, como poco\n\n**⚠️ Atención:** el \"si\" de duda se traduce con *ĉu*; el \"si\" condicional se traduce con *se*.\n\n# Prefijo *re-*\n\nIndica repetición, significa \"otra vez, de nuevo, volver a\":\n\n- *revidi* - Volver a ver, ver de nuevo\n- *redoni* - Volver a dar, devolver\n- *remeti* - Volver a poner/meter/colocar (algo en el sitio en el que estaba)\n\n**💡 Truco:** *re-* es \"otra vez\" o \"de vuelta\": *vidi* → *revidi*, *doni* → *redoni*.\n",
+ "raices_nuevas": [
+  "aŭd",
+  "ĉe",
+  "dek",
+  "du",
+  "for",
+  "inter",
+  "kap",
+  "kiom",
+  "kien",
+  "kvar",
+  "kvin",
+  "last",
+  "met",
+  "naci",
+  "naŭ",
+  "ok",
+  "pied",
+  "poŝ",
+  "pren",
+  "ses",
+  "sep",
+  "sia",
+  "sol",
+  "trankvil",
+  "tri"
+ ],
+ "cartas": [
+  {
+   "id": "L04-palabra-3027bfba",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "caer en",
+   "eo": "enfali",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-6a0534c3",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "elaborar",
+   "eo": "ellabori",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-52905111",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "curioso",
+   "eo": "scivola",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-d22254ee",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "trilingüe",
+   "eo": "trilingva",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-37647d38",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "volver a ir",
+   "eo": "reiri",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-7a0ff75d",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "poner",
+   "eo": "enmeti",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-c55f1200",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "de diez días",
+   "eo": "dektaga",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-d33d7d87",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "sacar",
+   "eo": "elpreni",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-8bee6bf6",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "abrir",
+   "eo": "malfermi",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-4a6ddfae",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "editar",
+   "eo": "eldoni",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-d26a90fd",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "editor",
+   "eo": "eldonisto",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-0e04c9a6",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "86",
+   "eo": "okdek ses",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-6aac0c16",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "volver a ver",
+   "eo": "revidi",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-ce3513cd",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "volver",
+   "eo": "reveni",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-305098b9",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "internacional",
+   "eo": "internacia",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-85ceb7c8",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "ir a pie",
+   "eo": "piediri",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-palabra-b954462c",
+   "tipo": "palabra",
+   "lec": 4,
+   "es": "2003",
+   "eo": "dumil tri",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-frase-32970877",
+   "tipo": "frase",
+   "lec": 4,
+   "es": "Ana y Marko fueron por la calle.",
+   "eo": "Ana kaj Marko iris tra la strato.",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-cloze-20a43d1e",
+   "tipo": "cloze",
+   "lec": 4,
+   "es": "Ana y Marko fueron por la calle.",
+   "eo": "Ana kaj Marko iris tra la strato.",
+   "plantilla": "Ana kaj Marko iris {0} la strato.",
+   "huecos": [
+    "tra"
+   ]
+  },
+  {
+   "id": "L04-frase-cc0ca5d1",
+   "tipo": "frase",
+   "lec": 4,
+   "es": "Llegaron a un café, se acercaron a una mesa y vieron al padre sentado en una silla.",
+   "eo": "Ili venis al kafejo, iris al tablo kaj vidis la patron sidi sur seĝo.",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-cloze-172c225f",
+   "tipo": "cloze",
+   "lec": 4,
+   "es": "Llegaron a un café, se acercaron a una mesa y vieron al padre sentado en una silla.",
+   "eo": "Ili venis al kafejo, iris al tablo kaj vidis la patron sidi sur seĝo.",
+   "plantilla": "Ili venis {0} kafejo, iris {1} tablo kaj vidis la patro{2} sidi {3} seĝo.",
+   "huecos": [
+    "al",
+    "al",
+    "n",
+    "sur"
+   ]
+  },
+  {
+   "id": "L04-frase-55ec164b",
+   "tipo": "frase",
+   "lec": 4,
+   "es": "Ana puso tres pasteles en una silla.",
+   "eo": "Ana metis tri kukojn sur seĝon.",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-cloze-8b2a16d0",
+   "tipo": "cloze",
+   "lec": 4,
+   "es": "Ana puso tres pasteles en una silla.",
+   "eo": "Ana metis tri kukojn sur seĝon.",
+   "plantilla": "Ana metis tri kukojn sur seĝ{0}.",
+   "huecos": [
+    "on"
+   ]
+  },
+  {
+   "id": "L04-frase-99c4b4d4",
+   "tipo": "frase",
+   "lec": 4,
+   "es": "Luego volvió a poner los pasteles en la mesa.",
+   "eo": "Ŝi remetis poste la kukojn sur la tablon.",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-cloze-341f655c",
+   "tipo": "cloze",
+   "lec": 4,
+   "es": "Luego volvió a poner los pasteles en la mesa.",
+   "eo": "Ŝi remetis poste la kukojn sur la tablon.",
+   "plantilla": "Ŝi {0}metis poste la kukojn sur la tabl{1}.",
+   "huecos": [
+    "re",
+    "on"
+   ]
+  },
+  {
+   "id": "L04-pregunta-2714256f",
+   "tipo": "pregunta",
+   "lec": 4,
+   "es": "¿Cuándo volveré a verte?",
+   "eo": "Kiam mi revidos vin?",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-pregunta-391f7e10",
+   "tipo": "pregunta",
+   "lec": 4,
+   "es": "¿Cuánto tiempo has estado aprendiendo la lengua internacional?",
+   "eo": "Kiom longe vi lernas la Internacian Lingvon?",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-pregunta-188b6d62",
+   "tipo": "pregunta",
+   "lec": 4,
+   "es": "¿Dónde está mi nuevo libro con fotografías?",
+   "eo": "Kie estas mia nova libro kun fotoj?",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-pregunta-49936535",
+   "tipo": "pregunta",
+   "lec": 4,
+   "es": "¿Adónde irás después de la comida?",
+   "eo": "Kien vi iros post la tagmanĝo?",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-pregunta-38119122",
+   "tipo": "pregunta",
+   "lec": 4,
+   "es": "¿Se puede cerrar la puerta de la habitación cuando hace frío?",
+   "eo": "Ĉu oni povas fermi la pordon de la ĉambro, kiam estas malvarme?",
+   "aceptadas": []
+  },
+  {
+   "id": "L04-pregunta-40a7bbc0",
+   "tipo": "pregunta",
+   "lec": 4,
+   "es": "¿Cuánto tiempo estás enojado si la gente te quita mucho dinero?",
+   "eo": "Kiom longe vi koleras, se oni forprenas de vi multan monon?",
+   "aceptadas": []
+  }
+ ],
+ "fuente": {
+  "repositorio": "https://github.com/Esperanto/kurso-zagreba-metodo",
+  "lengua": "es"
+ }
+}

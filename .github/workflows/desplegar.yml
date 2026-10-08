@@ -1,0 +1,35 @@
+name: Probar y desplegar
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  probar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install pyyaml
+      - run: npm test
+      - run: npm run build
+        env:
+          MIA_VOJO_API: ${{ vars.MIA_VOJO_API }}
+      - uses: actions/upload-artifact@v4
+        with: { name: dist, path: dist }
+  desplegar:
+    needs: probar
+    if: github.ref == 'refs/heads/main' && vars.CLOUDFLARE_PROJECT != ''
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with: { name: dist, path: dist }
+      # Requiere el secreto CLOUDFLARE_API_TOKEN y la variable CLOUDFLARE_ACCOUNT_ID (ver README). No se sube ningún secreto al repo.
+      - run: npx --yes wrangler@4 pages deploy dist --project-name "${{ vars.CLOUDFLARE_PROJECT }}"
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}

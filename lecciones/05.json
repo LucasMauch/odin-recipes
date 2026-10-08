@@ -1,0 +1,993 @@
+{
+ "id": "05",
+ "numero": 5,
+ "titulo": "Nova aŭto",
+ "texto": {
+  "licencia": "CC BY-ND 4.0",
+  "titolo_morfemas": [
+   [
+    "Nov",
+    "a"
+   ],
+   null,
+   [
+    "aŭt",
+    "o"
+   ]
+  ],
+  "paragrafoj_morfemas": [
+   [
+    [
+     "Sinjor",
+     "o"
+    ],
+    null,
+    [
+     "Rapid"
+    ],
+    ",",
+    null,
+    [
+     "amik",
+     "o"
+    ],
+    null,
+    [
+     "de"
+    ],
+    null,
+    [
+     "Marko"
+    ],
+    ",",
+    null,
+    [
+     "en",
+     "ir",
+     "is"
+    ],
+    null,
+    [
+     "vend",
+     "ej",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "de"
+    ],
+    null,
+    [
+     "aŭt",
+     "o",
+     "j"
+    ],
+    ".",
+    null,
+    [
+     "Tie"
+    ],
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "vid",
+     "as"
+    ],
+    null,
+    [
+     "bel",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "sinjor",
+     "in",
+     "o",
+     "n"
+    ],
+    ",",
+    null,
+    [
+     "kiu"
+    ],
+    null,
+    [
+     "plaĉ",
+     "as"
+    ],
+    null,
+    [
+     "al"
+    ],
+    null,
+    [
+     "li"
+    ],
+    ".",
+    null,
+    [
+     "Vend",
+     "ist",
+     "o"
+    ],
+    null,
+    [
+     "ven",
+     "as"
+    ],
+    null,
+    [
+     "al"
+    ],
+    null,
+    [
+     "li"
+    ],
+    ".",
+    null,
+    [
+     "Sinjor",
+     "o"
+    ],
+    null,
+    [
+     "Rapid"
+    ],
+    null,
+    [
+     "demand",
+     "as"
+    ],
+    ":"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Kiu"
+    ],
+    null,
+    [
+     "aŭt",
+     "o"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "plej"
+    ],
+    null,
+    [
+     "bon",
+     "a"
+    ],
+    "?"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Tiu"
+    ],
+    null,
+    [
+     "ĉi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "plej"
+    ],
+    null,
+    [
+     "bon",
+     "a"
+    ],
+    null,
+    [
+     "el"
+    ],
+    null,
+    [
+     "ĉiu",
+     "j"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Ĉu"
+    ],
+    null,
+    [
+     "ĝi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "rapid",
+     "a"
+    ],
+    "?"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Ĝi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "pli"
+    ],
+    null,
+    [
+     "rapid",
+     "a"
+    ],
+    null,
+    [
+     "ol"
+    ],
+    null,
+    [
+     "ali",
+     "a",
+     "j"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Ĉu"
+    ],
+    null,
+    [
+     "ĝi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "ankaŭ"
+    ],
+    null,
+    [
+     "fort",
+     "a"
+    ],
+    "?"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Ho"
+    ],
+    null,
+    [
+     "jes"
+    ],
+    ",",
+    null,
+    [
+     "ĝi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "tre"
+    ],
+    null,
+    [
+     "fort",
+     "a"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Cert",
+     "e"
+    ],
+    null,
+    [
+     "ĝi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "mult",
+     "e",
+     "kost",
+     "a"
+    ],
+    "?"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Kompren",
+     "ebl",
+     "e"
+    ],
+    ",",
+    null,
+    [
+     "ĝi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "plej"
+    ],
+    null,
+    [
+     "mult",
+     "e",
+     "kost",
+     "a"
+    ],
+    null,
+    [
+     "el"
+    ],
+    null,
+    [
+     "ĉiu",
+     "j"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Dank",
+     "o",
+     "n"
+    ],
+    ",",
+    null,
+    [
+     "bedaŭr",
+     "ind",
+     "e"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "aĉet",
+     "os"
+    ],
+    null,
+    [
+     "nov",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "aŭt",
+     "o",
+     "n"
+    ],
+    ",",
+    null,
+    [
+     "ĉar"
+    ],
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    null,
+    [
+     "mal",
+     "nov",
+     "a"
+    ],
+    null,
+    [
+     "aŭt",
+     "o"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "plej"
+    ],
+    null,
+    [
+     "mal",
+     "mult",
+     "e",
+     "kost",
+     "a"
+    ],
+    null,
+    [
+     "el"
+    ],
+    null,
+    [
+     "ĉiu",
+     "j"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "ankoraŭ"
+    ],
+    null,
+    [
+     "vetur",
+     "os"
+    ],
+    null,
+    [
+     "per"
+    ],
+    null,
+    [
+     "ĝi"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Dum"
+    ],
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "tio",
+     "n"
+    ],
+    null,
+    [
+     "dir",
+     "is"
+    ],
+    ",",
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "de",
+     "nov",
+     "e"
+    ],
+    null,
+    [
+     "rigard",
+     "is"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "bel",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "sinjor",
+     "in",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Sed"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "vend",
+     "ist",
+     "o"
+    ],
+    null,
+    [
+     "dir",
+     "is"
+    ],
+    ":"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Est",
+     "os"
+    ],
+    null,
+    [
+     "pli"
+    ],
+    null,
+    [
+     "bon",
+     "e"
+    ],
+    ",",
+    null,
+    [
+     "ke"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "rigard",
+     "u"
+    ],
+    null,
+    [
+     "tiu",
+     "n"
+    ],
+    null,
+    [
+     "ĉi"
+    ],
+    null,
+    [
+     "sinjor",
+     "in",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Ankaŭ"
+    ],
+    null,
+    [
+     "ŝi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "tre"
+    ],
+    null,
+    [
+     "mult",
+     "e",
+     "kost",
+     "a"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "sci",
+     "as"
+    ],
+    ",",
+    null,
+    [
+     "ĉar"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "ŝi",
+     "a"
+    ],
+    null,
+    [
+     "edz",
+     "o"
+    ],
+    "."
+   ]
+  ],
+  "parrafos": [
+   "Sinjoro Rapid, amiko de Marko, eniris vendejon de aŭtoj. Tie li vidas belan sinjorinon, kiu plaĉas al li. Vendisto venas al li. Sinjoro Rapid demandas:",
+   "– Kiu aŭto estas la plej bona?",
+   "– Tiu ĉi estas la plej bona el ĉiuj.",
+   "– Ĉu ĝi estas rapida?",
+   "– Ĝi estas pli rapida ol aliaj.",
+   "– Ĉu ĝi estas ankaŭ forta?",
+   "– Ho jes, ĝi estas tre forta.",
+   "– Certe ĝi estas multekosta?",
+   "– Kompreneble, ĝi estas la plej multekosta el ĉiuj.",
+   "– Dankon, bedaŭrinde mi ne aĉetos novan aŭton, ĉar mia malnova aŭto estas la plej malmultekosta el ĉiuj. Mi ankoraŭ veturos per ĝi.",
+   "Dum li tion diris, li denove rigardis la belan sinjorinon. Sed la vendisto diris:",
+   "– Estos pli bone, ke vi ne rigardu tiun ĉi sinjorinon. Ankaŭ ŝi estas tre multekosta. Mi scias, ĉar mi estas ŝia edzo."
+  ]
+ },
+ "gramatica_md": "# Tabla de correlativos\n\nEstudia la tabla en la sección Apéndice y observa la lógica con la que está hecha: el significado de cada una de las 45 palabras puede deducirse del primer elemento combinado con el segundo. Memoriza especialmente:\n\n- *ĉio* – todo (cosa)\n- *ĉiu* – cada uno, todo\n- *ĉiuj* – todos/as\n- *ĉiam* – siempre\n- *iom* – un poco\n\n**💡 Truco:** aprende la tabla como piezas: *ki-* pregunta, *ti-* señala, *ĉi-* abarca todo, *neni-* niega.\n\nAlgunas de las palabras de la tabla pueden llevar la terminación *-j* (plural) y *-n* (acusativo):\n\n- La terminación *-j* se puede poner con las palabras que acaben en *-u* y *-a*\n- La terminación *-n* con las que acaben en *-o*, *-u*, *-a* y *-e*:\n\n**⚠️ Atención:** no todas las palabras de la tabla aceptan plural; mira la vocal final antes de añadir *-j*.\n\n## Kio\n\n- *Kio* – qué\n- *kion* – qué (objeto directo)\n\nEjemplo:\n\n- *Kion vi manĝas? Kukon mi manĝas.* – ¿Qué comes? Como un pastel\n\n**💡 Truco:** *kio* pregunta por una cosa; *kion* pregunta por una cosa como objeto directo.\n\n## Kiu\n\n- *Kiu* – quién, el/la cual\n- *kiun* – quién, el/la cual (objeto directo)\n- *kiuj* – quiénes, los/las cuales\n- *kiujn* – quiénes, los/las cuales (objeto directo)\n\nEjemplo:\n\n- *Kiun (kukon) vi manĝas? Tiun.* – ¿Cuál (pastel) comes? Ese/aquel.\n\n## Kia\n\nPregunta por adjetivos. Ejemplos:\n\n- *Kia estas la vetero?* – ¿Cómo está el tiempo?\n- *Kian aŭton vi havas?* – ¿Cómo es el auto que tienes?\n- *Kiaj estas ŝiaj leteroj?* – ¿De qué tipo son sus cartas?\n- *Kiajn fotojn vi faris?* – ¿Qué tipo de fotos has hecho?\n\n**⚠️ Atención:** *kia* pregunta por el tipo o cualidad; no lo confundas con *kiu*, que elige una persona o cosa concreta.\n\n## Kie\n\n- *Kie* – dónde (en)\n- *Kien* – adónde (hacia)\n\nEjemplos:\n\n- *Kie mi estas?* – ¿Dónde estoy?\n- *Kien vi iras?* – ¿Adónde vas?\n\n## Con preposiciones\n\n- *Al kiu* – a quién\n- *kun kiu* – con quién\n- *al tiu* – a ese\n- *inter tiuj* – entre esos\n\n# Comparativo\n\n- _**pli** bona_ – Más bueno, mejor\n- _**pli** granda_ – Más grande, mayor\n- _pli bona **ol** vi_ – Mejor que tú/ustedes/vosotros\n- _**tiel** bona, **kiel** vi_ – Tan bueno como tú\n- _**malpli** bona ol vi_ – Menos bueno que tú\n- pli-malpli – Más o menos\n\n**💡 Truco:** compara con *pli ... ol* (\"más ... que\") y con *tiel ... kiel* (\"tan ... como\").\n\n# Superlativo\n\n- _la **plej** bona **el** ĉiuj_ – El más bueno / El mejor de todos\n- _la **malplej** bona **el** ĉiuj_ – El peor de todos\n\n**⚠️ Atención:** para superlativos se usa *el ĉiuj* (\"de entre todos\"), no *de ĉiuj*.\n\nEl superlativo de un adverbio se forma sin el artículo:\n\n- _El ĉiuj, li **plej** bone kantas_ – De todos, él canta mejor/él es el que mejor canta.\n\n# *Dum*\n\n*Dum* significa \"durante\" antes de un sustantivo, y \"mientras\" antes de un verbo:\n\n- _Li sidas **dum** la manĝo._ – Él está sentado durante la comida\n- _Ŝi skribas **dum** li legas._ – Ella está escribiendo mientras él lee\n\n# *Ĉi*\n\nLos demostrativos (**ti-**) pueden ir precedidos de la partícula **ĉi**, o seguidos por ella. Esta partícula indica proximidad o cercanía:\n\n- *tiu* – ese / *ĉi tiu* o *tiu ĉi* – este\n- *tiuj* – esos / *ĉi tiuj* o *tiuj ĉi* – estos\n- *tie* – ahí / *ĉi tie* o *tie ĉi* – aquí\n\n**💡 Truco:** *ĉi* acerca: *tie* = ahí/allí, *ĉi tie* = aquí.\n\n# Sufijo *-ind-*\n\nSignifica \"digno de, que merece\".\n\n- _leg**ind**a_ – Digno de ser leído, que merece que se lea\n- _bedaŭr**ind**e_ (adverbio) – Lamentablemente ¡Qué lástima!\n- _bedaŭr**ind**a_ (adjetivo) – Lamentable; que da pena;\n- _nedank**ind**e_ – De nada, no hay de qué; no merece la pena agradecerlo\n- _dank**ind**a_ – Que merece agradecimiento, digno de agradecimiento\n",
+ "raices_nuevas": [
+  "aŭskult",
+  "forges",
+  "help",
+  "hor",
+  "jam",
+  "jar",
+  "kial",
+  "komenc",
+  "monat",
+  "plen",
+  "send",
+  "temp",
+  "viv"
+ ],
+ "cartas": [
+  {
+   "id": "L05-palabra-3d5fba7a",
+   "tipo": "palabra",
+   "lec": 5,
+   "es": "señora",
+   "eo": "sinjorino",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-palabra-3ad64eec",
+   "tipo": "palabra",
+   "lec": 5,
+   "es": "barato",
+   "eo": "malmultekosta",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-palabra-08ccf3a3",
+   "tipo": "palabra",
+   "lec": 5,
+   "es": "de cada día",
+   "eo": "ĉiutaga",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-palabra-0fc0084a",
+   "tipo": "palabra",
+   "lec": 5,
+   "es": "mientras tanto",
+   "eo": "intertempe",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-palabra-5250116c",
+   "tipo": "palabra",
+   "lec": 5,
+   "es": "lleno",
+   "eo": "plenplena",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-palabra-c114664b",
+   "tipo": "palabra",
+   "lec": 5,
+   "es": "actualmente",
+   "eo": "nuntempe",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-palabra-df67319b",
+   "tipo": "palabra",
+   "lec": 5,
+   "es": "impedir",
+   "eo": "malhelpi",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-palabra-88944625",
+   "tipo": "palabra",
+   "lec": 5,
+   "es": "tienda",
+   "eo": "vendejo",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-palabra-9d8d184a",
+   "tipo": "palabra",
+   "lec": 5,
+   "es": "esposa",
+   "eo": "edzino",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-palabra-dc877048",
+   "tipo": "palabra",
+   "lec": 5,
+   "es": "cada año",
+   "eo": "ĉiujare",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-palabra-a5f4d00d",
+   "tipo": "palabra",
+   "lec": 5,
+   "es": "siglo",
+   "eo": "jarcento",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-palabra-62ba785d",
+   "tipo": "palabra",
+   "lec": 5,
+   "es": "cada cuatro meses",
+   "eo": "kvarmonate",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-palabra-cfb99d47",
+   "tipo": "palabra",
+   "lec": 5,
+   "es": "viajar a",
+   "eo": "alveturi",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-palabra-d0f073ee",
+   "tipo": "palabra",
+   "lec": 5,
+   "es": "más caro",
+   "eo": "pli multekosta",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-palabra-e97a3702",
+   "tipo": "palabra",
+   "lec": 5,
+   "es": "el más joven",
+   "eo": "la plej juna",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-frase-4ea965f2",
+   "tipo": "frase",
+   "lec": 5,
+   "es": "Gracias, señor. De nada.",
+   "eo": "Dankon, sinjoro. Nedankinde.",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-cloze-d19d5777",
+   "tipo": "cloze",
+   "lec": 5,
+   "es": "Gracias, señor. De nada.",
+   "eo": "Dankon, sinjoro. Nedankinde.",
+   "plantilla": "Dankon, sinjoro. Nedank{0}.",
+   "huecos": [
+    "inde"
+   ]
+  },
+  {
+   "id": "L05-frase-bc821554",
+   "tipo": "frase",
+   "lec": 5,
+   "es": "Una hora es corta, un día es más largo, un mes es el más largo.",
+   "eo": "Horo estas mallonga, tago estas pli longa, monato estas la plej longa.",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-cloze-7e4b0cc5",
+   "tipo": "cloze",
+   "lec": 5,
+   "es": "Una hora es corta, un día es más largo, un mes es el más largo.",
+   "eo": "Horo estas mallonga, tago estas pli longa, monato estas la plej longa.",
+   "plantilla": "Horo estas mallonga, tago estas {0} longa, monato estas {1} {2} longa.",
+   "huecos": [
+    "pli",
+    "la",
+    "plej"
+   ]
+  },
+  {
+   "id": "L05-frase-357ad34f",
+   "tipo": "frase",
+   "lec": 5,
+   "es": "Leo más libros que mi amigo.",
+   "eo": "Mi legas pli multajn librojn ol mia amiko.",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-cloze-49ed11ec",
+   "tipo": "cloze",
+   "lec": 5,
+   "es": "Leo más libros que mi amigo.",
+   "eo": "Mi legas pli multajn librojn ol mia amiko.",
+   "plantilla": "Mi legas pli multajn librojn {0} mia amiko.",
+   "huecos": [
+    "ol"
+   ]
+  },
+  {
+   "id": "L05-frase-fbc1619c",
+   "tipo": "frase",
+   "lec": 5,
+   "es": "Envié largas cartas a mi amigo mientras estaba en Tokio.",
+   "eo": "Mi sendis al mia amiko longajn leterojn, dum li estis en Tokio.",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-cloze-d4d24e34",
+   "tipo": "cloze",
+   "lec": 5,
+   "es": "Envié largas cartas a mi amigo mientras estaba en Tokio.",
+   "eo": "Mi sendis al mia amiko longajn leterojn, dum li estis en Tokio.",
+   "plantilla": "Mi sendis al mia amiko longajn leterojn, {0} li estis en Tokio.",
+   "huecos": [
+    "dum"
+   ]
+  },
+  {
+   "id": "L05-frase-05286b86",
+   "tipo": "frase",
+   "lec": 5,
+   "es": "Vale la pena leer el libro.",
+   "eo": "La libro estas leginda.",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-cloze-30879793",
+   "tipo": "cloze",
+   "lec": 5,
+   "es": "Vale la pena leer el libro.",
+   "eo": "La libro estas leginda.",
+   "plantilla": "La libro estas leg{0}.",
+   "huecos": [
+    "inda"
+   ]
+  },
+  {
+   "id": "L05-pregunta-399be92d",
+   "tipo": "pregunta",
+   "lec": 5,
+   "es": "¿Puedes aprender tranquilamente mientras alguien está cantando animadamente?",
+   "eo": "Ĉu vi povas trankvile lerni, dum iu ĝoje kantas?",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-pregunta-ea9a69eb",
+   "tipo": "pregunta",
+   "lec": 5,
+   "es": "¿Quién sabe cuándo y dónde nos volveremos a ver el uno al otro?",
+   "eo": "Kiu scias, kiam kaj kie ni revidos nin?",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-pregunta-c9c216b3",
+   "tipo": "pregunta",
+   "lec": 5,
+   "es": "¿Qué hora es ahora?",
+   "eo": "Kioma horo estas nun?",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-pregunta-5da60124",
+   "tipo": "pregunta",
+   "lec": 5,
+   "es": "¿Alguien te ayudó a abrir la puerta de la antigua casa?",
+   "eo": "Ĉu iu helpis al vi malfermi la pordon de la malnova domo?",
+   "aceptadas": []
+  },
+  {
+   "id": "L05-pregunta-21990017",
+   "tipo": "pregunta",
+   "lec": 5,
+   "es": "¿Por qué no tienes tiempo de escucharme más tiempo?",
+   "eo": "Kial vi ne havas tempon aŭskulti min pli longe?",
+   "aceptadas": []
+  }
+ ],
+ "fuente": {
+  "repositorio": "https://github.com/Esperanto/kurso-zagreba-metodo",
+  "lengua": "es"
+ }
+}

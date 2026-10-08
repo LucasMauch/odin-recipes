@@ -1,0 +1,1079 @@
+{
+ "id": "09",
+ "numero": 9,
+ "titulo": "Planoj pri veturado",
+ "texto": {
+  "licencia": "CC BY-ND 4.0",
+  "titolo_morfemas": [
+   [
+    "Plan",
+    "o",
+    "j"
+   ],
+   null,
+   [
+    "pri"
+   ],
+   null,
+   [
+    "vetur",
+    "ad",
+    "o"
+   ]
+  ],
+  "paragrafoj_morfemas": [
+   [
+    [
+     "Petro"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "Maria"
+    ],
+    null,
+    [
+     "vol",
+     "is"
+    ],
+    null,
+    [
+     "vojaĝ",
+     "i"
+    ],
+    null,
+    [
+     "al"
+    ],
+    null,
+    [
+     "ali",
+     "a"
+    ],
+    null,
+    [
+     "land",
+     "o"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "liber",
+     "temp",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Ili"
+    ],
+    null,
+    [
+     "decid",
+     "is"
+    ],
+    null,
+    [
+     "ir",
+     "i"
+    ],
+    null,
+    [
+     "al"
+    ],
+    null,
+    [
+     "Itali",
+     "o"
+    ],
+    ",",
+    null,
+    [
+     "bel",
+     "a"
+    ],
+    null,
+    [
+     "land",
+     "o"
+    ],
+    null,
+    [
+     "kun"
+    ],
+    null,
+    [
+     "mal",
+     "nov",
+     "a",
+     "j"
+    ],
+    null,
+    [
+     "urb",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "ali",
+     "a",
+     "j"
+    ],
+    null,
+    [
+     "bel",
+     "aĵ",
+     "o",
+     "j"
+    ],
+    ".",
+    null,
+    [
+     "Ili"
+    ],
+    null,
+    [
+     "est",
+     "is"
+    ],
+    null,
+    [
+     "feliĉ",
+     "a",
+     "j"
+    ],
+    ":"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Kie"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    null,
+    [
+     "vest",
+     "aĵ",
+     "o"
+    ],
+    "?",
+    null,
+    "–",
+    null,
+    [
+     "ŝi"
+    ],
+    null,
+    [
+     "demand",
+     "is"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Ni"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "forges",
+     "u"
+    ],
+    null,
+    [
+     "kun",
+     "port",
+     "i"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "libr",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "por"
+    ],
+    null,
+    [
+     "lern",
+     "i"
+    ],
+    null,
+    [
+     "Esper",
+     "ant",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Ni"
+    ],
+    null,
+    [
+     "pov",
+     "us"
+    ],
+    null,
+    [
+     "komenc",
+     "i"
+    ],
+    null,
+    [
+     "jam"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "vagon",
+     "ar",
+     "o"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "En"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "vagon",
+     "ar",
+     "o"
+    ],
+    null,
+    [
+     "ni"
+    ],
+    null,
+    [
+     "nenio",
+     "n"
+    ],
+    null,
+    [
+     "far",
+     "os"
+    ],
+    ",",
+    null,
+    [
+     "kar",
+     "a"
+    ],
+    null,
+    [
+     "Petro"
+    ],
+    ".",
+    null,
+    [
+     "Ni"
+    ],
+    null,
+    [
+     "vetur",
+     "os"
+    ],
+    null,
+    [
+     "per"
+    ],
+    null,
+    [
+     "aŭt",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "hav",
+     "as"
+    ],
+    null,
+    [
+     "sekret",
+     "o",
+     "n"
+    ],
+    ":",
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    null,
+    [
+     "riĉ",
+     "a"
+    ],
+    null,
+    [
+     "onkl",
+     "o"
+    ],
+    null,
+    [
+     "Bonifacio"
+    ],
+    null,
+    [
+     "plen",
+     "um",
+     "is"
+    ],
+    null,
+    [
+     "mi",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "dezir",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "don",
+     "is"
+    ],
+    null,
+    [
+     "al"
+    ],
+    null,
+    [
+     "ni"
+    ],
+    null,
+    [
+     "si",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "aŭt",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "por"
+    ],
+    null,
+    [
+     "uz",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Ĝi"
+    ],
+    null,
+    [
+     "jam"
+    ],
+    null,
+    [
+     "star",
+     "as"
+    ],
+    null,
+    [
+     "antaŭ"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "dom",
+     "o"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Sed"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "dev",
+     "as"
+    ],
+    null,
+    [
+     "dir",
+     "i"
+    ],
+    "…"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Nenio",
+     "n"
+    ],
+    null,
+    [
+     "dir",
+     "u"
+    ],
+    ",",
+    null,
+    [
+     "kar",
+     "ul",
+     "o"
+    ],
+    ",",
+    null,
+    [
+     "ni"
+    ],
+    null,
+    [
+     "ek",
+     "sid",
+     "u"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "aŭt",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "vetur",
+     "u"
+    ],
+    null,
+    [
+     "al"
+    ],
+    null,
+    [
+     "Itali",
+     "o"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Petro"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "Maria"
+    ],
+    null,
+    [
+     "sid",
+     "is"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "aŭt",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Ankaŭ"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "vest",
+     "aĵ",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "est",
+     "is"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "aŭt",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Sed"
+    ],
+    null,
+    [
+     "ili"
+    ],
+    null,
+    [
+     "ankoraŭ"
+    ],
+    null,
+    [
+     "sid",
+     "ad",
+     "is"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "atend",
+     "is"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Do"
+    ],
+    ",",
+    null,
+    [
+     "kar",
+     "ul",
+     "o"
+    ],
+    null,
+    "–",
+    null,
+    [
+     "ŝi"
+    ],
+    null,
+    [
+     "dir",
+     "is"
+    ],
+    null,
+    "–",
+    null,
+    [
+     "kial"
+    ],
+    null,
+    [
+     "ni"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "ek",
+     "vetur",
+     "as"
+    ],
+    "?"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Kar",
+     "ul",
+     "in",
+     "o"
+    ],
+    ",",
+    null,
+    [
+     "ankaŭ"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "hav",
+     "as"
+    ],
+    null,
+    [
+     "sekret",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "vetur",
+     "ig",
+     "us"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "aŭt",
+     "o",
+     "n"
+    ],
+    ",",
+    null,
+    [
+     "sed"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "sci",
+     "as"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "neniam"
+    ],
+    null,
+    [
+     "lern",
+     "is"
+    ],
+    null,
+    [
+     "tio",
+     "n"
+    ],
+    "."
+   ]
+  ],
+  "parrafos": [
+   "Petro kaj Maria volis vojaĝi al alia lando en libertempo. Ili decidis iri al Italio, bela lando kun malnovaj urboj kaj aliaj belaĵoj. Ili estis feliĉaj:",
+   "– Kie estas mia vestaĵo? – ŝi demandis.",
+   "– Ni ne forgesu kunporti la libron por lerni Esperanton. Ni povus komenci jam en la vagonaro.",
+   "– En la vagonaro ni nenion faros, kara Petro. Ni veturos per aŭto. Mi havas sekreton: mia riĉa onklo Bonifacio plenumis mian deziron kaj donis al ni sian aŭton por uzo. Ĝi jam staras antaŭ la domo.",
+   "– Sed mi devas diri…",
+   "– Nenion diru, karulo, ni eksidu en la aŭton kaj veturu al Italio.",
+   "Petro kaj Maria sidis en la aŭto. Ankaŭ la vestaĵoj estis en la aŭto. Sed ili ankoraŭ sidadis kaj atendis.",
+   "– Do, karulo – ŝi diris – kial ni ne ekveturas?",
+   "– Karulino, ankaŭ mi havas sekreton. Mi veturigus la aŭton, sed mi ne scias. Mi neniam lernis tion."
+  ]
+ },
+ "gramatica_md": "# Condicional\n\nEn esperanto las formas verbales se emplean atendiendo únicamente al sentido de la frase. Por ello, el condicional **-US** se usará cuando hay condiciones, parecido al español, aunque a veces haya excepciones como en el tercer ejemplo:\n\n- _mi kred**us**_ – Yo creería\n- _vi kred**us**_ – Tú creerías\n- _se mi pov**us**, mi aĉet**us** ĝin_ – Si yo pudiese, lo compraría\n\nTambién se usa para atenuar el sentido del verbo, la petición, deseo, etcétera:\n\n- _Ĉu vi pov**us** doni al mi la libron?_ – ¿Podrías darme el libro?\n\n**💡 Truco:** *-us* sirve tanto para condiciones como para sonar más cortés: *Ĉu vi povus...?*\n\nCon **-US** se forman los condicionales improbables e imposibles:\n\n- _se via patro ven**us**, ni vojaĝ**us** kun li_ – Si tu padre viniese, viajaríamos con él\n- _se vi est**us** pli juna kaj bela, mi am**us** vin_ – Si fueras más joven y guapo/a, te amaría\n\n**⚠️ Atención:** no traduzcas automáticamente el condicional español palabra por palabra; elige *-us*, *-os* o *-as* según el sentido.\n\nHay otro tipo de condicionales, que indican una condición probable o una advertencia y, como tienen sentido de futuro y probable, se forman con **-OS**:\n\n- _se vi ven**os** post la vespermanĝo, mi prepar**os** kafon por vi_ – Si vienes después de la cena, te prepararé un café\n- _se la lernanto ne stud**os** la lecionojn, li ler**nos** nenion_ – Si el alumno no estudia las lecciones, no va a aprender (aprenderá) nada.\n\nPor último, hay condicionales con verdades generales, que siempre ocurren, como por ejemplo los fenómenos naturales, y se forman con **-AS**:\n\n- _se oni tro maljuniĝ**as**, oni mort**as**_ – Si se envejece demasiado, uno se muere\n- _se oni hav**as** multe da mono, oni est**as** riĉa_ – Si se tiene mucho dinero, se es rico\n\n**💡 Truco:** si la frase expresa una verdad general, usa *-as*: *se oni havas..., oni estas...*\n\n# *Kvazaŭ*\n\nSignifica \"como si, como si fuese, como\" e indica semejanza (para indicar igualdad o identidad se emplea **kiel**):\n\n- _Vi sidas **kvazaŭ** vi estus riĉulo._ – Estás sentado como si fueras un rico\n- _Vi sidas **kvazaŭ** riĉulo._ – Estás sentado como un rico (sin serlo)\n\n**⚠️ Atención:** *kvazaŭ* no afirma que algo sea verdad; solo dice que se parece o se comporta \"como si\".\n\n# Sufijo *-ad-*\n\nIndica la idea de acción, sobre todo de una acción continuada y repetida si se añade a una palabra que ya indica una acción:\n\n- *martelo* – Martillo\n  - _martel**ad**i_ – Martillear / _martel**ad**o_ – Martilleo\n- *krono* – Corona\n  - *kroni* – Coronar / _kron**ad**o_ – Coronación\n- *salti* – Saltar, dar un salto\n  - _salt**ad**i_ – Saltar continuamente, dar saltos\n- *skribi* – escribir\n  - _skrib**ad**i_ – escribir largo rato\n\n**💡 Truco:** *-ad-* alarga o repite la acción: *skribi* → *skribadi*.\n\n# Sufijo *-ar-*\n\nIndica un conjunto o un grupo de seres u objetos de la misma naturaleza:\n\n- *vorto* – Palabra\n  - _vort**ar**o_ – Diccionario\n- *arbo* – Árbol\n  - _arb**ar**o_ – Bosque\n- *junulo* – (un) joven\n  - _junul**ar**o_ – (La) juventud, los jóvenes\n- *homo* - ser humano\n  - _hom**ar**o_ - (La) humanidad\n- *porko* - cerdo (o cerda)\n  - _pork**ar**o_ - Una piara\n\n**💡 Truco:** *-ar-* reúne elementos del mismo tipo: *arbo* → *arbaro*, *vorto* → *vortaro*.\n\n# Sufijo *-um-*\n\nCarece de significación concreta y se emplea para formar palabras cuya relación con la raíz no se puede expresar por medio de otros afijos:\n\n- *plena* – Lleno/a\n  - _plen**um**i_ – Cumplir\n- *proksima* – Próximo/a\n  - _proksim**um**e_ – Aproximadamente\n- *malvarma* – Frío\n  - _malvarm**um**i_ – Resfriarse\n- *brako* – Brazo\n  - _brak**um**i_ – Abrazar\n\n**⚠️ Atención:** *-um-* no tiene una traducción fija; aprende estas palabras como vocabulario.\n",
+ "raices_nuevas": [
+  "almenaŭ",
+  "atent",
+  "ĉirkaŭ",
+  "divers",
+  "do",
+  "ekster",
+  "ide",
+  "klar",
+  "kred",
+  "kvazaŭ",
+  "manier",
+  "mank",
+  "mond",
+  "organiz",
+  "plan",
+  "pluv",
+  "rajt",
+  "rakont",
+  "sam",
+  "ŝajn",
+  "voj",
+  "inform"
+ ],
+ "cartas": [
+  {
+   "id": "L09-palabra-af77a8af",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "increíble",
+   "eo": "nekredebla",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-palabra-632b0b12",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "organización",
+   "eo": "organizado",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-palabra-b649b8b7",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "información",
+   "eo": "informado",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-palabra-3492c918",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "voluntariamente",
+   "eo": "libervole",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-palabra-d34fd0f0",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "charla",
+   "eo": "parolado",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-palabra-3f117f65",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "de camino",
+   "eo": "survoje",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-palabra-9a4804fd",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "humanidad",
+   "eo": "homaro",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-palabra-1c1d600c",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "probablemente",
+   "eo": "kredeble",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-palabra-e3179d36",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "viajar con alguien",
+   "eo": "kunvojaĝi",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-palabra-db1f625d",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "comida",
+   "eo": "manĝaĵo",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-palabra-a9d8a0e6",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "noticia",
+   "eo": "novaĵo",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-palabra-513ff8be",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "tren",
+   "eo": "vagonaro",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-palabra-ecdf8863",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "alrededores",
+   "eo": "ĉirkaŭaĵo",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-palabra-9d61cc1c",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "derecho a hablar",
+   "eo": "parolrajto",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-palabra-d65b1894",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "casucha",
+   "eo": "domaĉo",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-palabra-d48ee151",
+   "tipo": "palabra",
+   "lec": 9,
+   "es": "en ese caso",
+   "eo": "tiuokaze",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-frase-6a27f7b7",
+   "tipo": "frase",
+   "lec": 9,
+   "es": "Si tuviera tanto dinero como ideas, viajaría por todo el mundo.",
+   "eo": "Se mi havus tiom da mono kiom da ideoj, mi vojaĝadus ĉirkaŭ la mondo.",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-cloze-2d48262d",
+   "tipo": "cloze",
+   "lec": 9,
+   "es": "Si tuviera tanto dinero como ideas, viajaría por todo el mundo.",
+   "eo": "Se mi havus tiom da mono kiom da ideoj, mi vojaĝadus ĉirkaŭ la mondo.",
+   "plantilla": "Se mi havus tiom da mono kiom da ideoj, mi vojaĝ{0}us ĉirkaŭ la mondo.",
+   "huecos": [
+    "ad"
+   ]
+  },
+  {
+   "id": "L09-frase-ce3273fe",
+   "tipo": "frase",
+   "lec": 9,
+   "es": "En todo diccionario faltan algunas palabras.",
+   "eo": "En ĉiu vortaro mankas kelkaj vortoj.",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-cloze-4b65adaf",
+   "tipo": "cloze",
+   "lec": 9,
+   "es": "En todo diccionario faltan algunas palabras.",
+   "eo": "En ĉiu vortaro mankas kelkaj vortoj.",
+   "plantilla": "En ĉiu vort{0}o mankas kelkaj vortoj.",
+   "huecos": [
+    "ar"
+   ]
+  },
+  {
+   "id": "L09-frase-5ab9d559",
+   "tipo": "frase",
+   "lec": 9,
+   "es": "Una persona que sigue contando historias durante mucho tiempo en la mesa del comedor seguirá teniendo hambre.",
+   "eo": "Homo, kiu longe rakontadas ĉe la manĝotablo, restos malsata.",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-cloze-ecbccc34",
+   "tipo": "cloze",
+   "lec": 9,
+   "es": "Una persona que sigue contando historias durante mucho tiempo en la mesa del comedor seguirá teniendo hambre.",
+   "eo": "Homo, kiu longe rakontadas ĉe la manĝotablo, restos malsata.",
+   "plantilla": "Homo, kiu longe rakont{0}as ĉe la manĝotablo, restos malsata.",
+   "huecos": [
+    "ad"
+   ]
+  },
+  {
+   "id": "L09-frase-dcbc9c49",
+   "tipo": "frase",
+   "lec": 9,
+   "es": "Tenía que prestar atención y no se le permitía permanecer mucho tiempo afuera bajo la lluvia. Por eso se resfrió.",
+   "eo": "Li devis atenti kaj ne rajtis longe resti ekstere en pluvo. Tial li malvarmumis.",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-cloze-b35691aa",
+   "tipo": "cloze",
+   "lec": 9,
+   "es": "Tenía que prestar atención y no se le permitía permanecer mucho tiempo afuera bajo la lluvia. Por eso se resfrió.",
+   "eo": "Li devis atenti kaj ne rajtis longe resti ekstere en pluvo. Tial li malvarmumis.",
+   "plantilla": "Li devis atenti kaj ne rajtis longe resti ekstere en pluvo. Tial li malvarm{0}is.",
+   "huecos": [
+    "um"
+   ]
+  },
+  {
+   "id": "L09-frase-8d03b302",
+   "tipo": "frase",
+   "lec": 9,
+   "es": "Él tiene su idea clara, pero creerá todo lo que le digas, como si fuera su esposa.",
+   "eo": "Li havas sian klaran ideon, sed li kredos ĉion, kion vi diros, kvazaŭ vi estus lia edzino.",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-cloze-bed53082",
+   "tipo": "cloze",
+   "lec": 9,
+   "es": "Él tiene su idea clara, pero creerá todo lo que le digas, como si fuera su esposa.",
+   "eo": "Li havas sian klaran ideon, sed li kredos ĉion, kion vi diros, kvazaŭ vi estus lia edzino.",
+   "plantilla": "Li havas sian klaran ideon, sed li kredos ĉion, kion vi diros, {0} vi estus lia edzino.",
+   "huecos": [
+    "kvazaŭ"
+   ]
+  },
+  {
+   "id": "L09-pregunta-1552c994",
+   "tipo": "pregunta",
+   "lec": 9,
+   "es": "¿Qué es lo que más podría poner contentos a tus padres?",
+   "eo": "Kio povus plej ĝojigi viajn gepatrojn?",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-pregunta-bd5a13fe",
+   "tipo": "pregunta",
+   "lec": 9,
+   "es": "¡Si al menos tú fueras conmigo a la ciudad después de las clases!",
+   "eo": "Se almenaŭ vi post la lernado irus kun mi en la urbon!",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-pregunta-00bb486d",
+   "tipo": "pregunta",
+   "lec": 9,
+   "es": "¿Adónde te gustaría viajar si tuvieras suficiente dinero y tiempo?",
+   "eo": "Kien vi dezirus vojaĝi, se vi havus sufiĉe da mono kaj tempo?",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-pregunta-499b8d02",
+   "tipo": "pregunta",
+   "lec": 9,
+   "es": "¿Viajas a Italia en auto o mejor en tren?",
+   "eo": "Ĉu vi planas veturi al Italio per aŭto aŭ ĉu ne ŝajnas multe pli bone per vagonaro?",
+   "aceptadas": []
+  },
+  {
+   "id": "L09-pregunta-e5410d28",
+   "tipo": "pregunta",
+   "lec": 9,
+   "es": "¿Por qué personas distintas explican las mismas ideas de maneras distintas?",
+   "eo": "Kial diversaj homoj klarigas samajn ideojn diversmaniere?",
+   "aceptadas": []
+  }
+ ],
+ "fuente": {
+  "repositorio": "https://github.com/Esperanto/kurso-zagreba-metodo",
+  "lengua": "es"
+ }
+}

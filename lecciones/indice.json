@@ -1,0 +1,74 @@
+[
+ {
+  "id": "01",
+  "numero": 1,
+  "titulo": "Amiko Marko",
+  "cartas": 30
+ },
+ {
+  "id": "02",
+  "numero": 2,
+  "titulo": "La amikino de Marko",
+  "cartas": 29
+ },
+ {
+  "id": "03",
+  "numero": 3,
+  "titulo": "En kafejo",
+  "cartas": 33
+ },
+ {
+  "id": "04",
+  "numero": 4,
+  "titulo": "Miaj leteroj",
+  "cartas": 31
+ },
+ {
+  "id": "05",
+  "numero": 5,
+  "titulo": "Nova aŭto",
+  "cartas": 30
+ },
+ {
+  "id": "06",
+  "numero": 6,
+  "titulo": "Maja",
+  "cartas": 34
+ },
+ {
+  "id": "07",
+  "numero": 7,
+  "titulo": "Ĉiam malfrue",
+  "cartas": 30
+ },
+ {
+  "id": "08",
+  "numero": 8,
+  "titulo": "Malbela tago",
+  "cartas": 34
+ },
+ {
+  "id": "09",
+  "numero": 9,
+  "titulo": "Planoj pri veturado",
+  "cartas": 31
+ },
+ {
+  "id": "10",
+  "numero": 10,
+  "titulo": "Familianoj kunvenas",
+  "cartas": 27
+ },
+ {
+  "id": "11",
+  "numero": 11,
+  "titulo": "La sentimulo",
+  "cartas": 28
+ },
+ {
+  "id": "12",
+  "numero": 12,
+  "titulo": "Nokta promeno",
+  "cartas": 27
+ }
+]

@@ -1,0 +1,862 @@
+{
+ "id": "07",
+ "numero": 7,
+ "titulo": "Ĉiam malfrue",
+ "texto": {
+  "licencia": "CC BY-ND 4.0",
+  "titolo_morfemas": [
+   [
+    "Ĉiam"
+   ],
+   null,
+   [
+    "mal",
+    "fru",
+    "e"
+   ]
+  ],
+  "paragrafoj_morfemas": [
+   [
+    [
+     "Marko"
+    ],
+    null,
+    [
+     "dorm",
+     "is"
+    ],
+    null,
+    [
+     "maten",
+     "e"
+    ],
+    null,
+    [
+     "tre"
+    ],
+    null,
+    [
+     "long",
+     "e"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Kiam"
+    ],
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "vid",
+     "is"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "sun",
+     "o",
+     "n"
+    ],
+    ",",
+    null,
+    [
+     "subit",
+     "e"
+    ],
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "ek",
+     "salt",
+     "is"
+    ],
+    ".",
+    null,
+    [
+     "Ĉiam"
+    ],
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "mal",
+     "fru",
+     "as"
+    ],
+    ",",
+    null,
+    [
+     "kiam"
+    ],
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "dev",
+     "as"
+    ],
+    null,
+    [
+     "ir",
+     "i"
+    ],
+    null,
+    [
+     "al"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "lern",
+     "ej",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Li"
+    ],
+    null,
+    [
+     "sci",
+     "as"
+    ],
+    ",",
+    null,
+    [
+     "ke"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "instru",
+     "ist",
+     "in",
+     "o"
+    ],
+    null,
+    [
+     "mal",
+     "ŝat",
+     "as"
+    ],
+    null,
+    [
+     "tio",
+     "n"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Sed"
+    ],
+    null,
+    [
+     "hodiaŭ"
+    ],
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "vol",
+     "as"
+    ],
+    null,
+    [
+     "mal",
+     "fru",
+     "i"
+    ],
+    ".",
+    null,
+    [
+     "Li"
+    ],
+    null,
+    [
+     "rapid",
+     "e"
+    ],
+    null,
+    [
+     "met",
+     "is"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "vest",
+     "aĵ",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Rapid",
+     "eg",
+     "e"
+    ],
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "trink",
+     "is"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "kaf",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Post",
+     "e"
+    ],
+    null,
+    [
+     "kun"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "libr",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "man",
+     "o"
+    ],
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "kur",
+     "is"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "salt",
+     "is"
+    ],
+    null,
+    [
+     "laŭ"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "strat",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "La"
+    ],
+    null,
+    [
+     "hom",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "rigard",
+     "is"
+    ],
+    null,
+    [
+     "li",
+     "n"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "dir",
+     "is"
+    ],
+    ":",
+    null,
+    "\"",
+    [
+     "Kia"
+    ],
+    null,
+    [
+     "mal",
+     "saĝ",
+     "a"
+    ],
+    null,
+    [
+     "knab",
+     "o"
+    ],
+    ".",
+    "\""
+   ],
+   [
+    null,
+    [
+     "Baldaŭ"
+    ],
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "est",
+     "is"
+    ],
+    null,
+    [
+     "antaŭ"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "lern",
+     "ej",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Li"
+    ],
+    null,
+    [
+     "vol",
+     "is"
+    ],
+    null,
+    [
+     "en",
+     "ir",
+     "i"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "lern",
+     "ej",
+     "o",
+     "n"
+    ],
+    ",",
+    null,
+    [
+     "sed"
+    ],
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "pov",
+     "is"
+    ],
+    ".",
+    null,
+    [
+     "Ĝi"
+    ],
+    null,
+    [
+     "est",
+     "is"
+    ],
+    null,
+    [
+     "ferm",
+     "it",
+     "a"
+    ],
+    ".",
+    null,
+    [
+     "Li"
+    ],
+    null,
+    [
+     "vid",
+     "is"
+    ],
+    null,
+    [
+     "nek"
+    ],
+    null,
+    [
+     "instru",
+     "ist",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "nek"
+    ],
+    null,
+    [
+     "ge",
+     "lern",
+     "ant",
+     "o",
+     "j",
+     "n"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Li"
+    ],
+    null,
+    [
+     "ek",
+     "sid",
+     "is"
+    ],
+    null,
+    [
+     "antaŭ"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "lern",
+     "ej",
+     "o"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "pens",
+     "is"
+    ],
+    ":",
+    null,
+    [
+     "kio"
+    ],
+    null,
+    [
+     "okaz",
+     "is"
+    ],
+    "?"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Diabl",
+     "e"
+    ],
+    ",",
+    null,
+    [
+     "nun"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "memor",
+     "as"
+    ],
+    "!",
+    null,
+    [
+     "Hodiaŭ"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "dimanĉ",
+     "o"
+    ],
+    "!"
+   ]
+  ],
+  "parrafos": [
+   "Marko dormis matene tre longe.",
+   "Kiam li vidis la sunon, subite li eksaltis. Ĉiam li malfruas, kiam li devas iri al la lernejo. Li scias, ke la instruistino malŝatas tion.",
+   "Sed hodiaŭ li ne volas malfrui. Li rapide metis la vestaĵon. Rapidege li trinkis la kafon. Poste kun la libroj en la mano li kuris kaj saltis laŭ la strato. La homoj rigardis lin kaj diris: \"Kia malsaĝa knabo.\"",
+   "Baldaŭ li estis antaŭ la lernejo. Li volis eniri en la lernejon, sed li ne povis. Ĝi estis fermita. Li vidis nek instruiston nek gelernantojn.",
+   "Li eksidis antaŭ la lernejo kaj pensis: kio okazis?",
+   "– Diable, nun mi memoras! Hodiaŭ estas dimanĉo!"
+  ]
+ },
+ "gramatica_md": "# Negación\n\nLa palabra **nek** significa \"ni\" y se usa en pares o junto a otra negación:\n\n- _Mi vidis **nek** la tablon **nek** la seĝon._ – No vi ni la mesa ni la silla\n- _**Nek** li **nek** ŝi respondis._ – Ni él ni ella respondieron\n- _Vi **nek** sidas **nek** rigardas._ – No estás ni sentado ni mirando\n\nImportante: en esperanto una oración negativa lleva solo una negación; dos negaciones en una misma oración se transforman en una afirmación.\n\n- _**No** miraré **nunca** a nadie._ – Mi neniam rigardos iun / Mi rigardos neniun\n\n**⚠️ Atención:** el español usa doble negación (\"no... nunca\", \"no... nadie\"); en esperanto normalmente basta una sola negación.\n\n# *Mem*\n\nSignifica \"mismo/a, mismos/as, por sí mismo\", y se coloca siempre detrás de la palabra que se desea destacar:\n\n- _Mi **mem** faris tion_ – Yo mismo hice eso / Lo hice yo mismo\n- *Mi sola faris tion* – Lo hice yo solo\n\n**💡 Truco:** *mem* destaca; *sola* habla de estar solo. No son lo mismo.\n\n# Hasta la vista\n\nLa expresión \"¡Hasta la vista!\" se traduce en esperanto como \"Ĝis la revido!\" (hasta la \"re-vista\", hasta la próxima vez que nos volvamos a ver\"). Se suele abreviar como \"Ĝis!\", que también se utiliza como un \"adiós\" amistoso, dejando abierta la oportunidad de volverse a ver. A veces también se oye \"Ĝis revido\" o \"Ĝis la\" (esto último es incorrecto, desaconsejable).\n\n**💡 Truco:** *ĝis* apunta a un próximo encuentro: *Ĝis!* = \"¡hasta luego!\".\n\n# Prefijo *ek-*\n\nIndica una acción que comienza, o una acción breve, momentánea, súbita:\n\nEjemplos:\n\n- _**ek**paroli_ – Empezar a hablar\n- _**ek**sidi_ – Sentarse\n- _**ek**ridi_ – Echarse a reír\n\n**💡 Truco:** *ek-* es el clic de inicio: *paroli* → *ekparoli*, *ridi* → *ekridi*.\n\n# Sufijo *-aĵ-*\n\nIndica la manifestación concreta de lo expresado por la raíz. Indica una cosa, un objeto material:\n\n- _manĝ**aĵ**o_ – comida, alimento, algo que se come\n- _trink**aĵ**o_ – bebida\n- _bel**aĵ**o_ – una cosa bonita\n- _stult**aĵ**o_ – una tontería\n\n**💡 Truco:** *-aĵ-* convierte una cualidad o acción en una cosa concreta.\n",
+ "raices_nuevas": [
+  "akv",
+  "atend",
+  "eĉ",
+  "ĝis",
+  "kri",
+  "las",
+  "mem",
+  "moment",
+  "nokt",
+  "poŝt",
+  "rid"
+ ],
+ "cartas": [
+  {
+   "id": "L07-palabra-deaa794e",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "sonreír",
+   "eo": "rideti",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-palabra-1f97d896",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "pernoctación",
+   "eo": "tranokto",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-palabra-3adab86b",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "irse",
+   "eo": "foriri",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-palabra-2bc59c41",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "dejar",
+   "eo": "forlasi",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-palabra-21c2de42",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "desde",
+   "eo": "ekde",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-palabra-6beb4cd2",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "comer todo",
+   "eo": "formanĝi",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-palabra-7b97d56b",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "arrebatar",
+   "eo": "forpreni",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-palabra-6b625d09",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "en la medida de lo posible",
+   "eo": "laŭeble",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-palabra-f042e45e",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "sabio",
+   "eo": "saĝulo",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-palabra-b323f5f6",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "ponerse de pie",
+   "eo": "ekstari",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-palabra-0d51762d",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "tarjeta postal",
+   "eo": "poŝtkarto",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-palabra-7685b349",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "diablillo",
+   "eo": "diableto",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-palabra-74c97f24",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "inútil",
+   "eo": "senutila",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-palabra-9f66bcd5",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "salir corriendo",
+   "eo": "elkuri",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-palabra-4bb258da",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "enamorarse",
+   "eo": "ekami",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-palabra-2ae38685",
+   "tipo": "palabra",
+   "lec": 7,
+   "es": "hasta ahora",
+   "eo": "ĝisnuna",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-frase-346cd55e",
+   "tipo": "frase",
+   "lec": 7,
+   "es": "Bebió su bebida matutina muy rápidamente para llegar temprano a la escuela.",
+   "eo": "Li trinkis rapidege sian matenan trinkaĵon por frue veni al la lernejo.",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-cloze-256db0ce",
+   "tipo": "cloze",
+   "lec": 7,
+   "es": "Bebió su bebida matutina muy rápidamente para llegar temprano a la escuela.",
+   "eo": "Li trinkis rapidege sian matenan trinkaĵon por frue veni al la lernejo.",
+   "plantilla": "Li trinkis rapidege sian matenan trink{0} por frue ven{1} al la lernejo.",
+   "huecos": [
+    "aĵon",
+    "i"
+   ]
+  },
+  {
+   "id": "L07-frase-bc7271d3",
+   "tipo": "frase",
+   "lec": 7,
+   "es": "Todavía no he escuchado ninguna noticia.",
+   "eo": "Mi ankoraŭ ne aŭdis novaĵon.",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-cloze-3b4b5d5f",
+   "tipo": "cloze",
+   "lec": 7,
+   "es": "Todavía no he escuchado ninguna noticia.",
+   "eo": "Mi ankoraŭ ne aŭdis novaĵon.",
+   "plantilla": "Mi ankoraŭ ne aŭdis nova{0}.",
+   "huecos": [
+    "ĵon"
+   ]
+  },
+  {
+   "id": "L07-frase-feabc712",
+   "tipo": "frase",
+   "lec": 7,
+   "es": "En ese momento Marko gritó.",
+   "eo": "En tiu momento Marko ekkriis.",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-cloze-ae077e1d",
+   "tipo": "cloze",
+   "lec": 7,
+   "es": "En ese momento Marko gritó.",
+   "eo": "En tiu momento Marko ekkriis.",
+   "plantilla": "En tiu momento Marko {0}kriis.",
+   "huecos": [
+    "ek"
+   ]
+  },
+  {
+   "id": "L07-frase-77c76c2f",
+   "tipo": "frase",
+   "lec": 7,
+   "es": "Un niño que no ama a otros niños y niñas no tiene amigos ni amigas.",
+   "eo": "Knabo, kiu ne amas aliajn geknabojn, havas nek amikojn nek amikinojn.",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-cloze-236caf28",
+   "tipo": "cloze",
+   "lec": 7,
+   "es": "Un niño que no ama a otros niños y niñas no tiene amigos ni amigas.",
+   "eo": "Knabo, kiu ne amas aliajn geknabojn, havas nek amikojn nek amikinojn.",
+   "plantilla": "Knabo, kiu ne amas aliajn geknabojn, havas {0} amikojn {1} amikinojn.",
+   "huecos": [
+    "nek",
+    "nek"
+   ]
+  },
+  {
+   "id": "L07-pregunta-45bc0ded",
+   "tipo": "pregunta",
+   "lec": 7,
+   "es": "¿Quién tenía el libro que estuviste esperando más de dos años?",
+   "eo": "Kiu havis la libron, kiun vi atendis pli ol du jarojn?",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-pregunta-7f0a23c6",
+   "tipo": "pregunta",
+   "lec": 7,
+   "es": "¿Quieres que te enseñe la fotografía que más aprecio?",
+   "eo": "Ĉu vi volas, ke mi montru al vi mian plej karan foton?",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-pregunta-8cb382b2",
+   "tipo": "pregunta",
+   "lec": 7,
+   "es": "¿Dónde compraste esa prenda?",
+   "eo": "Kie vi aĉetis tiun vestaĵon?",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-pregunta-05cfaced",
+   "tipo": "pregunta",
+   "lec": 7,
+   "es": "¿Adónde irás el domingo si es un día soleado?",
+   "eo": "Kien vi iros dimanĉe, se estos suna tago?",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-pregunta-9683f77e",
+   "tipo": "pregunta",
+   "lec": 7,
+   "es": "¿Tu hermano ya se ha ido?",
+   "eo": "Ĉu via frato jam ekiris?",
+   "aceptadas": []
+  },
+  {
+   "id": "L07-pregunta-59d87b43",
+   "tipo": "pregunta",
+   "lec": 7,
+   "es": "¿Dónde está el agua que tú mismo has traído?",
+   "eo": "Kie estas la akvo, kiun vi mem kunportis?",
+   "aceptadas": []
+  }
+ ],
+ "fuente": {
+  "repositorio": "https://github.com/Esperanto/kurso-zagreba-metodo",
+  "lengua": "es"
+ }
+}

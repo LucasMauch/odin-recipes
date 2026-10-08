@@ -1,0 +1,1570 @@
+{
+ "id": "10",
+ "numero": 10,
+ "titulo": "Familianoj kunvenas",
+ "texto": {
+  "licencia": "CC BY-ND 4.0",
+  "titolo_morfemas": [
+   [
+    "Famili",
+    "an",
+    "o",
+    "j"
+   ],
+   null,
+   [
+    "kun",
+    "ven",
+    "as"
+   ]
+  ],
+  "paragrafoj_morfemas": [
+   [
+    "–",
+    null,
+    [
+     "Kiel"
+    ],
+    null,
+    [
+     "rapid",
+     "e"
+    ],
+    null,
+    [
+     "pas",
+     "as"
+    ],
+    null,
+    [
+     "tag",
+     "o",
+     "j"
+    ],
+    "!",
+    null,
+    [
+     "Morgaŭ"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "nask",
+     "iĝ",
+     "tag",
+     "o"
+    ],
+    null,
+    [
+     "de"
+    ],
+    null,
+    [
+     "vi",
+     "a"
+    ],
+    null,
+    [
+     "patr",
+     "o"
+    ],
+    ",",
+    null,
+    [
+     "Marko"
+    ],
+    ".",
+    null,
+    [
+     "Al",
+     "ven",
+     "os"
+    ],
+    null,
+    [
+     "kelk",
+     "a",
+     "j"
+    ],
+    null,
+    [
+     "famili",
+     "an",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "ge",
+     "amik",
+     "o",
+     "j"
+    ],
+    ".",
+    null,
+    [
+     "Ĉu"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "bon",
+     "vol",
+     "us"
+    ],
+    null,
+    [
+     "iom"
+    ],
+    null,
+    [
+     "help",
+     "i"
+    ],
+    "?",
+    null,
+    [
+     "Trov",
+     "u"
+    ],
+    null,
+    [
+     "iom",
+     "et",
+     "e"
+    ],
+    null,
+    [
+     "da"
+    ],
+    null,
+    [
+     "temp",
+     "o"
+    ],
+    null,
+    [
+     "almenaŭ"
+    ],
+    null,
+    [
+     "por"
+    ],
+    null,
+    [
+     "ord",
+     "ig",
+     "i"
+    ],
+    null,
+    [
+     "vi",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "ĉambr",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "ŝat",
+     "us"
+    ],
+    null,
+    [
+     "kuir",
+     "i"
+    ],
+    null,
+    [
+     "io",
+     "n"
+    ],
+    null,
+    [
+     "bon",
+     "a",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Por"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "nask",
+     "iĝ",
+     "tag",
+     "a"
+    ],
+    null,
+    [
+     "kuk",
+     "o"
+    ],
+    null,
+    [
+     "mank",
+     "as"
+    ],
+    null,
+    [
+     "lakt",
+     "o"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "hejm",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Neces",
+     "as"
+    ],
+    null,
+    [
+     "hav",
+     "ig",
+     "i"
+    ],
+    null,
+    [
+     "iom"
+    ],
+    null,
+    [
+     "da"
+    ],
+    null,
+    [
+     "manĝ",
+     "aĵ",
+     "o"
+    ],
+    null,
+    [
+     "el"
+    ],
+    null,
+    [
+     "vend",
+     "ej",
+     "o"
+    ],
+    "…"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Bon",
+     "e"
+    ],
+    ",",
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "aĉet",
+     "um",
+     "os"
+    ],
+    null,
+    [
+     "por"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "nask",
+     "iĝ",
+     "tag",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Sed"
+    ],
+    ",",
+    null,
+    [
+     "anstataŭ"
+    ],
+    null,
+    [
+     "sid",
+     "i"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "manĝ",
+     "eg",
+     "i"
+    ],
+    null,
+    [
+     "kun"
+    ],
+    null,
+    [
+     "ne",
+     "interes",
+     "a",
+     "j"
+    ],
+    null,
+    [
+     "famili",
+     "an",
+     "o",
+     "j"
+    ],
+    ",",
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "ŝat",
+     "us"
+    ],
+    null,
+    [
+     "ekskurs",
+     "i"
+    ],
+    null,
+    [
+     "kun"
+    ],
+    null,
+    [
+     "klub",
+     "an",
+     "o",
+     "j"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Kun"
+    ],
+    null,
+    [
+     "kiu",
+     "j"
+    ],
+    null,
+    [
+     "klub",
+     "an",
+     "o",
+     "j"
+    ],
+    "?",
+    null,
+    "–",
+    null,
+    [
+     "dir",
+     "is"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "patr",
+     "in",
+     "o"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "ĵet",
+     "is"
+    ],
+    null,
+    [
+     "ia",
+     "j",
+     "n"
+    ],
+    null,
+    [
+     "paper",
+     "o",
+     "j",
+     "n"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "paper",
+     "uj",
+     "o",
+     "n"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Morgaŭ"
+    ],
+    null,
+    [
+     "fru",
+     "e"
+    ],
+    null,
+    [
+     "kun",
+     "ven",
+     "as"
+    ],
+    null,
+    [
+     "an",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "de"
+    ],
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    null,
+    [
+     "sport",
+     "a"
+    ],
+    null,
+    [
+     "klub",
+     "o"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Sed"
+    ],
+    ",",
+    null,
+    [
+     "kar",
+     "a"
+    ],
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    ",",
+    null,
+    [
+     "ĉu"
+    ],
+    null,
+    [
+     "ĝust",
+     "e"
+    ],
+    null,
+    [
+     "morgaŭ"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "dev",
+     "as"
+    ],
+    null,
+    [
+     "for",
+     "est",
+     "i"
+    ],
+    "?",
+    null,
+    [
+     "Ĉu"
+    ],
+    null,
+    [
+     "vi"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "inter",
+     "vid",
+     "iĝ",
+     "as"
+    ],
+    null,
+    [
+     "kun"
+    ],
+    null,
+    [
+     "vi",
+     "a",
+     "j"
+    ],
+    null,
+    [
+     "sam",
+     "klub",
+     "an",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "tri",
+     "foj",
+     "e"
+    ],
+    null,
+    [
+     "semajn",
+     "e"
+    ],
+    "?"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Ĉu"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "rajt",
+     "as"
+    ],
+    null,
+    [
+     "io",
+     "n"
+    ],
+    null,
+    [
+     "propon",
+     "i"
+    ],
+    ":",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "kun",
+     "manĝ",
+     "os"
+    ],
+    null,
+    [
+     "kun"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "famili",
+     "an",
+     "o",
+     "j"
+    ],
+    ".",
+    null,
+    [
+     "Sed"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "du",
+     "a"
+    ],
+    null,
+    [
+     "part",
+     "o"
+    ],
+    null,
+    [
+     "de"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "tag",
+     "o"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "for",
+     "ir",
+     "os"
+    ],
+    null,
+    [
+     "kun"
+    ],
+    null,
+    [
+     "mi",
+     "a",
+     "j"
+    ],
+    null,
+    [
+     "ge",
+     "amik",
+     "o",
+     "j"
+    ],
+    ".",
+    null,
+    [
+     "Post"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "kuk",
+     "o"
+    ],
+    null,
+    [
+     "Maria"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "Petro"
+    ],
+    null,
+    [
+     "cert",
+     "e"
+    ],
+    null,
+    [
+     "parol",
+     "os"
+    ],
+    null,
+    [
+     "pri"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "mal",
+     "sukces",
+     "a"
+    ],
+    null,
+    [
+     "vetur",
+     "ad",
+     "o"
+    ],
+    null,
+    [
+     "per"
+    ],
+    null,
+    [
+     "aŭt",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Mal",
+     "interes",
+     "e"
+    ],
+    "!",
+    null,
+    [
+     "Mi"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "plu"
+    ],
+    null,
+    [
+     "vol",
+     "as"
+    ],
+    null,
+    [
+     "tio",
+     "n"
+    ],
+    null,
+    [
+     "aŭd",
+     "i"
+    ],
+    "!",
+    null,
+    [
+     "Kial"
+    ],
+    null,
+    [
+     "ni"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "hav",
+     "as"
+    ],
+    null,
+    [
+     "iu",
+     "n"
+    ],
+    null,
+    [
+     "ide",
+     "o",
+     "riĉ",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "onkl",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "Bonifacio"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "ni",
+     "a"
+    ],
+    null,
+    [
+     "famili",
+     "o"
+    ],
+    "?",
+    "!"
+   ],
+   [
+    [
+     "La"
+    ],
+    null,
+    [
+     "patr",
+     "in",
+     "o"
+    ],
+    null,
+    [
+     "rid",
+     "et",
+     "is"
+    ],
+    null,
+    [
+     "je"
+    ],
+    null,
+    [
+     "li",
+     "a",
+     "j"
+    ],
+    null,
+    [
+     "vort",
+     "o",
+     "j"
+    ],
+    ".",
+    null,
+    [
+     "Ŝi"
+    ],
+    null,
+    [
+     "sci",
+     "as"
+    ],
+    ",",
+    null,
+    [
+     "ke"
+    ],
+    null,
+    [
+     "Marko"
+    ],
+    null,
+    [
+     "iom"
+    ],
+    null,
+    [
+     "tro"
+    ],
+    null,
+    [
+     "parol",
+     "as"
+    ],
+    null,
+    [
+     "hodiaŭ"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Kar",
+     "a"
+    ],
+    null,
+    [
+     "Marko"
+    ],
+    ",",
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "sufiĉ",
+     "as"
+    ],
+    null,
+    [
+     "nur"
+    ],
+    null,
+    [
+     "riĉ",
+     "ec",
+     "o"
+    ],
+    null,
+    [
+     "de"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "ide",
+     "o",
+     "j"
+    ],
+    ".",
+    null,
+    [
+     "Neces",
+     "as"
+    ],
+    null,
+    [
+     "ankaŭ"
+    ],
+    null,
+    [
+     "plen",
+     "a"
+    ],
+    null,
+    [
+     "mon",
+     "uj",
+     "o"
+    ],
+    null,
+    [
+     "por"
+    ],
+    null,
+    [
+     "real",
+     "ig",
+     "i"
+    ],
+    null,
+    [
+     "ili",
+     "n"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "La"
+    ],
+    null,
+    [
+     "patr",
+     "in",
+     "o"
+    ],
+    null,
+    [
+     "post"
+    ],
+    null,
+    [
+     "iom"
+    ],
+    null,
+    [
+     "da"
+    ],
+    null,
+    [
+     "silent",
+     "o"
+    ],
+    null,
+    [
+     "daŭr",
+     "ig",
+     "is"
+    ],
+    ":"
+   ],
+   [
+    "–",
+    null,
+    [
+     "Nu"
+    ],
+    ",",
+    null,
+    [
+     "antaŭ"
+    ],
+    null,
+    [
+     "kelk",
+     "a",
+     "j"
+    ],
+    null,
+    [
+     "minut",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "telefon",
+     "is"
+    ],
+    null,
+    [
+     "Ana"
+    ],
+    ",",
+    null,
+    [
+     "ke"
+    ],
+    null,
+    [
+     "ankaŭ"
+    ],
+    null,
+    [
+     "ŝi"
+    ],
+    null,
+    [
+     "vizit",
+     "os"
+    ],
+    null,
+    [
+     "ni",
+     "n"
+    ],
+    null,
+    [
+     "morgaŭ"
+    ],
+    ".",
+    null,
+    [
+     "Ŝi"
+    ],
+    null,
+    [
+     "tre"
+    ],
+    null,
+    [
+     "ŝat",
+     "as"
+    ],
+    null,
+    [
+     "dolĉ",
+     "a",
+     "j",
+     "n"
+    ],
+    null,
+    [
+     "kuk",
+     "o",
+     "j",
+     "n"
+    ],
+    ",",
+    null,
+    [
+     "kvankam"
+    ],
+    null,
+    [
+     "ŝi"
+    ],
+    null,
+    [
+     "atent",
+     "os"
+    ],
+    null,
+    [
+     "por"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "dik",
+     "iĝ",
+     "i"
+    ],
+    "."
+   ],
+   [
+    null,
+    [
+     "Tuj"
+    ],
+    null,
+    [
+     "Marko"
+    ],
+    null,
+    [
+     "ŝanĝ",
+     "is"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "opini",
+     "o",
+     "n"
+    ],
+    ".",
+    null,
+    [
+     "Sen"
+    ],
+    null,
+    [
+     "Ana"
+    ],
+    null,
+    [
+     "dum"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "ekskurs",
+     "o"
+    ],
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "est",
+     "us"
+    ],
+    null,
+    [
+     "tre"
+    ],
+    null,
+    [
+     "sol",
+     "ec",
+     "a"
+    ],
+    "."
+   ],
+   [
+    "–",
+    null,
+    [
+     "Patr",
+     "in",
+     "o"
+    ],
+    ",",
+    null,
+    [
+     "tiu",
+     "okaz",
+     "e"
+    ],
+    null,
+    [
+     "mi"
+    ],
+    null,
+    [
+     "tamen"
+    ],
+    null,
+    [
+     "pas",
+     "ig",
+     "os"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "morgaŭ",
+     "a",
+     "n"
+    ],
+    null,
+    [
+     "tag",
+     "o",
+     "n"
+    ],
+    null,
+    [
+     "hejm",
+     "e"
+    ],
+    "."
+   ]
+  ],
+  "parrafos": [
+   "– Kiel rapide pasas tagoj! Morgaŭ estas la naskiĝtago de via patro, Marko. Alvenos kelkaj familianoj kaj geamikoj. Ĉu vi bonvolus iom helpi? Trovu iomete da tempo almenaŭ por ordigi vian ĉambron. Mi ŝatus kuiri ion bonan. Por la naskiĝtaga kuko mankas lakto en la hejmo. Necesas havigi iom da manĝaĵo el vendejo…",
+   "– Bone, mi aĉetumos por la naskiĝtago. Sed, anstataŭ sidi kaj manĝegi kun neinteresaj familianoj, mi ŝatus ekskursi kun klubanoj.",
+   "– Kun kiuj klubanoj? – diris la patrino kaj ĵetis iajn paperojn en paperujon.",
+   "– Morgaŭ frue kunvenas anoj de mia sporta klubo.",
+   "– Sed, kara mia, ĉu ĝuste morgaŭ vi devas foresti? Ĉu vi ne intervidiĝas kun viaj samklubanoj trifoje semajne?",
+   "– Ĉu mi rajtas ion proponi: Mi kunmanĝos kun la familianoj. Sed en la dua parto de la tago mi foriros kun miaj geamikoj. Post la kuko Maria kaj Petro certe parolos pri la malsukcesa veturado per aŭto. Malinterese! Mi ne plu volas tion aŭdi! Kial ni ne havas iun ideoriĉan onklon Bonifacio en nia familio?!",
+   "La patrino ridetis je liaj vortoj. Ŝi scias, ke Marko iom tro parolas hodiaŭ.",
+   "– Kara Marko, ne sufiĉas nur riĉeco de la ideoj. Necesas ankaŭ plena monujo por realigi ilin.",
+   "La patrino post iom da silento daŭrigis:",
+   "– Nu, antaŭ kelkaj minutoj telefonis Ana, ke ankaŭ ŝi vizitos nin morgaŭ. Ŝi tre ŝatas dolĉajn kukojn, kvankam ŝi atentos por ne dikiĝi.",
+   "Tuj Marko ŝanĝis la opinion. Sen Ana dum la ekskurso li estus tre soleca.",
+   "– Patrino, tiuokaze mi tamen pasigos la morgaŭan tagon hejme."
+  ]
+ },
+ "gramatica_md": "# Sufijo *-an-*\n\nIndica el miembro de una colectividad, el adepto o partidario de una doctrina, el habitante:\n\n- _hispan**an**o_ – (Un) español\n- _amerik**an**o_ – Americano\n- _klub**an**o_ – Miembro de un club\n- _krist**an**o_ – Cristiano\n- _samland**an**o_ – persona del mismo país\n- _samide**an**o_ – partidario de una misma idea\n\n**💡 Truco:** *-an-* indica pertenencia: país, grupo, club o idea.\n\n# Sufijo *-ec-*\n\nIndica cualidad abstracta:\n\n- _bel**ec**o_ – Belleza\n- _simpl**ec**o_ – Simplicidad\n- _jun**ec**o_ – Juventud (diferente: junularo)\n- _amik**ec**o_ – Amistad\n- *eco* – Cualidad\n\n**💡 Truco:** *-ec-* convierte una cualidad en una idea abstracta: *bela* → *beleco*.\n\n**⚠️ Atención:** no confundas *juneco* (\"juventud\" como cualidad/edad) con *junularo* (\"los jóvenes\" como grupo).\n\n# Sufijo *-uj-*\n\nSignifica \"que contiene\" y con él se forman nombres de:\n\na) Recipientes:\n\n- *salo* – Sal\n  - _sal**uj**o_ – Salero\n- *mono* – Dinero\n  - _mon**uj**o_ – Monedero\n\nb) Plantas, árboles:\n\n- *pomo* – Manzana\n  - _pom**uj**o_ – Manzano\n- *figo* – Higo\n  - _fig**uj**o_ – Higuera\n\nNormalmente, para evitar confusiones con los recipientes, se prefiere usar la palabra **arbo** (árbol): pomarbo, figarbo...\n\n**💡 Truco:** *-uj-* puede ser recipiente, árbol o país; mira siempre el contexto.\n\nc) Países:\n\n- *hispano* – (un) español\n  - _Hispan**uj**o_ – España\n- *franco* – (un) francés\n  - _Franc**uj**o_ – Francia\n\nCon el tiempo, los hablantes casi siempre usan *-io* (*Francio*, *Germanio*); a veces se usa *-lando* (*Irlando*, *Finnlando*) y otras veces la raíz es el nombre del país mismo (*Brazilo*, *Kolombio*), sobre todo para países del Nuevo Mundo. No es lo mismo *hispano* (más étnico o cultural) que *hispaniano/hispanujano* (ciudadano del Estado español).\n\n**⚠️ Atención:** para países modernos encontrarás varias formas; aprende la forma usada en el curso y reconoce las alternativas.\n",
+ "raices_nuevas": [
+  "ĉef",
+  "ekzempl",
+  "rilat",
+  "sekv",
+  "simpl",
+  "universal"
+ ],
+ "cartas": [
+  {
+   "id": "L10-palabra-01cdc33c",
+   "tipo": "palabra",
+   "lec": 10,
+   "es": "al parecer",
+   "eo": "verŝajne",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-palabra-e74213c8",
+   "tipo": "palabra",
+   "lec": 10,
+   "es": "simplemente",
+   "eo": "tutsimple",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-palabra-58ecbe9e",
+   "tipo": "palabra",
+   "lec": 10,
+   "es": "neutralidad",
+   "eo": "neŭtraleco",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-palabra-63209757",
+   "tipo": "palabra",
+   "lec": 10,
+   "es": "en relación con eso",
+   "eo": "tiurilate",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-palabra-e4a53070",
+   "tipo": "palabra",
+   "lec": 10,
+   "es": "universalidad",
+   "eo": "universaleco",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-palabra-0ea743fc",
+   "tipo": "palabra",
+   "lec": 10,
+   "es": "posibilidad",
+   "eo": "ebleco",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-palabra-3e1f8c84",
+   "tipo": "palabra",
+   "lec": 10,
+   "es": "participar",
+   "eo": "partopreni",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-palabra-1399617b",
+   "tipo": "palabra",
+   "lec": 10,
+   "es": "en su mayor parte",
+   "eo": "plejparte",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-palabra-e7616c3f",
+   "tipo": "palabra",
+   "lec": 10,
+   "es": "al mismo tiempo",
+   "eo": "samtempe",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-palabra-9490155e",
+   "tipo": "palabra",
+   "lec": 10,
+   "es": "sustituir",
+   "eo": "anstataŭigi",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-palabra-3ee8e528",
+   "tipo": "palabra",
+   "lec": 10,
+   "es": "desechar",
+   "eo": "elĵeti",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-palabra-e6430836",
+   "tipo": "palabra",
+   "lec": 10,
+   "es": "acabarse",
+   "eo": "finiĝi",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-palabra-1caaac26",
+   "tipo": "palabra",
+   "lec": 10,
+   "es": "informarse",
+   "eo": "informiĝi",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-frase-db668784",
+   "tipo": "frase",
+   "lec": 10,
+   "es": "En la juventud también se tiene belleza.",
+   "eo": "En juneco oni havas ankaŭ belecon.",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-cloze-a5e68f29",
+   "tipo": "cloze",
+   "lec": 10,
+   "es": "En la juventud también se tiene belleza.",
+   "eo": "En juneco oni havas ankaŭ belecon.",
+   "plantilla": "En jun{0}o oni havas ankaŭ bel{1}on.",
+   "huecos": [
+    "ec",
+    "ec"
+   ]
+  },
+  {
+   "id": "L10-frase-a7ab744c",
+   "tipo": "frase",
+   "lec": 10,
+   "es": "Los jefes deberían simplificar los trabajos complicados.",
+   "eo": "Malsimplajn laborojn ĉefoj devus plisimpligi.",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-cloze-78bd6995",
+   "tipo": "cloze",
+   "lec": 10,
+   "es": "Los jefes deberían simplificar los trabajos complicados.",
+   "eo": "Malsimplajn laborojn ĉefoj devus plisimpligi.",
+   "plantilla": "Malsimplajn laborojn ĉefoj devus plisimpl{0}i.",
+   "huecos": [
+    "ig"
+   ]
+  },
+  {
+   "id": "L10-frase-75e7c50d",
+   "tipo": "frase",
+   "lec": 10,
+   "es": "A esa edad ya se había convertido en el líder de un club deportivo.",
+   "eo": "En tiu aĝo li jam fariĝis klubestro de sporta klubo.",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-cloze-8fa199ba",
+   "tipo": "cloze",
+   "lec": 10,
+   "es": "A esa edad ya se había convertido en el líder de un club deportivo.",
+   "eo": "En tiu aĝo li jam fariĝis klubestro de sporta klubo.",
+   "plantilla": "En tiu aĝo li jam fariĝis klub{0}o de sporta klubo.",
+   "huecos": [
+    "estr"
+   ]
+  },
+  {
+   "id": "L10-frase-0dfea4bd",
+   "tipo": "frase",
+   "lec": 10,
+   "es": "Uno pone dinero en una billetera.",
+   "eo": "Monon oni metas en monujon.",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-cloze-8ccad714",
+   "tipo": "cloze",
+   "lec": 10,
+   "es": "Uno pone dinero en una billetera.",
+   "eo": "Monon oni metas en monujon.",
+   "plantilla": "Monon oni metas en mon{0}on.",
+   "huecos": [
+    "uj"
+   ]
+  },
+  {
+   "id": "L10-frase-449b9eee",
+   "tipo": "frase",
+   "lec": 10,
+   "es": "Sigue el ejemplo de los buenos miembros de la familia.",
+   "eo": "Sekvu la ekzemplon de la bonaj familianoj.",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-cloze-5abb2317",
+   "tipo": "cloze",
+   "lec": 10,
+   "es": "Sigue el ejemplo de los buenos miembros de la familia.",
+   "eo": "Sekvu la ekzemplon de la bonaj familianoj.",
+   "plantilla": "Sekvu la ekzemplon de la bonaj famili{0}oj.",
+   "huecos": [
+    "an"
+   ]
+  },
+  {
+   "id": "L10-pregunta-49608a4c",
+   "tipo": "pregunta",
+   "lec": 10,
+   "es": "¿La amistad te hace más feliz que el amor?",
+   "eo": "Ĉu amikeco pli feliĉigas vin ol la amo?",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-pregunta-16a3f61f",
+   "tipo": "pregunta",
+   "lec": 10,
+   "es": "¿Con qué frecuencia escribes cartas a tus amigas en Italia?",
+   "eo": "Kiel ofte vi skribas leterojn al viaj amikinoj en Italio?",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-pregunta-97be8ffa",
+   "tipo": "pregunta",
+   "lec": 10,
+   "es": "¿La relación entre tu profesor y tú ha cambiado?",
+   "eo": "Ĉu la rilato inter vi kaj via instruisto ŝanĝiĝis?",
+   "aceptadas": []
+  },
+  {
+   "id": "L10-pregunta-c74f7daa",
+   "tipo": "pregunta",
+   "lec": 10,
+   "es": "¿Ahora ya sabes esperanto bastante bien?",
+   "eo": "Ĉu vi nun jam scias Esperanton sufiĉe bone?",
+   "aceptadas": []
+  }
+ ],
+ "fuente": {
+  "repositorio": "https://github.com/Esperanto/kurso-zagreba-metodo",
+  "lengua": "es"
+ }
+}

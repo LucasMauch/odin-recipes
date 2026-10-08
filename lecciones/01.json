@@ -1,0 +1,622 @@
+{
+ "id": "01",
+ "numero": 1,
+ "titulo": "Amiko Marko",
+ "texto": {
+  "licencia": "CC BY-ND 4.0",
+  "titolo_morfemas": [
+   [
+    "Amik",
+    "o"
+   ],
+   null,
+   [
+    "Marko"
+   ]
+  ],
+  "paragrafoj_morfemas": [
+   [
+    [
+     "Marko"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    null,
+    [
+     "amik",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Li"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "lern",
+     "ant",
+     "o"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "sport",
+     "ist",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Li"
+    ],
+    null,
+    [
+     "nun"
+    ],
+    null,
+    [
+     "sid",
+     "as"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "ĉambr",
+     "o"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "lern",
+     "as"
+    ],
+    ".",
+    null,
+    [
+     "Sur"
+    ],
+    null,
+    [
+     "tabl",
+     "o"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "paper",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "libr",
+     "o",
+     "j"
+    ],
+    ".",
+    null,
+    [
+     "Ĝi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "skrib",
+     "o",
+     "tabl",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "La"
+    ],
+    null,
+    [
+     "libr",
+     "o",
+     "j"
+    ],
+    null,
+    [
+     "sur"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "tabl",
+     "o"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "lern",
+     "o",
+     "libr",
+     "o",
+     "j"
+    ],
+    "."
+   ],
+   [
+    [
+     "La"
+    ],
+    null,
+    [
+     "patr",
+     "o"
+    ],
+    null,
+    [
+     "kaj"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "patr",
+     "in",
+     "o"
+    ],
+    null,
+    [
+     "de"
+    ],
+    null,
+    [
+     "mi",
+     "a"
+    ],
+    null,
+    [
+     "amik",
+     "o"
+    ],
+    null,
+    [
+     "ne"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "la"
+    ],
+    null,
+    [
+     "ĉambr",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "Ili"
+    ],
+    null,
+    [
+     "nun"
+    ],
+    null,
+    [
+     "labor",
+     "as"
+    ],
+    ".",
+    null,
+    [
+     "Li",
+     "a"
+    ],
+    null,
+    [
+     "patr",
+     "o"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "labor",
+     "ist",
+     "o"
+    ],
+    ",",
+    null,
+    [
+     "li"
+    ],
+    null,
+    [
+     "labor",
+     "as"
+    ],
+    null,
+    [
+     "en"
+    ],
+    null,
+    [
+     "hotel",
+     "o"
+    ],
+    ".",
+    null,
+    [
+     "La"
+    ],
+    null,
+    [
+     "patr",
+     "in",
+     "o"
+    ],
+    null,
+    [
+     "instru",
+     "as"
+    ],
+    ".",
+    null,
+    [
+     "Ŝi"
+    ],
+    null,
+    [
+     "est",
+     "as"
+    ],
+    null,
+    [
+     "instru",
+     "ist",
+     "in",
+     "o"
+    ],
+    "."
+   ]
+  ],
+  "parrafos": [
+   "Marko estas mia amiko. Li estas lernanto kaj sportisto. Li nun sidas en ĉambro kaj lernas. Sur tablo estas paperoj kaj libroj. Ĝi estas skribotablo. La libroj sur la tablo estas lernolibroj.",
+   "La patro kaj la patrino de mia amiko ne estas en la ĉambro. Ili nun laboras. Lia patro estas laboristo, li laboras en hotelo. La patrino instruas. Ŝi estas instruistino."
+  ]
+ },
+ "gramatica_md": "# Alfabeto y pronunciación\n\nEl alfabeto del esperanto tiene 28 letras: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.\n\nA cada letra le corresponde siempre el mismo sonido. Las vocales se pronuncian como en español, así como las consonantes, excepto:\n\n- **c** = \"ts\"; dan**c**o (\"dan**ts**o\"), **c**igaredo (\"**ts**igaredo\").\n- **ĉ** = \"ch\".\n- **ga**, **ge**, **gi**, **go**, **gu** = \"ga, gue, gui, go, gu\".\n- **ĝ** = \"dy\"; como \"mini**j**obs\" o \"il **g**iro d'italia\".\n- **h** = hache aspirada; \"hat\" o \"hello\" en inglés, sonido suave como echando el aliento.\n- **ĥ** = \"j\".\n- **j** = \"y\" en \"hoy\", \"i\" en \"pierna\" o en \"reino\". Es una semivocal para formar diptongos: kaj (\"kai\"), jes (\"ies\").\n- **ĵ** = como en francés \"bon**j**our\", una ŝ con vibración en la garganta.\n- **r** = suave, como en pe**r**a. Las dos **r** de **r**ive**r**o se pronuncian igual.\n- **ŝ** = \"sh\"; como en catalán \"caixa\", o en inglés \"**Sh**akespeare\".\n- **ŭ** = \"u\" en \"Europa\", \"auto\", \"cuatro\". Es una semivocal para formar diptongos: Eŭropo (\"europo\"), aŭtoro.\n- **v** = como la \"v\" francesa o la \"v\" argentina de \"vos\". Se pronuncia con los dientes superiores sobre el labio inferior.\n- **z** = \"s\" sonora; como la \"z\" en inglés o la \"s\" portuguesa en \"Brasil\". Como el zumbido de una mosca.\n\nCuando en una palabra se suceden dos letras iguales se pronuncian separadamente: mallonga, opinii = \"mal-longa\", \"opini-i\".\n\n**💡 Truco:** cada letra tiene un solo sonido. Si ves *c*, piensa siempre en \"ts\": *danco* (\"dantso\").\n\n# Acento y sílaba\n\nEl número de vocales (a, e, i, o, u) de una palabra indica el número de sílabas que la forman. Las letras **j** y **ŭ** no forman sílaba propia y van siempre acompañando a otra vocal, con la que forman diptongos. El acento recae siempre sobre la penúltima sílaba: papero estas utila (\"papéro éstas utíla\"), paperoj estas utilaj (\"papéroy éstas utílay\"), jes (\"ies, yes\"), ies (\"íes\"), kio (\"quío\"). Compárese **balau** (\"ba-lá-u\") con **baldaŭ** (\"bál-dau\") y **balai** (\"ba-lá-i\") con **belaj** (\"bé-lay\").\n\n**⚠️ Atención:** *j* y *ŭ* no cuentan como vocales para colocar el acento; acompáñalas a la vocal anterior.\n\n# Artículo\n\nEl artículo determinado en esperanto es **la**, que equivale a \"el, la, los, las\". No hay artículo indeterminado \"un\" o \"una\":\n\n- *la tablo* = \"la mesa\"\n- *tablo* = \"una mesa\"\n\n**💡 Truco:** *la* nunca cambia. Sirve para \"el\", \"la\", \"los\" y \"las\".\n\n# Pronombres\n\n- *mi* – yo\n- *vi* – tú, usted, vos (según el país)\n- *li* – él\n- *ŝi* – ella\n- *ĝi* – ello\n- *ni* – nosotros/as\n- *vi* – vosotros/as, ustedes\n- *ili* – ellos/as\n\nEl pronombre **ĝi** se usa para objetos, y también para los animales. Solo en algunos casos se usa refiriéndose a personas (sexo desconocido o no relevante), por ejemplo un bebé.\n\n**⚠️ Atención:** no traduzcas siempre \"él/ella\" con *li/ŝi*: para cosas y animales normalmente se usa *ĝi*.\n\n# Posesivos\n\nSe forman añadiendo a los pronombres la terminación -**A**:\n\n- *mia* – mi, mío/a\n- *via* – tu, tuyo/a, su, suyo (de usted)\n- *lia* – su, suyo/a (de él)\n- *ŝia* – su, suyo/a (de ella)\n- *ĝia* – su, suyo\n- *nia* – nuestro/a\n- *via* – vuestro/a, su, suyo/a (de ustedes)\n- *ilia* – su, suyo/a (de ellos/as)\n\n**💡 Truco:** posesivo = pronombre + *-a*: *mi* → *mia*, *vi* → *via*, *ni* → *nia*.\n\n# Sustantivos\n\nLos sustantivos acaban en -O.\n\n- _tabl**o**_ – mesa\n- _lernant**o**_ – alumno\n- _lernant**in**o_ – alumna\n\n**💡 Truco:** si una palabra nombra una cosa, persona o idea, busca la *-o*: _tabl**o**_, _amik**o**_, _libr**o**_.\n\n# Plural\n\nLa terminación del plural es **-J**.\n\n- _tablo**j**_ – mesas\n- _lernanto**j**_ – alumnos\n- _via**j** libro**j**_ – tus/vuestros/sus libros\n\n**⚠️ Atención:** el adjetivo también recibe *-j*: *bonaj libroj*, no solo *bona libroj*.\n\n# Verbos\n\n1. La terminación del infinitivo es **-I**.\n   - _lern**i**_ – aprender\n   - _labor**i**_ – trabajar\n   - _est**i**_ – ser, estar\n2. La terminación del presente es **-AS**, invariable para todas las personas.\n   - _mi labor**as**_ – yo trabajo\n   - _vi labor**as**_ – tú trabajas\n   - _li labor**as**_ – él trabaja\n   - _ni labor**as**_ – trabajamos\n   - _vi labor**as**_ – ustedes trabajan / vosotros trabajáis\n   - _ili labor**as**_ – trabajan\n   - _amiko labor**as**_ – un amigo trabaja\n   - _mi est**as**_ – (yo) soy/estoy Por lo tanto no se puede elidir el sujeto como en español; se puede decir *amiko laboras* o *ŝi laboras*, pero no solo *laboras*, pues no se sabría si significa \"trabaj**o**\", \"trabaj**as**\", \"trabaj**a**\", etc.\n\n**💡 Truco:** *-as* no cambia nunca: *mi laboras*, *vi laboras*, *ili laboras*.\n\n**⚠️ Atención:** en español puedes omitir el sujeto (\"trabajo\", \"trabajas\"); en esperanto normalmente debes decirlo: *mi laboras*, *vi laboras*.\n\n# *Ĉu?*\n\nLa palabra **ĉu** al principio de una oración la hace interrogativa. Puede traducirse por \"¿Acaso...?\", \"¿Es que...\" o, lo normal, no traducirse.\n\n- _**Ĉu** vi laboras?_ – ¿Trabajas?, ¿Es que tú trabajas?, etc.\n\n**💡 Truco:** *ĉu* funciona como una señal de pregunta al inicio: *Ĉu vi...?* = \"¿...?\"\n\n# *Kiu?*\n\nLa palabra **kiu** significa \"cuál, el cual, la cual\" y también \"quién, quien\".\n\n- _**Kiu** vi estas?_ – ¿Quién eres tú?, ¿Quién es usted?\n- _**Kiu** instruisto sidas?_ – ¿Qué (=cuál) profesor está sentado?\n\n# Sufijo *-ist*\n\nIndica \"profesional, persona ocupada en algo habitualmente\". No indica sexo, puede ser chica o chico.\n\n- _instru**ist**o_ – profesor\n- _okul**ist**o_ – oculista\n- _esperant**ist**o_ – esperantista\n\n# Sufijo *-in*\n\nIndica el sexo femenino, excluyendo al masculino. Recuerda que gramaticalmente los sustantivos son neutros y terminan en *-o*.\n\n- *lernanto* – alumno (o alumna)\n  - _lernant**in**o_ – alumna\n- *patro* – padre\n  - _patr**in**o_ – madre\n- *instruisto* – profesor (o profesora)\n  - _instruist**in**o_ – profesora\n\n**⚠️ Atención:** *-in-* solo se añade cuando quieres marcar explícitamente femenino; *lernanto* puede ser alumno o alumna.\n\n# Afirmación y negación\n\nSí = _**jes**_.\n\n- *Ĉu vi estas en la ĉambro?* (¿Estás en la habitación?)\n  - _**Jes**, mi estas en la ĉambro._ (Sí, estoy en la habitación)\n\nNo = _**ne**_.\n\n- _**Ne**, mi **ne** estas en la ĉambro._ (No, no estoy en la habitación).\n",
+ "raices_nuevas": [
+  "Ana",
+  "ĉu",
+  "jes",
+  "kio",
+  "kiu",
+  "lingv",
+  "ni",
+  "nom",
+  "respond",
+  "seĝ"
+ ],
+ "cartas": [
+  {
+   "id": "L01-palabra-6b0bc8be",
+   "tipo": "palabra",
+   "lec": 1,
+   "es": "amiga",
+   "eo": "amikino",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-palabra-bef075f8",
+   "tipo": "palabra",
+   "lec": 1,
+   "es": "mesa de trabajo",
+   "eo": "labortablo",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-palabra-cacf0257",
+   "tipo": "palabra",
+   "lec": 1,
+   "es": "esperantista",
+   "eo": "esperantistino",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-palabra-c1388f99",
+   "tipo": "palabra",
+   "lec": 1,
+   "es": "profesor",
+   "eo": "instruisto",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-palabra-93a7f960",
+   "tipo": "palabra",
+   "lec": 1,
+   "es": "habitación de hotel",
+   "eo": "hotelĉambro",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-palabra-fd65c2a6",
+   "tipo": "palabra",
+   "lec": 1,
+   "es": "registrar",
+   "eo": "enskribi",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-palabra-1ba7770a",
+   "tipo": "palabra",
+   "lec": 1,
+   "es": "escritorio",
+   "eo": "skribotablo",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-palabra-d0572629",
+   "tipo": "palabra",
+   "lec": 1,
+   "es": "lingüista",
+   "eo": "lingvisto",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-palabra-26d94f49",
+   "tipo": "palabra",
+   "lec": 1,
+   "es": "trabajadora",
+   "eo": "laboristino",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-frase-b7a083a0",
+   "tipo": "frase",
+   "lec": 1,
+   "es": "Marko está en la habitación.",
+   "eo": "Marko estas en la ĉambro.",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-cloze-4d8b09e6",
+   "tipo": "cloze",
+   "lec": 1,
+   "es": "Marko está en la habitación.",
+   "eo": "Marko estas en la ĉambro.",
+   "plantilla": "Marko estas en la {0}.",
+   "huecos": [
+    "ĉambro"
+   ]
+  },
+  {
+   "id": "L01-frase-19484018",
+   "tipo": "frase",
+   "lec": 1,
+   "es": "Él se sienta en una silla.",
+   "eo": "Li sidas sur seĝo.",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-cloze-5f14e47b",
+   "tipo": "cloze",
+   "lec": 1,
+   "es": "Él se sienta en una silla.",
+   "eo": "Li sidas sur seĝo.",
+   "plantilla": "{0} sidas sur seĝo.",
+   "huecos": [
+    "Li"
+   ]
+  },
+  {
+   "id": "L01-frase-45b40d73",
+   "tipo": "frase",
+   "lec": 1,
+   "es": "Un maestro enseña. Un trabajador trabaja. Un estudiante aprende.",
+   "eo": "Instruisto instruas. Laboristo laboras. Lernanto lernas.",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-cloze-4423f067",
+   "tipo": "cloze",
+   "lec": 1,
+   "es": "Un maestro enseña. Un trabajador trabaja. Un estudiante aprende.",
+   "eo": "Instruisto instruas. Laboristo laboras. Lernanto lernas.",
+   "plantilla": "Instruisto instruas. Laboristo {0}. Lernanto {1}.",
+   "huecos": [
+    "laboras",
+    "lernas"
+   ]
+  },
+  {
+   "id": "L01-frase-2890302a",
+   "tipo": "frase",
+   "lec": 1,
+   "es": "Marko y Aleksandro son estudiantes y deportistas.",
+   "eo": "Marko kaj Aleksandro estas lernantoj kaj sportistoj.",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-cloze-2c91df26",
+   "tipo": "cloze",
+   "lec": 1,
+   "es": "Marko y Aleksandro son estudiantes y deportistas.",
+   "eo": "Marko kaj Aleksandro estas lernantoj kaj sportistoj.",
+   "plantilla": "Marko kaj Aleksandro estas lernant{0} kaj sportist{1}.",
+   "huecos": [
+    "oj",
+    "oj"
+   ]
+  },
+  {
+   "id": "L01-frase-20f3ce93",
+   "tipo": "frase",
+   "lec": 1,
+   "es": "La madre de Marko es profesora.",
+   "eo": "La patrino de Marko estas instruistino.",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-cloze-7a8701a4",
+   "tipo": "cloze",
+   "lec": 1,
+   "es": "La madre de Marko es profesora.",
+   "eo": "La patrino de Marko estas instruistino.",
+   "plantilla": "La patrino {0} Marko estas instruistino.",
+   "huecos": [
+    "de"
+   ]
+  },
+  {
+   "id": "L01-frase-eb56c564",
+   "tipo": "frase",
+   "lec": 1,
+   "es": "La silla está en la habitación.",
+   "eo": "La seĝo estas en la ĉambro.",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-cloze-3f480adb",
+   "tipo": "cloze",
+   "lec": 1,
+   "es": "La silla está en la habitación.",
+   "eo": "La seĝo estas en la ĉambro.",
+   "plantilla": "La seĝo estas en {0} ĉambro.",
+   "huecos": [
+    "la"
+   ]
+  },
+  {
+   "id": "L01-frase-7c89e247",
+   "tipo": "frase",
+   "lec": 1,
+   "es": "El libro le pertenece; es suyo.",
+   "eo": "La libro estas de li, ĝi estas lia.",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-cloze-ad642dd5",
+   "tipo": "cloze",
+   "lec": 1,
+   "es": "El libro le pertenece; es suyo.",
+   "eo": "La libro estas de li, ĝi estas lia.",
+   "plantilla": "La libro estas de li, ĝi estas li{0}.",
+   "huecos": [
+    "a"
+   ]
+  },
+  {
+   "id": "L01-frase-af695639",
+   "tipo": "frase",
+   "lec": 1,
+   "es": "Mi nombre es Marco.",
+   "eo": "Mia nomo estas Marko.",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-cloze-e5bf2e6a",
+   "tipo": "cloze",
+   "lec": 1,
+   "es": "Mi nombre es Marco.",
+   "eo": "Mia nomo estas Marko.",
+   "plantilla": "Mia nomo est{0} Marko.",
+   "huecos": [
+    "as"
+   ]
+  },
+  {
+   "id": "L01-pregunta-ee14a61f",
+   "tipo": "pregunta",
+   "lec": 1,
+   "es": "¿Quién es tu amiga?",
+   "eo": "Kiu estas via amikino?",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-pregunta-c3609daf",
+   "tipo": "pregunta",
+   "lec": 1,
+   "es": "¿Tu amiga Ana escribe ahora en la habitación?",
+   "eo": "Ĉu via amikino Ana skribas nun en la ĉambro?",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-pregunta-12268591",
+   "tipo": "pregunta",
+   "lec": 1,
+   "es": "¿El amigo de tu padre trabaja en un hotel?",
+   "eo": "Ĉu la amiko de via patro laboras en hotelo?",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-pregunta-ca130fdb",
+   "tipo": "pregunta",
+   "lec": 1,
+   "es": "¿Qué hay sobre la mesa de trabajo en nuestra habitación?",
+   "eo": "Kio estas sur la labortablo en nia ĉambro?",
+   "aceptadas": []
+  },
+  {
+   "id": "L01-pregunta-fd873d4a",
+   "tipo": "pregunta",
+   "lec": 1,
+   "es": "¿Hay un libro de texto de esperanto sobre tu mesa?",
+   "eo": "Ĉu Esperanto-lernolibro estas sur via tablo?",
+   "aceptadas": []
+  }
+ ],
+ "fuente": {
+  "repositorio": "https://github.com/Esperanto/kurso-zagreba-metodo",
+  "lengua": "es"
+ }
+}

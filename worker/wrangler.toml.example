@@ -1,0 +1,12 @@
+# Copiar a wrangler.toml y completar database_id (NO lo subas con datos sensibles; el id no es secreto pero es tuyo).
+name = "mia-vojo-sync"
+main = "index.js"
+compatibility_date = "2026-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "mia-vojo"
+database_id = "REEMPLAZAR"
+
+[vars]
+ORIGEN_PERMITIDO = "https://TU-SITIO.pages.dev"
