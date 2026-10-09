@@ -733,7 +733,303 @@
    "Ankaŭ mi ricevis lecionon: mi devas bone fermi la pordon de mia ĉambro."
   ]
  },
- "gramatica_md": "# Números\n\nLos números se forman de la manera siguiente (los cardinales):\n\n- 1=unu, 2=du, 3=tri, 4=kvar, 5=kvin, 6=ses, 7=sep, 8=ok, 9=naŭ, 10=dek\n- 11 = dek unu; 12 = dek du; 13 = dek tri; 14 = dek kvar\n- 20 = dudek; 30 = tridek, 40 = kvardek\n- 51 = kvindek unu; 62 = sesdek du; 73 = sepdek tri, 84 = okdek kvar\n- 100 = cent; 200 = ducent; 300 = tricent\n- 1.000 = mil; 2.000 = du mil\n- 1.238 = mil ducent tridek ok; 153.837 = cent kvindek tri mil okcent tridek sep\n- 1.000.000 = miliono\n\n**💡 Truco:** los números grandes se leen por bloques, como en español: *mil ducent tridek ok* = 1.238.\n\n# Sumar y restar\n\n- 8 + 3 = 11 --- ok plus tri estas dek unu\n- 15 - 6 = 9 --- dek kvin minus ses estas naŭ\n\n**⚠️ Atención:** *dek unu* y *dek du* se escriben separados; *dudek* y *tridek* van en una palabra.\n\n# Acusativo de dirección\n\nDespués de una preposición, el sustantivo no lleva la terminación **-N** del acusativo.\n\n- *post mi* – Después de mí\n- *en domo* – En una casa\n- *al la domo* - A/Hacia la casa\n\nPero si queremos expresar la dirección de un movimiento, y la preposición (al contrario que **al**) no lo indica, entonces empleamos la terminación **-N**, formando el acusativo de dirección:\n\n- *Mi estas en la domo.* - Estoy en (la) casa\n- *Mi iras en la domo.* - Voy por el interior de la casa\n- _Mi iras en la domo**n**._ – Voy (=entro) a (la) casa\n\n**💡 Truco:** si hay movimiento hacia dentro/encima/detrás, añade *-n*: *en la domon* = \"hacia dentro de la casa\".\n\nOtros ejemplos:\n\n- _La kato saltis sur la tablo**n**._ – El gato saltó encima de la mesa. (antes no estaba encima)\n- *La kato saltis sur la tablo.* – El gato saltó encima de la mesa. (ya estaba en la mesa)\n\n**⚠️ Atención:** después de *al* no necesitas este *-n*, porque *al* ya indica dirección.\n\n# Pronombre *oni*\n\nSignifica \"se\", \"uno\", en sentido impersonal. También \"la gente\".\n\n- *Oni manĝas* - Se come, la gente come, uno come...\n- *Oni laboras multe* - Se trabaja mucho\n- *Oni parolas Esperanton* = Se habla esperanto\n\n**💡 Truco:** *oni* suele traducirse como \"se\": *oni diras* = \"se dice\".\n\n# Pronombre reflexivo *si*\n\nSignifica \"se\", \"sí mismo\", nunca es sujeto y se refiere siempre al nombre o al pronombre de tercera persona (li, ŝi, ĝi, ili) que realiza la acción del verbo.\n\n- _Li lavas **sin**_ - Él se lava (a sí mismo)\n- *Li lavas lin* - Él lo lava (a otro chico)\n- _Ŝi rigardas **sin**_ - Ella se mira (a sí misma)\n- *Ŝi rigardas ŝin* - Ella la mira (a otra chica)\n\nTodas las personas:\n\n- *Mi rigardas min*\n- *Vi rigardas vin*\n- _Li/Ŝi/Ĝi rigardas **sin**_\n- *Ni rigardas nin*\n- *Vi rigardas vin*\n- _Ili rigardas **sin**_\n\nLa palabra \"si\" se traduce por \"**ĉu**\" cuando expresa duda o pregunta:\n\n- *Mi ne scias, ĉu li venos* - No sé si vendrá Compárese con:\n- *Ĉu li venos?* - ¿Vendrá?\n\nEl \"si\" condicional se traduce por \"se\":\n\n- *Se mi malsanas, mi malmulte manĝas* - Si estoy enfermo, como poco Compárese con \"**kiam**\" (= cuándo, cuando):\n- *Kiam mi malsanas, mi malmulte manĝas.* - Cuando estoy enfermo, como poco\n\n**⚠️ Atención:** el \"si\" de duda se traduce con *ĉu*; el \"si\" condicional se traduce con *se*.\n\n# Prefijo *re-*\n\nIndica repetición, significa \"otra vez, de nuevo, volver a\":\n\n- *revidi* - Volver a ver, ver de nuevo\n- *redoni* - Volver a dar, devolver\n- *remeti* - Volver a poner/meter/colocar (algo en el sitio en el que estaba)\n\n**💡 Truco:** *re-* es \"otra vez\" o \"de vuelta\": *vidi* → *revidi*, *doni* → *redoni*.\n",
+ "gramatica": [
+  {
+   "titulo": "Números",
+   "md": "Los números se forman de la manera siguiente (los cardinales):\n\n- 1=unu, 2=du, 3=tri, 4=kvar, 5=kvin, 6=ses, 7=sep, 8=ok, 9=naŭ, 10=dek\n- 11 = dek unu; 12 = dek du; 13 = dek tri; 14 = dek kvar\n- 20 = dudek; 30 = tridek, 40 = kvardek\n- 51 = kvindek unu; 62 = sesdek du; 73 = sepdek tri, 84 = okdek kvar\n- 100 = cent; 200 = ducent; 300 = tricent\n- 1.000 = mil; 2.000 = du mil\n- 1.238 = mil ducent tridek ok; 153.837 = cent kvindek tri mil okcent tridek sep\n- 1.000.000 = miliono\n\n**💡 Truco:** los números grandes se leen por bloques, como en español: *mil ducent tridek ok* = 1.238."
+  },
+  {
+   "titulo": "Sumar y restar",
+   "md": "- 8 + 3 = 11 --- ok plus tri estas dek unu\n- 15 - 6 = 9 --- dek kvin minus ses estas naŭ\n\n**⚠️ Atención:** *dek unu* y *dek du* se escriben separados; *dudek* y *tridek* van en una palabra."
+  },
+  {
+   "titulo": "Acusativo de dirección",
+   "md": "Después de una preposición, el sustantivo no lleva la terminación **-N** del acusativo.\n\n- *post mi* – Después de mí\n- *en domo* – En una casa\n- *al la domo* - A/Hacia la casa\n\nPero si queremos expresar la dirección de un movimiento, y la preposición (al contrario que **al**) no lo indica, entonces empleamos la terminación **-N**, formando el acusativo de dirección:\n\n- *Mi estas en la domo.* - Estoy en (la) casa\n- *Mi iras en la domo.* - Voy por el interior de la casa\n- _Mi iras en la domo**n**._ – Voy (=entro) a (la) casa\n\n**💡 Truco:** si hay movimiento hacia dentro/encima/detrás, añade *-n*: *en la domon* = \"hacia dentro de la casa\".\n\nOtros ejemplos:\n\n- _La kato saltis sur la tablo**n**._ – El gato saltó encima de la mesa. (antes no estaba encima)\n- *La kato saltis sur la tablo.* – El gato saltó encima de la mesa. (ya estaba en la mesa)\n\n**⚠️ Atención:** después de *al* no necesitas este *-n*, porque *al* ya indica dirección."
+  },
+  {
+   "titulo": "Pronombre oni",
+   "md": "Significa \"se\", \"uno\", en sentido impersonal. También \"la gente\".\n\n- *Oni manĝas* - Se come, la gente come, uno come...\n- *Oni laboras multe* - Se trabaja mucho\n- *Oni parolas Esperanton* = Se habla esperanto\n\n**💡 Truco:** *oni* suele traducirse como \"se\": *oni diras* = \"se dice\"."
+  },
+  {
+   "titulo": "Pronombre reflexivo si",
+   "md": "Significa \"se\", \"sí mismo\", nunca es sujeto y se refiere siempre al nombre o al pronombre de tercera persona (li, ŝi, ĝi, ili) que realiza la acción del verbo.\n\n- _Li lavas **sin**_ - Él se lava (a sí mismo)\n- *Li lavas lin* - Él lo lava (a otro chico)\n- _Ŝi rigardas **sin**_ - Ella se mira (a sí misma)\n- *Ŝi rigardas ŝin* - Ella la mira (a otra chica)\n\nTodas las personas:\n\n- *Mi rigardas min*\n- *Vi rigardas vin*\n- _Li/Ŝi/Ĝi rigardas **sin**_\n- *Ni rigardas nin*\n- *Vi rigardas vin*\n- _Ili rigardas **sin**_\n\nLa palabra \"si\" se traduce por \"**ĉu**\" cuando expresa duda o pregunta:\n\n- *Mi ne scias, ĉu li venos* - No sé si vendrá Compárese con:\n- *Ĉu li venos?* - ¿Vendrá?\n\nEl \"si\" condicional se traduce por \"se\":\n\n- *Se mi malsanas, mi malmulte manĝas* - Si estoy enfermo, como poco Compárese con \"**kiam**\" (= cuándo, cuando):\n- *Kiam mi malsanas, mi malmulte manĝas.* - Cuando estoy enfermo, como poco\n\n**⚠️ Atención:** el \"si\" de duda se traduce con *ĉu*; el \"si\" condicional se traduce con *se*."
+  },
+  {
+   "titulo": "Prefijo re-",
+   "md": "Indica repetición, significa \"otra vez, de nuevo, volver a\":\n\n- *revidi* - Volver a ver, ver de nuevo\n- *redoni* - Volver a dar, devolver\n- *remeti* - Volver a poner/meter/colocar (algo en el sitio en el que estaba)\n\n**💡 Truco:** *re-* es \"otra vez\" o \"de vuelta\": *vidi* → *revidi*, *doni* → *redoni*."
+  }
+ ],
+ "glosas": {
+  "Marko": [
+   "Marko"
+  ],
+  "skrib": [
+   "escribir"
+  ],
+  "is": [
+   "Verbo en pasado"
+  ],
+  "al": [
+   "a"
+  ],
+  "mi": [
+   "yo"
+  ],
+  "bel": [
+   "bonito",
+   "bello",
+   "lindo"
+  ],
+  "a": [
+   "Adjetivo"
+  ],
+  "n": [
+   "Acusativo"
+  ],
+  "leter": [
+   "carta"
+  ],
+  "o": [
+   "Sustantivo"
+  ],
+  "Ĝi": [
+   "ello"
+  ],
+  "est": [
+   "ser",
+   "estar",
+   "haber"
+  ],
+  "as": [
+   "Verbo en presente"
+  ],
+  "ver": [
+   "verdad"
+  ],
+  "am": [
+   "amar"
+  ],
+  "En": [
+   "en"
+  ],
+  "la": [
+   "el/la",
+   "los/las"
+  ],
+  "ankaŭ": [
+   "también"
+  ],
+  "li": [
+   "él"
+  ],
+  "fot": [
+   "fotografía"
+  ],
+  "Kiam": [
+   "cuándo",
+   "cuando"
+  ],
+  "re": [
+   "de nuevo",
+   "otra vez"
+  ],
+  "ven": [
+   "venir"
+  ],
+  "el": [
+   "de"
+  ],
+  "lern": [
+   "aprender"
+  ],
+  "ej": [
+   "lugar"
+  ],
+  "vol": [
+   "querer"
+  ],
+  "ĝi": [
+   "ello"
+  ],
+  "de": [
+   "de",
+   "desde"
+  ],
+  "nov": [
+   "nuevo"
+  ],
+  "e": [
+   "Adverbio"
+  ],
+  "leg": [
+   "leer"
+  ],
+  "i": [
+   "Infinitivo"
+  ],
+  "Mi": [
+   "yo"
+  ],
+  "rapid": [
+   "rápido"
+  ],
+  "en": [
+   "en"
+  ],
+  "ir": [
+   "ir"
+  ],
+  "ĉambr": [
+   "habitación"
+  ],
+  "Tie": [
+   "ahí",
+   "allí",
+   "allá"
+  ],
+  "star": [
+   "permanecer de pie"
+  ],
+  "frat": [
+   "hermano"
+  ],
+  "in": [
+   "femenino"
+  ],
+  "Vera": [
+   "Vera"
+  ],
+  "antaŭ": [
+   "ante",
+   "antes de",
+   "delante de"
+  ],
+  "tabl": [
+   "mesa"
+  ],
+  "kaj": [
+   "y"
+  ],
+  "ŝi": [
+   "ella"
+  ],
+  "man": [
+   "mano"
+  ],
+  "dir": [
+   "decir"
+  ],
+  "koler": [
+   "enojarse"
+  ],
+  "Kio": [
+   "qué"
+  ],
+  "vi": [
+   "tú",
+   "usted",
+   "vosotros/as",
+   "ustedes",
+   "vos"
+  ],
+  "far": [
+   "hacer"
+  ],
+  "tie": [
+   "ahí",
+   "allí",
+   "allá"
+  ],
+  "Ne": [
+   "no"
+  ],
+  "u": [
+   "Volitivo"
+  ],
+  "j": [
+   "Plural"
+  ],
+  "ali": [
+   "otro"
+  ],
+  "iĝ": [
+   "volverse",
+   "convertirse en"
+  ],
+  "ruĝ": [
+   "rojo"
+  ],
+  "La": [
+   "el/la",
+   "los/las"
+  ],
+  "fal": [
+   "caer"
+  ],
+  "sur": [
+   "en (encima)"
+  ],
+  "Ŝi": [
+   "ella"
+  ],
+  "Pardon": [
+   "perdonar"
+  ],
+  "serĉ": [
+   "buscar"
+  ],
+  "libr": [
+   "libro"
+  ],
+  "Sed": [
+   "pero"
+  ],
+  "bon": [
+   "bueno"
+  ],
+  "sci": [
+   "saber"
+  ],
+  "ke": [
+   "que"
+  ],
+  "ne": [
+   "no"
+  ],
+  "Ankaŭ": [
+   "también"
+  ],
+  "Re": [
+   "de nuevo",
+   "otra vez"
+  ],
+  "don": [
+   "dar"
+  ],
+  "ricev": [
+   "recibir"
+  ],
+  "lecion": [
+   "lección",
+   "clase"
+  ],
+  "plu": [
+   "más (en el tiempo)"
+  ],
+  "os": [
+   "Verbo en futuro"
+  ],
+  "dev": [
+   "tener que",
+   "deber"
+  ],
+  "ferm": [
+   "cerrar"
+  ],
+  "pord": [
+   "puerta"
+  ]
+ },
  "raices_nuevas": [
   "aŭd",
   "ĉe",

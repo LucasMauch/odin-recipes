@@ -585,7 +585,306 @@
    "– Diable, nun mi memoras! Hodiaŭ estas dimanĉo!"
   ]
  },
- "gramatica_md": "# Negación\n\nLa palabra **nek** significa \"ni\" y se usa en pares o junto a otra negación:\n\n- _Mi vidis **nek** la tablon **nek** la seĝon._ – No vi ni la mesa ni la silla\n- _**Nek** li **nek** ŝi respondis._ – Ni él ni ella respondieron\n- _Vi **nek** sidas **nek** rigardas._ – No estás ni sentado ni mirando\n\nImportante: en esperanto una oración negativa lleva solo una negación; dos negaciones en una misma oración se transforman en una afirmación.\n\n- _**No** miraré **nunca** a nadie._ – Mi neniam rigardos iun / Mi rigardos neniun\n\n**⚠️ Atención:** el español usa doble negación (\"no... nunca\", \"no... nadie\"); en esperanto normalmente basta una sola negación.\n\n# *Mem*\n\nSignifica \"mismo/a, mismos/as, por sí mismo\", y se coloca siempre detrás de la palabra que se desea destacar:\n\n- _Mi **mem** faris tion_ – Yo mismo hice eso / Lo hice yo mismo\n- *Mi sola faris tion* – Lo hice yo solo\n\n**💡 Truco:** *mem* destaca; *sola* habla de estar solo. No son lo mismo.\n\n# Hasta la vista\n\nLa expresión \"¡Hasta la vista!\" se traduce en esperanto como \"Ĝis la revido!\" (hasta la \"re-vista\", hasta la próxima vez que nos volvamos a ver\"). Se suele abreviar como \"Ĝis!\", que también se utiliza como un \"adiós\" amistoso, dejando abierta la oportunidad de volverse a ver. A veces también se oye \"Ĝis revido\" o \"Ĝis la\" (esto último es incorrecto, desaconsejable).\n\n**💡 Truco:** *ĝis* apunta a un próximo encuentro: *Ĝis!* = \"¡hasta luego!\".\n\n# Prefijo *ek-*\n\nIndica una acción que comienza, o una acción breve, momentánea, súbita:\n\nEjemplos:\n\n- _**ek**paroli_ – Empezar a hablar\n- _**ek**sidi_ – Sentarse\n- _**ek**ridi_ – Echarse a reír\n\n**💡 Truco:** *ek-* es el clic de inicio: *paroli* → *ekparoli*, *ridi* → *ekridi*.\n\n# Sufijo *-aĵ-*\n\nIndica la manifestación concreta de lo expresado por la raíz. Indica una cosa, un objeto material:\n\n- _manĝ**aĵ**o_ – comida, alimento, algo que se come\n- _trink**aĵ**o_ – bebida\n- _bel**aĵ**o_ – una cosa bonita\n- _stult**aĵ**o_ – una tontería\n\n**💡 Truco:** *-aĵ-* convierte una cualidad o acción en una cosa concreta.\n",
+ "gramatica": [
+  {
+   "titulo": "Negación",
+   "md": "La palabra **nek** significa \"ni\" y se usa en pares o junto a otra negación:\n\n- _Mi vidis **nek** la tablon **nek** la seĝon._ – No vi ni la mesa ni la silla\n- _**Nek** li **nek** ŝi respondis._ – Ni él ni ella respondieron\n- _Vi **nek** sidas **nek** rigardas._ – No estás ni sentado ni mirando\n\nImportante: en esperanto una oración negativa lleva solo una negación; dos negaciones en una misma oración se transforman en una afirmación.\n\n- _**No** miraré **nunca** a nadie._ – Mi neniam rigardos iun / Mi rigardos neniun\n\n**⚠️ Atención:** el español usa doble negación (\"no... nunca\", \"no... nadie\"); en esperanto normalmente basta una sola negación."
+  },
+  {
+   "titulo": "Mem",
+   "md": "Significa \"mismo/a, mismos/as, por sí mismo\", y se coloca siempre detrás de la palabra que se desea destacar:\n\n- _Mi **mem** faris tion_ – Yo mismo hice eso / Lo hice yo mismo\n- *Mi sola faris tion* – Lo hice yo solo\n\n**💡 Truco:** *mem* destaca; *sola* habla de estar solo. No son lo mismo."
+  },
+  {
+   "titulo": "Hasta la vista",
+   "md": "La expresión \"¡Hasta la vista!\" se traduce en esperanto como \"Ĝis la revido!\" (hasta la \"re-vista\", hasta la próxima vez que nos volvamos a ver\"). Se suele abreviar como \"Ĝis!\", que también se utiliza como un \"adiós\" amistoso, dejando abierta la oportunidad de volverse a ver. A veces también se oye \"Ĝis revido\" o \"Ĝis la\" (esto último es incorrecto, desaconsejable).\n\n**💡 Truco:** *ĝis* apunta a un próximo encuentro: *Ĝis!* = \"¡hasta luego!\"."
+  },
+  {
+   "titulo": "Prefijo ek-",
+   "md": "Indica una acción que comienza, o una acción breve, momentánea, súbita:\n\nEjemplos:\n\n- _**ek**paroli_ – Empezar a hablar\n- _**ek**sidi_ – Sentarse\n- _**ek**ridi_ – Echarse a reír\n\n**💡 Truco:** *ek-* es el clic de inicio: *paroli* → *ekparoli*, *ridi* → *ekridi*."
+  },
+  {
+   "titulo": "Sufijo -aĵ-",
+   "md": "Indica la manifestación concreta de lo expresado por la raíz. Indica una cosa, un objeto material:\n\n- _manĝ**aĵ**o_ – comida, alimento, algo que se come\n- _trink**aĵ**o_ – bebida\n- _bel**aĵ**o_ – una cosa bonita\n- _stult**aĵ**o_ – una tontería\n\n**💡 Truco:** *-aĵ-* convierte una cualidad o acción en una cosa concreta."
+  }
+ ],
+ "glosas": {
+  "Marko": [
+   "Marko"
+  ],
+  "dorm": [
+   "dormir"
+  ],
+  "is": [
+   "Verbo en pasado"
+  ],
+  "maten": [
+   "mañana"
+  ],
+  "e": [
+   "Adverbio"
+  ],
+  "tre": [
+   "muy"
+  ],
+  "long": [
+   "largo"
+  ],
+  "Kiam": [
+   "cuándo",
+   "cuando"
+  ],
+  "li": [
+   "él"
+  ],
+  "vid": [
+   "ver"
+  ],
+  "la": [
+   "el/la",
+   "los/las"
+  ],
+  "sun": [
+   "sol"
+  ],
+  "o": [
+   "Sustantivo"
+  ],
+  "n": [
+   "Acusativo"
+  ],
+  "subit": [
+   "repentino"
+  ],
+  "ek": [
+   "(comienzo de acción)",
+   "(acción momentánea)"
+  ],
+  "salt": [
+   "saltar"
+  ],
+  "Ĉiam": [
+   "siempre"
+  ],
+  "mal": [
+   "(contrario, siendo antónimos absolutos)"
+  ],
+  "fru": [
+   "temprano"
+  ],
+  "as": [
+   "Verbo en presente"
+  ],
+  "kiam": [
+   "cuándo",
+   "cuando"
+  ],
+  "dev": [
+   "tener que",
+   "deber"
+  ],
+  "ir": [
+   "ir"
+  ],
+  "i": [
+   "Infinitivo"
+  ],
+  "al": [
+   "a"
+  ],
+  "lern": [
+   "aprender"
+  ],
+  "ej": [
+   "lugar"
+  ],
+  "Li": [
+   "él"
+  ],
+  "sci": [
+   "saber"
+  ],
+  "ke": [
+   "que"
+  ],
+  "instru": [
+   "enseñar"
+  ],
+  "ist": [
+   "profesión",
+   "algo habitual"
+  ],
+  "in": [
+   "femenino"
+  ],
+  "ŝat": [
+   "gustar"
+  ],
+  "tio": [
+   "eso"
+  ],
+  "Sed": [
+   "pero"
+  ],
+  "hodiaŭ": [
+   "hoy"
+  ],
+  "ne": [
+   "no"
+  ],
+  "vol": [
+   "querer"
+  ],
+  "rapid": [
+   "rápido"
+  ],
+  "met": [
+   "poner",
+   "meter"
+  ],
+  "vest": [
+   "vestir"
+  ],
+  "aĵ": [
+   "cosa"
+  ],
+  "Rapid": [
+   "rápido"
+  ],
+  "eg": [
+   "aumentativo"
+  ],
+  "trink": [
+   "beber"
+  ],
+  "kaf": [
+   "café"
+  ],
+  "Post": [
+   "después de, detrás de"
+  ],
+  "kun": [
+   "con"
+  ],
+  "libr": [
+   "libro"
+  ],
+  "j": [
+   "Plural"
+  ],
+  "en": [
+   "en"
+  ],
+  "man": [
+   "mano"
+  ],
+  "kur": [
+   "correr"
+  ],
+  "kaj": [
+   "y"
+  ],
+  "laŭ": [
+   "según"
+  ],
+  "strat": [
+   "calle"
+  ],
+  "La": [
+   "el/la",
+   "los/las"
+  ],
+  "hom": [
+   "persona",
+   "ser humano"
+  ],
+  "rigard": [
+   "mirar"
+  ],
+  "dir": [
+   "decir"
+  ],
+  "Kia": [
+   "qué",
+   "qué tipo de"
+  ],
+  "saĝ": [
+   "sabio"
+  ],
+  "a": [
+   "Adjetivo"
+  ],
+  "knab": [
+   "chico"
+  ],
+  "Baldaŭ": [
+   "pronto"
+  ],
+  "est": [
+   "ser",
+   "estar",
+   "haber"
+  ],
+  "antaŭ": [
+   "ante",
+   "antes de",
+   "delante de"
+  ],
+  "sed": [
+   "pero"
+  ],
+  "pov": [
+   "poder"
+  ],
+  "Ĝi": [
+   "ello"
+  ],
+  "ferm": [
+   "cerrar"
+  ],
+  "it": [
+   "pasado pasivo"
+  ],
+  "nek": [
+   "ni"
+  ],
+  "ge": [
+   "(ambos sexos)"
+  ],
+  "ant": [
+   "presente activo"
+  ],
+  "sid": [
+   "estar sentado"
+  ],
+  "pens": [
+   "pensar"
+  ],
+  "kio": [
+   "qué"
+  ],
+  "okaz": [
+   "ocurrir",
+   "pasar"
+  ],
+  "Diabl": [
+   "diablo"
+  ],
+  "nun": [
+   "ahora"
+  ],
+  "mi": [
+   "yo"
+  ],
+  "memor": [
+   "recordar"
+  ],
+  "Hodiaŭ": [
+   "hoy"
+  ],
+  "dimanĉ": [
+   "domingo"
+  ]
+ },
  "raices_nuevas": [
   "akv",
   "atend",

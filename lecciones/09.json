@@ -782,7 +782,349 @@
    "– Karulino, ankaŭ mi havas sekreton. Mi veturigus la aŭton, sed mi ne scias. Mi neniam lernis tion."
   ]
  },
- "gramatica_md": "# Condicional\n\nEn esperanto las formas verbales se emplean atendiendo únicamente al sentido de la frase. Por ello, el condicional **-US** se usará cuando hay condiciones, parecido al español, aunque a veces haya excepciones como en el tercer ejemplo:\n\n- _mi kred**us**_ – Yo creería\n- _vi kred**us**_ – Tú creerías\n- _se mi pov**us**, mi aĉet**us** ĝin_ – Si yo pudiese, lo compraría\n\nTambién se usa para atenuar el sentido del verbo, la petición, deseo, etcétera:\n\n- _Ĉu vi pov**us** doni al mi la libron?_ – ¿Podrías darme el libro?\n\n**💡 Truco:** *-us* sirve tanto para condiciones como para sonar más cortés: *Ĉu vi povus...?*\n\nCon **-US** se forman los condicionales improbables e imposibles:\n\n- _se via patro ven**us**, ni vojaĝ**us** kun li_ – Si tu padre viniese, viajaríamos con él\n- _se vi est**us** pli juna kaj bela, mi am**us** vin_ – Si fueras más joven y guapo/a, te amaría\n\n**⚠️ Atención:** no traduzcas automáticamente el condicional español palabra por palabra; elige *-us*, *-os* o *-as* según el sentido.\n\nHay otro tipo de condicionales, que indican una condición probable o una advertencia y, como tienen sentido de futuro y probable, se forman con **-OS**:\n\n- _se vi ven**os** post la vespermanĝo, mi prepar**os** kafon por vi_ – Si vienes después de la cena, te prepararé un café\n- _se la lernanto ne stud**os** la lecionojn, li ler**nos** nenion_ – Si el alumno no estudia las lecciones, no va a aprender (aprenderá) nada.\n\nPor último, hay condicionales con verdades generales, que siempre ocurren, como por ejemplo los fenómenos naturales, y se forman con **-AS**:\n\n- _se oni tro maljuniĝ**as**, oni mort**as**_ – Si se envejece demasiado, uno se muere\n- _se oni hav**as** multe da mono, oni est**as** riĉa_ – Si se tiene mucho dinero, se es rico\n\n**💡 Truco:** si la frase expresa una verdad general, usa *-as*: *se oni havas..., oni estas...*\n\n# *Kvazaŭ*\n\nSignifica \"como si, como si fuese, como\" e indica semejanza (para indicar igualdad o identidad se emplea **kiel**):\n\n- _Vi sidas **kvazaŭ** vi estus riĉulo._ – Estás sentado como si fueras un rico\n- _Vi sidas **kvazaŭ** riĉulo._ – Estás sentado como un rico (sin serlo)\n\n**⚠️ Atención:** *kvazaŭ* no afirma que algo sea verdad; solo dice que se parece o se comporta \"como si\".\n\n# Sufijo *-ad-*\n\nIndica la idea de acción, sobre todo de una acción continuada y repetida si se añade a una palabra que ya indica una acción:\n\n- *martelo* – Martillo\n  - _martel**ad**i_ – Martillear / _martel**ad**o_ – Martilleo\n- *krono* – Corona\n  - *kroni* – Coronar / _kron**ad**o_ – Coronación\n- *salti* – Saltar, dar un salto\n  - _salt**ad**i_ – Saltar continuamente, dar saltos\n- *skribi* – escribir\n  - _skrib**ad**i_ – escribir largo rato\n\n**💡 Truco:** *-ad-* alarga o repite la acción: *skribi* → *skribadi*.\n\n# Sufijo *-ar-*\n\nIndica un conjunto o un grupo de seres u objetos de la misma naturaleza:\n\n- *vorto* – Palabra\n  - _vort**ar**o_ – Diccionario\n- *arbo* – Árbol\n  - _arb**ar**o_ – Bosque\n- *junulo* – (un) joven\n  - _junul**ar**o_ – (La) juventud, los jóvenes\n- *homo* - ser humano\n  - _hom**ar**o_ - (La) humanidad\n- *porko* - cerdo (o cerda)\n  - _pork**ar**o_ - Una piara\n\n**💡 Truco:** *-ar-* reúne elementos del mismo tipo: *arbo* → *arbaro*, *vorto* → *vortaro*.\n\n# Sufijo *-um-*\n\nCarece de significación concreta y se emplea para formar palabras cuya relación con la raíz no se puede expresar por medio de otros afijos:\n\n- *plena* – Lleno/a\n  - _plen**um**i_ – Cumplir\n- *proksima* – Próximo/a\n  - _proksim**um**e_ – Aproximadamente\n- *malvarma* – Frío\n  - _malvarm**um**i_ – Resfriarse\n- *brako* – Brazo\n  - _brak**um**i_ – Abrazar\n\n**⚠️ Atención:** *-um-* no tiene una traducción fija; aprende estas palabras como vocabulario.\n",
+ "gramatica": [
+  {
+   "titulo": "Condicional",
+   "md": "En esperanto las formas verbales se emplean atendiendo únicamente al sentido de la frase. Por ello, el condicional **-US** se usará cuando hay condiciones, parecido al español, aunque a veces haya excepciones como en el tercer ejemplo:\n\n- _mi kred**us**_ – Yo creería\n- _vi kred**us**_ – Tú creerías\n- _se mi pov**us**, mi aĉet**us** ĝin_ – Si yo pudiese, lo compraría\n\nTambién se usa para atenuar el sentido del verbo, la petición, deseo, etcétera:\n\n- _Ĉu vi pov**us** doni al mi la libron?_ – ¿Podrías darme el libro?\n\n**💡 Truco:** *-us* sirve tanto para condiciones como para sonar más cortés: *Ĉu vi povus...?*\n\nCon **-US** se forman los condicionales improbables e imposibles:\n\n- _se via patro ven**us**, ni vojaĝ**us** kun li_ – Si tu padre viniese, viajaríamos con él\n- _se vi est**us** pli juna kaj bela, mi am**us** vin_ – Si fueras más joven y guapo/a, te amaría\n\n**⚠️ Atención:** no traduzcas automáticamente el condicional español palabra por palabra; elige *-us*, *-os* o *-as* según el sentido.\n\nHay otro tipo de condicionales, que indican una condición probable o una advertencia y, como tienen sentido de futuro y probable, se forman con **-OS**:\n\n- _se vi ven**os** post la vespermanĝo, mi prepar**os** kafon por vi_ – Si vienes después de la cena, te prepararé un café\n- _se la lernanto ne stud**os** la lecionojn, li ler**nos** nenion_ – Si el alumno no estudia las lecciones, no va a aprender (aprenderá) nada.\n\nPor último, hay condicionales con verdades generales, que siempre ocurren, como por ejemplo los fenómenos naturales, y se forman con **-AS**:\n\n- _se oni tro maljuniĝ**as**, oni mort**as**_ – Si se envejece demasiado, uno se muere\n- _se oni hav**as** multe da mono, oni est**as** riĉa_ – Si se tiene mucho dinero, se es rico\n\n**💡 Truco:** si la frase expresa una verdad general, usa *-as*: *se oni havas..., oni estas...*"
+  },
+  {
+   "titulo": "Kvazaŭ",
+   "md": "Significa \"como si, como si fuese, como\" e indica semejanza (para indicar igualdad o identidad se emplea **kiel**):\n\n- _Vi sidas **kvazaŭ** vi estus riĉulo._ – Estás sentado como si fueras un rico\n- _Vi sidas **kvazaŭ** riĉulo._ – Estás sentado como un rico (sin serlo)\n\n**⚠️ Atención:** *kvazaŭ* no afirma que algo sea verdad; solo dice que se parece o se comporta \"como si\"."
+  },
+  {
+   "titulo": "Sufijo -ad-",
+   "md": "Indica la idea de acción, sobre todo de una acción continuada y repetida si se añade a una palabra que ya indica una acción:\n\n- *martelo* – Martillo\n  - _martel**ad**i_ – Martillear / _martel**ad**o_ – Martilleo\n- *krono* – Corona\n  - *kroni* – Coronar / _kron**ad**o_ – Coronación\n- *salti* – Saltar, dar un salto\n  - _salt**ad**i_ – Saltar continuamente, dar saltos\n- *skribi* – escribir\n  - _skrib**ad**i_ – escribir largo rato\n\n**💡 Truco:** *-ad-* alarga o repite la acción: *skribi* → *skribadi*."
+  },
+  {
+   "titulo": "Sufijo -ar-",
+   "md": "Indica un conjunto o un grupo de seres u objetos de la misma naturaleza:\n\n- *vorto* – Palabra\n  - _vort**ar**o_ – Diccionario\n- *arbo* – Árbol\n  - _arb**ar**o_ – Bosque\n- *junulo* – (un) joven\n  - _junul**ar**o_ – (La) juventud, los jóvenes\n- *homo* - ser humano\n  - _hom**ar**o_ - (La) humanidad\n- *porko* - cerdo (o cerda)\n  - _pork**ar**o_ - Una piara\n\n**💡 Truco:** *-ar-* reúne elementos del mismo tipo: *arbo* → *arbaro*, *vorto* → *vortaro*."
+  },
+  {
+   "titulo": "Sufijo -um-",
+   "md": "Carece de significación concreta y se emplea para formar palabras cuya relación con la raíz no se puede expresar por medio de otros afijos:\n\n- *plena* – Lleno/a\n  - _plen**um**i_ – Cumplir\n- *proksima* – Próximo/a\n  - _proksim**um**e_ – Aproximadamente\n- *malvarma* – Frío\n  - _malvarm**um**i_ – Resfriarse\n- *brako* – Brazo\n  - _brak**um**i_ – Abrazar\n\n**⚠️ Atención:** *-um-* no tiene una traducción fija; aprende estas palabras como vocabulario."
+  }
+ ],
+ "glosas": {
+  "Petro": [
+   "Petro"
+  ],
+  "kaj": [
+   "y"
+  ],
+  "Maria": [
+   "Maria"
+  ],
+  "vol": [
+   "querer"
+  ],
+  "is": [
+   "Verbo en pasado"
+  ],
+  "vojaĝ": [
+   "viajar"
+  ],
+  "i": [
+   "Infinitivo"
+  ],
+  "al": [
+   "a"
+  ],
+  "ali": [
+   "otro"
+  ],
+  "a": [
+   "Adjetivo"
+  ],
+  "land": [
+   "país",
+   "territorio"
+  ],
+  "o": [
+   "Sustantivo"
+  ],
+  "en": [
+   "en"
+  ],
+  "liber": [
+   "libre"
+  ],
+  "temp": [
+   "tiempo"
+  ],
+  "Ili": [
+   "ellos/as"
+  ],
+  "decid": [
+   "decidir"
+  ],
+  "ir": [
+   "ir"
+  ],
+  "Itali": [
+   "Italia"
+  ],
+  "bel": [
+   "bonito",
+   "bello",
+   "lindo"
+  ],
+  "kun": [
+   "con"
+  ],
+  "mal": [
+   "(contrario, siendo antónimos absolutos)"
+  ],
+  "nov": [
+   "nuevo"
+  ],
+  "j": [
+   "Plural"
+  ],
+  "urb": [
+   "ciudad"
+  ],
+  "aĵ": [
+   "cosa"
+  ],
+  "est": [
+   "ser",
+   "estar",
+   "haber"
+  ],
+  "feliĉ": [
+   "feliz"
+  ],
+  "Kie": [
+   "dónde",
+   "donde"
+  ],
+  "as": [
+   "Verbo en presente"
+  ],
+  "mi": [
+   "yo"
+  ],
+  "vest": [
+   "vestir"
+  ],
+  "ŝi": [
+   "ella"
+  ],
+  "demand": [
+   "preguntar"
+  ],
+  "Ni": [
+   "nosotros/as"
+  ],
+  "ne": [
+   "no"
+  ],
+  "forges": [
+   "olvidar"
+  ],
+  "u": [
+   "Volitivo"
+  ],
+  "port": [
+   "llevar",
+   "traer"
+  ],
+  "la": [
+   "el/la",
+   "los/las"
+  ],
+  "libr": [
+   "libro"
+  ],
+  "n": [
+   "Acusativo"
+  ],
+  "por": [
+   "para",
+   "por"
+  ],
+  "lern": [
+   "aprender"
+  ],
+  "Esper": [
+   "esperar (esperanza)"
+  ],
+  "ant": [
+   "presente activo"
+  ],
+  "pov": [
+   "poder"
+  ],
+  "us": [
+   "Verbo en condicional"
+  ],
+  "komenc": [
+   "empezar"
+  ],
+  "jam": [
+   "ya"
+  ],
+  "vagon": [
+   "vagón"
+  ],
+  "ar": [
+   "conjunto"
+  ],
+  "En": [
+   "en"
+  ],
+  "ni": [
+   "nosotros/as"
+  ],
+  "nenio": [
+   "nada"
+  ],
+  "far": [
+   "hacer"
+  ],
+  "os": [
+   "Verbo en futuro"
+  ],
+  "kar": [
+   "querido"
+  ],
+  "vetur": [
+   "ir (con medio de transporte)"
+  ],
+  "per": [
+   "por medio de",
+   "con"
+  ],
+  "aŭt": [
+   "auto",
+   "automóvil"
+  ],
+  "Mi": [
+   "yo"
+  ],
+  "hav": [
+   "tener"
+  ],
+  "sekret": [
+   "secreto"
+  ],
+  "riĉ": [
+   "rico"
+  ],
+  "onkl": [
+   "tío"
+  ],
+  "Bonifacio": [
+   "Bonifacio"
+  ],
+  "plen": [
+   "lleno"
+  ],
+  "um": [
+   "significado indefinido"
+  ],
+  "dezir": [
+   "desear"
+  ],
+  "don": [
+   "dar"
+  ],
+  "si": [
+   "pronombre reflexivo"
+  ],
+  "uz": [
+   "usar"
+  ],
+  "Ĝi": [
+   "ello"
+  ],
+  "star": [
+   "permanecer de pie"
+  ],
+  "antaŭ": [
+   "ante",
+   "antes de",
+   "delante de"
+  ],
+  "dom": [
+   "casa"
+  ],
+  "Sed": [
+   "pero"
+  ],
+  "dev": [
+   "tener que",
+   "deber"
+  ],
+  "dir": [
+   "decir"
+  ],
+  "Nenio": [
+   "nada"
+  ],
+  "ul": [
+   "individuo"
+  ],
+  "ek": [
+   "(comienzo de acción)",
+   "(acción momentánea)"
+  ],
+  "sid": [
+   "estar sentado"
+  ],
+  "Ankaŭ": [
+   "también"
+  ],
+  "ili": [
+   "ellos/as"
+  ],
+  "ankoraŭ": [
+   "todavía"
+  ],
+  "ad": [
+   "acción continuada"
+  ],
+  "atend": [
+   "esperar"
+  ],
+  "Do": [
+   "por lo tanto"
+  ],
+  "kial": [
+   "por qué"
+  ],
+  "Kar": [
+   "querido"
+  ],
+  "in": [
+   "femenino"
+  ],
+  "ankaŭ": [
+   "también"
+  ],
+  "ig": [
+   "causar algo"
+  ],
+  "sed": [
+   "pero"
+  ],
+  "sci": [
+   "saber"
+  ],
+  "neniam": [
+   "nunca"
+  ],
+  "tio": [
+   "eso"
+  ],
+  "Plan": [
+   "plan"
+  ],
+  "pri": [
+   "en cuanto a",
+   "sobre"
+  ]
+ },
  "raices_nuevas": [
   "almenaŭ",
   "atent",

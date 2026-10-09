@@ -51,6 +51,53 @@ def titulo_a_texto(titulo):
     return palabra_a_texto(titulo).strip()
 
 
+def cargar_glosario(tr):
+    """Une los diccionarios de la lengua (radiko, vorto, finajxo, ...) en {morfema: [glosas]}.
+    El primero que aparece gana (radiko tiene prioridad)."""
+    glos = {}
+    orden = ["radiko", "finajxo", "pronomo", "artikolo", "prefikso", "sufikso", "vorto"]
+    otros = sorted(p.stem for p in (tr / "vortaro").glob("*.yml") if p.stem not in orden)
+    for nombre in orden + otros:
+        f = tr / "vortaro" / f"{nombre}.yml"
+        if not f.exists():
+            continue
+        for k, v in (cargar(f) or {}).items():
+            glos.setdefault(str(k), a_lista(v))
+    return glos
+
+
+def glosas_de_texto(texto, glos):
+    """Glosa de cada morfema que aparece en el texto de la lección (clave tal cual o en minúscula)."""
+    out = {}
+    for par in texto["paragrafoj"] + [texto["titolo"]]:
+        for w in par:
+            if isinstance(w, list):
+                for m in w:
+                    g = glos.get(m) or glos.get(m.lower())
+                    if g:
+                        out[m] = g
+    return out
+
+
+def dividir_gramatica(md):
+    """Divide el Markdown de gramática en secciones por título de nivel 1."""
+    secciones, titulo, buf = [], None, []
+
+    def cerrar():
+        if titulo is not None:
+            secciones.append({"titulo": re.sub(r"[*_]", "", titulo).strip(), "md": "\n".join(buf).strip()})
+
+    for linea in md.splitlines():
+        m = re.match(r"^#\s+(.*)$", linea)
+        if m:
+            cerrar()
+            titulo, buf = m.group(1), []
+        else:
+            buf.append(linea)
+    cerrar()
+    return secciones
+
+
 def id_carta(num, tipo, eo):
     h = hashlib.sha1(f"{num}|{tipo}|{eo}".encode("utf-8")).hexdigest()[:8]
     return f"L{num:02d}-{tipo}-{h}"
@@ -126,7 +173,8 @@ def importar_leccion(raiz, lengua, num):
     }
 
     gram = tr / "gramatiko" / f"{n}.md"
-    out["gramatica_md"] = gram.read_text(encoding="utf-8") if gram.exists() else ""
+    out["gramatica"] = dividir_gramatica(gram.read_text(encoding="utf-8")) if gram.exists() else []
+    out["glosas"] = glosas_de_texto(texto, cargar_glosario(tr))
     out["raices_nuevas"] = cargar(nt / "vortoj" / f"{n}.yml") or []
 
     cartas = []

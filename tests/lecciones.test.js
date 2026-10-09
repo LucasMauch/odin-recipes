@@ -9,7 +9,7 @@ test('las 12 lecciones existen y son coherentes', () => {
   for (let n = 1; n <= 12; n++) {
     const l = cargar(n);
     assert.equal(l.numero, n);
-    assert.ok(l.titulo && l.texto.parrafos.length > 0 && l.gramatica_md.length > 100);
+    assert.ok(l.titulo && l.texto.parrafos.length > 0 && l.gramatica.length >= 1 && l.gramatica.every((g) => g.titulo && g.md.length > 20));
     assert.equal(l.texto.licencia, 'CC BY-ND 4.0');
     assert.ok(l.cartas.length >= 20, `lección ${n}: pocas tarjetas`);
     for (const c of l.cartas) {

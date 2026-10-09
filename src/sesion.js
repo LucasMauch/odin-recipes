@@ -50,7 +50,7 @@ function mezclarTipos(cartas) {
   return out.concat(cartas.filter((c) => c.lec !== lec));
 }
 
-export function armarSesion({ cartas, estados, ahora = new Date(), leccion, nuevasHoy = 0, conVoz = false, rng = Math.random }) {
+export function armarSesion({ cartas, estados, ahora = new Date(), leccion, nuevasHoy = 0, conVoz = false, habilitadas = null, rng = Math.random }) {
   const pool = conDictados(cartas, estados, conVoz);
   const vencidas = pool
     .filter((c) => estaVencida(estados[c.id], ahora))
@@ -58,7 +58,7 @@ export function armarSesion({ cartas, estados, ahora = new Date(), leccion, nuev
   const repaso = intercalar(vencidas).slice(0, MAX_REPASOS);
 
   const cupo = Math.max(0, NUEVAS_POR_DIA - nuevasHoy);
-  const sinVer = cartas.filter((c) => c.lec >= leccion && !estados[c.id]).sort((a, b) => a.lec - b.lec);
+  const sinVer = cartas.filter((c) => c.lec >= leccion && !estados[c.id] && (!habilitadas || habilitadas.has(c.lec))).sort((a, b) => a.lec - b.lec);
   const nuevas = mezclarTipos(sinVer).slice(0, cupo);
 
   const frases = pool.filter((c) => ['frase', 'pregunta'].includes(c.tipo) && (estados[c.id] || nuevas.includes(c)));

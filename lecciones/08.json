@@ -802,7 +802,324 @@
    "La patrino subite ekridis. Tio denove plibeligis mian tagon. Sed la problemo tamen restis."
   ]
  },
- "gramatica_md": "# Preposición *da*\n\nLa preposición **da** se usa después de palabras que indican cantidad o medida:\n\n- *kiom da jaroj?* – \"¿Cuánto de años\" = ¿Cuántos años?\n- _kilogramo **da** sukero_ – un kilo de azúcar\n- _glaso **da** akvo_ – un vaso de agua\n\nSe usa **de** en vez de **da** antes del artículo (**la**), de los demostrativos, posesivos y numerales. Antes de los pronombres personales se puede usar **da** o **el**.\n\n**💡 Truco:** *da* va después de una cantidad: *glaso da akvo*, *multe da homoj*.\n\n**⚠️ Atención:** ante *la*, demostrativos o posesivos usa *de*, no *da*: *glaso de la akvo*.\n\n# Sufijo *-ig-*\n\nSignifica \"hacer, volver, hacer que, convertir en\":\n\n- _bel**ig**i_ – hacer bello, embellecer\n- _malbon**ig**i_ – hacer malo, estropear...\n- _malplen**ig**i_ – vaciar\n- _varm**ig**i_ – calentar\n- _mort**ig**i_ – matar\n- _dorm**ig**i_ – adormecer, dormir (a alguien)\n\n**💡 Truco:** *-ig-* hace que algo ocurra: *varma* → *varmigi* (\"hacer caliente\").\n\n**⚠️ Atención:** *-ig-* actúa sobre algo o alguien; no lo confundas con *-iĝ-*, donde el sujeto cambia solo.\n\n# Sufijo *-aĉ-*\n\nEs un sufijo con significado despectivo:\n\n- _hotel**aĉ**o_ – Hotel**uch**o, hotel de mala calidad...\n- _parol**aĉ**i_ – Hablar ininteligiblemente o groseramente\n- _vin**aĉ**o_ – Vino de mala calidad\n- *aĉa* – Asqueroso/a\n\n**⚠️ Atención:** *-aĉ-* es despectivo. Úsalo solo cuando quieras expresar mala calidad o desprecio.\n",
+ "gramatica": [
+  {
+   "titulo": "Preposición da",
+   "md": "La preposición **da** se usa después de palabras que indican cantidad o medida:\n\n- *kiom da jaroj?* – \"¿Cuánto de años\" = ¿Cuántos años?\n- _kilogramo **da** sukero_ – un kilo de azúcar\n- _glaso **da** akvo_ – un vaso de agua\n\nSe usa **de** en vez de **da** antes del artículo (**la**), de los demostrativos, posesivos y numerales. Antes de los pronombres personales se puede usar **da** o **el**.\n\n**💡 Truco:** *da* va después de una cantidad: *glaso da akvo*, *multe da homoj*.\n\n**⚠️ Atención:** ante *la*, demostrativos o posesivos usa *de*, no *da*: *glaso de la akvo*."
+  },
+  {
+   "titulo": "Sufijo -ig-",
+   "md": "Significa \"hacer, volver, hacer que, convertir en\":\n\n- _bel**ig**i_ – hacer bello, embellecer\n- _malbon**ig**i_ – hacer malo, estropear...\n- _malplen**ig**i_ – vaciar\n- _varm**ig**i_ – calentar\n- _mort**ig**i_ – matar\n- _dorm**ig**i_ – adormecer, dormir (a alguien)\n\n**💡 Truco:** *-ig-* hace que algo ocurra: *varma* → *varmigi* (\"hacer caliente\").\n\n**⚠️ Atención:** *-ig-* actúa sobre algo o alguien; no lo confundas con *-iĝ-*, donde el sujeto cambia solo."
+  },
+  {
+   "titulo": "Sufijo -aĉ-",
+   "md": "Es un sufijo con significado despectivo:\n\n- _hotel**aĉ**o_ – Hotel**uch**o, hotel de mala calidad...\n- _parol**aĉ**i_ – Hablar ininteligiblemente o groseramente\n- _vin**aĉ**o_ – Vino de mala calidad\n- *aĉa* – Asqueroso/a\n\n**⚠️ Atención:** *-aĉ-* es despectivo. Úsalo solo cuando quieras expresar mala calidad o desprecio."
+  }
+ ],
+ "glosas": {
+  "Hodiaŭ": [
+   "hoy"
+  ],
+  "mi": [
+   "yo"
+  ],
+  "a": [
+   "Adjetivo"
+  ],
+  "patr": [
+   "padre"
+  ],
+  "in": [
+   "femenino"
+  ],
+  "o": [
+   "Sustantivo"
+  ],
+  "est": [
+   "ser",
+   "estar",
+   "haber"
+  ],
+  "is": [
+   "Verbo en pasado"
+  ],
+  "tre": [
+   "muy"
+  ],
+  "mal": [
+   "(contrario, siendo antónimos absolutos)"
+  ],
+  "trankvil": [
+   "tranquilo"
+  ],
+  "Mi": [
+   "yo"
+  ],
+  "ven": [
+   "venir"
+  ],
+  "el": [
+   "de"
+  ],
+  "la": [
+   "el/la",
+   "los/las"
+  ],
+  "lern": [
+   "aprender"
+  ],
+  "ej": [
+   "lugar"
+  ],
+  "kaj": [
+   "y"
+  ],
+  "raport": [
+   "informar"
+  ],
+  "al": [
+   "a"
+  ],
+  "ŝi": [
+   "ella"
+  ],
+  "ke": [
+   "que"
+  ],
+  "ricev": [
+   "recibir"
+  ],
+  "bon": [
+   "bueno"
+  ],
+  "n": [
+   "Acusativo"
+  ],
+  "not": [
+   "nota"
+  ],
+  "Ŝi": [
+   "ella"
+  ],
+  "dir": [
+   "decir"
+  ],
+  "Knab": [
+   "chico"
+  ],
+  "aĉ": [
+   "baja calidad"
+  ],
+  "vi": [
+   "tú",
+   "usted",
+   "vosotros/as",
+   "ustedes",
+   "vos"
+  ],
+  "dev": [
+   "tener que",
+   "deber"
+  ],
+  "as": [
+   "Verbo en presente"
+  ],
+  "pli": [
+   "más (comparativo)"
+  ],
+  "mult": [
+   "mucho"
+  ],
+  "e": [
+   "Adverbio"
+  ],
+  "labor": [
+   "trabajar"
+  ],
+  "ig": [
+   "causar algo"
+  ],
+  "i": [
+   "Infinitivo"
+  ],
+  "kap": [
+   "cabeza"
+  ],
+  "Kiom": [
+   "cuánto"
+  ],
+  "da": [
+   "de (cantidad)"
+  ],
+  "j": [
+   "Plural"
+  ],
+  "hav": [
+   "tener"
+  ],
+  "ĝoj": [
+   "contento"
+  ],
+  "Ir": [
+   "ir"
+  ],
+  "u": [
+   "Volitivo"
+  ],
+  "en": [
+   "en"
+  ],
+  "ĉambr": [
+   "habitación"
+  ],
+  "sid": [
+   "estar sentado"
+  ],
+  "sed": [
+   "pero"
+  ],
+  "pov": [
+   "poder"
+  ],
+  "nek": [
+   "ni"
+  ],
+  "leg": [
+   "leer"
+  ],
+  "pens": [
+   "pensar"
+  ],
+  "ĉe": [
+   "en",
+   "por"
+  ],
+  "lud": [
+   "jugar"
+  ],
+  "kun": [
+   "con"
+  ],
+  "amik": [
+   "amigo"
+  ],
+  "sport": [
+   "deporte"
+  ],
+  "mem": [
+   "mismo (uno mismo)"
+  ],
+  "Ĉu": [
+   "¿",
+   "¿Acaso"
+  ],
+  "tiom": [
+   "tanto",
+   "tan"
+  ],
+  "saĝ": [
+   "sabio"
+  ],
+  "kvankam": [
+   "aunque"
+  ],
+  "Tiam": [
+   "entonces"
+  ],
+  "ir": [
+   "ir"
+  ],
+  "aŭd": [
+   "oír"
+  ],
+  "vort": [
+   "palabra"
+  ],
+  "tuj": [
+   "en seguida, inmediatamente"
+  ],
+  "respond": [
+   "responder"
+  ],
+  "Ne": [
+   "no"
+  ],
+  "kar": [
+   "querido"
+  ],
+  "ne": [
+   "no"
+  ],
+  "La": [
+   "el/la",
+   "los/las"
+  ],
+  "problem": [
+   "problema"
+  ],
+  "os": [
+   "Verbo en futuro"
+  ],
+  "nur": [
+   "solo"
+  ],
+  "Ankaŭ": [
+   "también"
+  ],
+  "nun": [
+   "ahora"
+  ],
+  "ili": [
+   "ellos/as"
+  ],
+  "pri": [
+   "en cuanto a",
+   "sobre"
+  ],
+  "muzik": [
+   "música"
+  ],
+  "subit": [
+   "repentino"
+  ],
+  "ek": [
+   "(comienzo de acción)",
+   "(acción momentánea)"
+  ],
+  "rid": [
+   "reír"
+  ],
+  "Tio": [
+   "eso"
+  ],
+  "de": [
+   "de",
+   "desde"
+  ],
+  "nov": [
+   "nuevo"
+  ],
+  "bel": [
+   "bonito",
+   "bello",
+   "lindo"
+  ],
+  "tag": [
+   "día"
+  ],
+  "Sed": [
+   "pero"
+  ],
+  "tamen": [
+   "sin embargo"
+  ],
+  "rest": [
+   "quedarse"
+  ],
+  "Mal": [
+   "(contrario, siendo antónimos absolutos)"
+  ]
+ },
  "raices_nuevas": [
   "ag",
   "aper",

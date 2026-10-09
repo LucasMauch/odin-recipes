@@ -2290,7 +2290,705 @@
    "– Ĝis revido – diris la gondolisto kaj prenis la manon de sia amiko."
   ]
  },
- "gramatica_md": "# Sufijo *-il-*\n\nSignifica \"lo que sirve para\", e indica instrumento, aparato, utensilio, medio o remedio:\n\n- *tranĉi* – Cortar\n  - _tranĉ**il**o_ – Cuchillo\n- *manĝi* – Comer\n  - _manĝ**il**o_ – Cubierto\n- *flugi* – Volar\n  - _flug**il**o_ – Ala\n- *aliĝi* – inscribirse, registrarse\n  - _aliĝ**il**o_ – Formulario de inscripción\n- *ilo* – Herramienta\n- *ilaro* – Conjunto de herramientas\n- *ilarujo* – Caja de herramientas\n\n**💡 Truco:** *-il-* indica instrumento: *tranĉi* → *tranĉilo*, *skribi* → *skribilo*.\n\n**⚠️ Atención:** no todo lo que termina en *-ilo* es una máquina; puede ser cualquier herramienta o medio.\n",
+ "gramatica": [
+  {
+   "titulo": "Sufijo -il-",
+   "md": "Significa \"lo que sirve para\", e indica instrumento, aparato, utensilio, medio o remedio:\n\n- *tranĉi* – Cortar\n  - _tranĉ**il**o_ – Cuchillo\n- *manĝi* – Comer\n  - _manĝ**il**o_ – Cubierto\n- *flugi* – Volar\n  - _flug**il**o_ – Ala\n- *aliĝi* – inscribirse, registrarse\n  - _aliĝ**il**o_ – Formulario de inscripción\n- *ilo* – Herramienta\n- *ilaro* – Conjunto de herramientas\n- *ilarujo* – Caja de herramientas\n\n**💡 Truco:** *-il-* indica instrumento: *tranĉi* → *tranĉilo*, *skribi* → *skribilo*.\n\n**⚠️ Atención:** no todo lo que termina en *-ilo* es una máquina; puede ser cualquier herramienta o medio."
+  }
+ ],
+ "glosas": {
+  "Est": [
+   "ser",
+   "estar",
+   "haber"
+  ],
+  "is": [
+   "Verbo en pasado"
+  ],
+  "vesper": [
+   "tarde"
+  ],
+  "o": [
+   "Sustantivo"
+  ],
+  "en": [
+   "en"
+  ],
+  "Veneci": [
+   "Venecia"
+  ],
+  "Cent": [
+   "cien"
+  ],
+  "j": [
+   "Plural"
+  ],
+  "da": [
+   "de (cantidad)"
+  ],
+  "hom": [
+   "persona",
+   "ser humano"
+  ],
+  "plen": [
+   "lleno"
+  ],
+  "ig": [
+   "causar algo"
+  ],
+  "ad": [
+   "acción continuada"
+  ],
+  "la": [
+   "el/la",
+   "los/las"
+  ],
+  "Sankt-Mark": [
+   "San Marcos"
+  ],
+  "a": [
+   "Adjetivo"
+  ],
+  "n": [
+   "Acusativo"
+  ],
+  "plac": [
+   "plaza"
+  ],
+  "Jun": [
+   "joven"
+  ],
+  "ul": [
+   "individuo"
+  ],
+  "kaj": [
+   "y"
+  ],
+  "milit": [
+   "guerra"
+  ],
+  "ist": [
+   "profesión",
+   "algo habitual"
+  ],
+  "mar": [
+   "mar"
+  ],
+  "de": [
+   "de",
+   "desde"
+  ],
+  "sur": [
+   "en (encima)"
+  ],
+  "ŝip": [
+   "barco"
+  ],
+  "el": [
+   "de"
+  ],
+  "star": [
+   "permanecer de pie"
+  ],
+  "sinjor": [
+   "señor"
+  ],
+  "in": [
+   "femenino"
+  ],
+  "jun": [
+   "joven"
+  ],
+  "ali": [
+   "otro"
+  ],
+  "land": [
+   "país",
+   "territorio"
+  ],
+  "vojaĝ": [
+   "viajar"
+  ],
+  "ant": [
+   "presente activo"
+  ],
+  "ĉambr": [
+   "habitación"
+  ],
+  "gondol": [
+   "góndola"
+  ],
+  "ĉiu": [
+   "cada uno",
+   "todos",
+   "todos los"
+  ],
+  "mov": [
+   "mover"
+  ],
+  "iĝ": [
+   "volverse",
+   "convertirse en"
+  ],
+  "al": [
+   "a"
+  ],
+  "urb": [
+   "ciudad"
+  ],
+  "mez": [
+   "medio"
+  ],
+  "Iom": [
+   "un poco"
+  ],
+  "plu": [
+   "más (en el tiempo)"
+  ],
+  "e": [
+   "Adverbio"
+  ],
+  "sed": [
+   "pero"
+  ],
+  "ne": [
+   "no"
+  ],
+  "mal": [
+   "(contrario, siendo antónimos absolutos)"
+  ],
+  "proksim": [
+   "cercano"
+  ],
+  "trov": [
+   "encontrar"
+  ],
+  "grand": [
+   "grande",
+   "gran"
+  ],
+  "Fin": [
+   "acabar",
+   "terminar"
+  ],
+  "ĝi": [
+   "ello"
+  ],
+  "Laŭ": [
+   "según"
+  ],
+  "vest": [
+   "vestir"
+  ],
+  "aĵ": [
+   "cosa"
+  ],
+  "oni": [
+   "se",
+   "uno",
+   "la gente"
+  ],
+  "facil": [
+   "fácil"
+  ],
+  "pov": [
+   "poder"
+  ],
+  "ek": [
+   "(comienzo de acción)",
+   "(acción momentánea)"
+  ],
+  "sci": [
+   "saber"
+  ],
+  "i": [
+   "Infinitivo"
+  ],
+  "ke": [
+   "que"
+  ],
+  "li": [
+   "él"
+  ],
+  "est": [
+   "ser",
+   "estar",
+   "haber"
+  ],
+  "as": [
+   "Verbo en presente"
+  ],
+  "u": [
+   "Volitivo"
+  ],
+  "riĉ": [
+   "rico"
+  ],
+  "Sen": [
+   "sin"
+  ],
+  "interes": [
+   "interés"
+  ],
+  "rigard": [
+   "mirar"
+  ],
+  "ĝoj": [
+   "contento"
+  ],
+  "mult": [
+   "mucho"
+  ],
+  "Subit": [
+   "repentino"
+  ],
+  "rid": [
+   "reír"
+  ],
+  "et": [
+   "diminutivo"
+  ],
+  "lum": [
+   "luz"
+  ],
+  "vizaĝ": [
+   "cara"
+  ],
+  "kiam": [
+   "cuándo",
+   "cuando"
+  ],
+  "vid": [
+   "ver"
+  ],
+  "kiu": [
+   "quién",
+   "cuál"
+  ],
+  "ven": [
+   "venir"
+  ],
+  "flank": [
+   "lado"
+  ],
+  "Ĉu": [
+   "¿",
+   "¿Acaso"
+  ],
+  "tio": [
+   "eso"
+  ],
+  "vi": [
+   "tú",
+   "usted",
+   "vosotros/as",
+   "ustedes",
+   "vos"
+  ],
+  "Stefan": [
+   "Stefan"
+  ],
+  "kri": [
+   "gritar"
+  ],
+  "Ĉiu": [
+   "cada uno",
+   "todos",
+   "todos los"
+  ],
+  "dir": [
+   "decir"
+  ],
+  "fal": [
+   "caer"
+  ],
+  "man": [
+   "mano"
+  ],
+  "Turk": [
+   "turco"
+  ],
+  "Ver": [
+   "verdad"
+  ],
+  "Ni": [
+   "nosotros/as"
+  ],
+  "renkont": [
+   "encontrarse (a)"
+  ],
+  "unu": [
+   "uno"
+  ],
+  "ili": [
+   "ellos/as"
+  ],
+  "Ĝi": [
+   "ello"
+  ],
+  "sekv": [
+   "seguir"
+  ],
+  "ni": [
+   "nosotros/as"
+  ],
+  "dum": [
+   "durante",
+   "mientras"
+  ],
+  "pli": [
+   "más (comparativo)"
+  ],
+  "ol": [
+   "que (comparativo)"
+  ],
+  "hor": [
+   "hora"
+  ],
+  "Sed": [
+   "pero"
+  ],
+  "ir": [
+   "ir"
+  ],
+  "rapid": [
+   "rápido"
+  ],
+  "Do": [
+   "por lo tanto"
+  ],
+  "kia": [
+   "qué",
+   "qué tipo de"
+  ],
+  "nov": [
+   "nuevo"
+  ],
+  "tie": [
+   "ahí",
+   "allí",
+   "allá"
+  ],
+  "ĉi": [
+   "(partícula de proximidad, normalmente con correlativo)"
+  ],
+  "Nenio": [
+   "nada"
+  ],
+  "nur": [
+   "solo"
+  ],
+  "feliĉ": [
+   "feliz"
+  ],
+  "por": [
+   "para",
+   "por"
+  ],
+  "Pietro": [
+   "Pietro"
+  ],
+  "kon": [
+   "conocer"
+  ],
+  "Kompren": [
+   "entender"
+  ],
+  "ebl": [
+   "posibilidad"
+  ],
+  "mi": [
+   "yo"
+  ],
+  "Grand": [
+   "grande",
+   "gran"
+  ],
+  "sub": [
+   "debajo de",
+   "debajo"
+  ],
+  "akv": [
+   "agua"
+  ],
+  "Kaj": [
+   "y"
+  ],
+  "kio": [
+   "qué"
+  ],
+  "pri": [
+   "en cuanto a",
+   "sobre"
+  ],
+  "Li": [
+   "él"
+  ],
+  "Okaz": [
+   "ocurrir",
+   "pasar"
+  ],
+  "tiel": [
+   "así",
+   "tan"
+  ],
+  "Ĝorĝo": [
+   "Jorge"
+  ],
+  "pren": [
+   "tomar"
+  ],
+  "En": [
+   "en"
+  ],
+  "sam": [
+   "mismo"
+  ],
+  "temp": [
+   "tiempo"
+  ],
+  "estr": [
+   "jefe"
+  ],
+  "help": [
+   "ayudar"
+  ],
+  "preskaŭ": [
+   "casi"
+  ],
+  "jam": [
+   "ya"
+  ],
+  "mort": [
+   "morir"
+  ],
+  "kun": [
+   "con"
+  ],
+  "si": [
+   "pronombre reflexivo"
+  ],
+  "onkl": [
+   "tío"
+  ],
+  "Ho": [
+   "oh"
+  ],
+  "grav": [
+   "importante"
+  ],
+  "amik": [
+   "amigo"
+  ],
+  "La": [
+   "el/la",
+   "los/las"
+  ],
+  "komenc": [
+   "empezar"
+  ],
+  "Ĝino": [
+   "Gino"
+  ],
+  "port": [
+   "llevar",
+   "traer"
+  ],
+  "it": [
+   "pasado pasivo"
+  ],
+  "halt": [
+   "parar(se)"
+  ],
+  "Vid": [
+   "ver"
+  ],
+  "Tiam": [
+   "entonces"
+  ],
+  "pas": [
+   "pasar"
+  ],
+  "apud": [
+   "cerca de"
+  ],
+  "ankoraŭ": [
+   "todavía"
+  ],
+  "tri": [
+   "tres"
+  ],
+  "dek": [
+   "diez"
+  ],
+  "jar": [
+   "año"
+  ],
+  "sen": [
+   "sin"
+  ],
+  "kolor": [
+   "color"
+  ],
+  "cert": [
+   "cierto",
+   "seguro"
+  ],
+  "Jakopo": [
+   "Jacobo"
+  ],
+  "don": [
+   "dar"
+  ],
+  "sekret": [
+   "secreto"
+  ],
+  "labor": [
+   "trabajar"
+  ],
+  "tro": [
+   "demasiado"
+  ],
+  "tial": [
+   "por esa razón",
+   "por ese motivo"
+  ],
+  "tim": [
+   "temer",
+   "tener miedo"
+  ],
+  "send": [
+   "enviar"
+  ],
+  "liber": [
+   "libre"
+  ],
+  "ej": [
+   "lugar"
+  ],
+  "parol": [
+   "hablar"
+  ],
+  "montr": [
+   "mostrar",
+   "enseñar"
+  ],
+  "dom": [
+   "casa"
+  ],
+  "eg": [
+   "aumentativo"
+  ],
+  "Doĝ": [
+   "dogo"
+  ],
+  "bezon": [
+   "necesitar"
+  ],
+  "kiom": [
+   "cuánto"
+  ],
+  "pag": [
+   "pagar"
+  ],
+  "Cert": [
+   "cierto",
+   "seguro"
+  ],
+  "cent": [
+   "cien"
+  ],
+  "mon": [
+   "dinero"
+  ],
+  "er": [
+   "fragmento, pieza pequeña",
+   "partícula"
+  ],
+  "Ne": [
+   "no"
+  ],
+  "forges": [
+   "olvidar"
+  ],
+  "tiu": [
+   "ese",
+   "esa"
+  ],
+  "hav": [
+   "tener"
+  ],
+  "sufiĉ": [
+   "suficiente",
+   "bastante"
+  ],
+  "afer": [
+   "asunto",
+   "cosa"
+  ],
+  "bon": [
+   "bueno"
+  ],
+  "se": [
+   "si (condicional)"
+  ],
+  "vol": [
+   "querer"
+  ],
+  "trankvil": [
+   "tranquilo"
+  ],
+  "manĝ": [
+   "comer"
+  ],
+  "pan": [
+   "pan"
+  ],
+  "iom": [
+   "un poco"
+  ],
+  "silent": [
+   "silencio"
+  ],
+  "post": [
+   "después de, detrás de"
+  ],
+  "Vi": [
+   "tú",
+   "usted",
+   "vosotros/as",
+   "ustedes",
+   "vos"
+  ],
+  "ĝust": [
+   "correcto"
+  ],
+  "kur": [
+   "correr"
+  ],
+  "fort": [
+   "fuerte"
+  ],
+  "Sinjor": [
+   "señor"
+  ],
+  "Don Kamilo": [
+   "Don Camilo"
+  ],
+  "Mon": [
+   "dinero"
+  ],
+  "vort": [
+   "palabra"
+  ],
+  "Ĝis": [
+   "hasta"
+  ],
+  "re": [
+   "de nuevo",
+   "otra vez"
+  ]
+ },
  "raices_nuevas": [
   "konsent",
   "laŭt",

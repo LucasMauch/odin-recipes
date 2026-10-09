@@ -1320,7 +1320,568 @@
    "– Patrino, tiuokaze mi tamen pasigos la morgaŭan tagon hejme."
   ]
  },
- "gramatica_md": "# Sufijo *-an-*\n\nIndica el miembro de una colectividad, el adepto o partidario de una doctrina, el habitante:\n\n- _hispan**an**o_ – (Un) español\n- _amerik**an**o_ – Americano\n- _klub**an**o_ – Miembro de un club\n- _krist**an**o_ – Cristiano\n- _samland**an**o_ – persona del mismo país\n- _samide**an**o_ – partidario de una misma idea\n\n**💡 Truco:** *-an-* indica pertenencia: país, grupo, club o idea.\n\n# Sufijo *-ec-*\n\nIndica cualidad abstracta:\n\n- _bel**ec**o_ – Belleza\n- _simpl**ec**o_ – Simplicidad\n- _jun**ec**o_ – Juventud (diferente: junularo)\n- _amik**ec**o_ – Amistad\n- *eco* – Cualidad\n\n**💡 Truco:** *-ec-* convierte una cualidad en una idea abstracta: *bela* → *beleco*.\n\n**⚠️ Atención:** no confundas *juneco* (\"juventud\" como cualidad/edad) con *junularo* (\"los jóvenes\" como grupo).\n\n# Sufijo *-uj-*\n\nSignifica \"que contiene\" y con él se forman nombres de:\n\na) Recipientes:\n\n- *salo* – Sal\n  - _sal**uj**o_ – Salero\n- *mono* – Dinero\n  - _mon**uj**o_ – Monedero\n\nb) Plantas, árboles:\n\n- *pomo* – Manzana\n  - _pom**uj**o_ – Manzano\n- *figo* – Higo\n  - _fig**uj**o_ – Higuera\n\nNormalmente, para evitar confusiones con los recipientes, se prefiere usar la palabra **arbo** (árbol): pomarbo, figarbo...\n\n**💡 Truco:** *-uj-* puede ser recipiente, árbol o país; mira siempre el contexto.\n\nc) Países:\n\n- *hispano* – (un) español\n  - _Hispan**uj**o_ – España\n- *franco* – (un) francés\n  - _Franc**uj**o_ – Francia\n\nCon el tiempo, los hablantes casi siempre usan *-io* (*Francio*, *Germanio*); a veces se usa *-lando* (*Irlando*, *Finnlando*) y otras veces la raíz es el nombre del país mismo (*Brazilo*, *Kolombio*), sobre todo para países del Nuevo Mundo. No es lo mismo *hispano* (más étnico o cultural) que *hispaniano/hispanujano* (ciudadano del Estado español).\n\n**⚠️ Atención:** para países modernos encontrarás varias formas; aprende la forma usada en el curso y reconoce las alternativas.\n",
+ "gramatica": [
+  {
+   "titulo": "Sufijo -an-",
+   "md": "Indica el miembro de una colectividad, el adepto o partidario de una doctrina, el habitante:\n\n- _hispan**an**o_ – (Un) español\n- _amerik**an**o_ – Americano\n- _klub**an**o_ – Miembro de un club\n- _krist**an**o_ – Cristiano\n- _samland**an**o_ – persona del mismo país\n- _samide**an**o_ – partidario de una misma idea\n\n**💡 Truco:** *-an-* indica pertenencia: país, grupo, club o idea."
+  },
+  {
+   "titulo": "Sufijo -ec-",
+   "md": "Indica cualidad abstracta:\n\n- _bel**ec**o_ – Belleza\n- _simpl**ec**o_ – Simplicidad\n- _jun**ec**o_ – Juventud (diferente: junularo)\n- _amik**ec**o_ – Amistad\n- *eco* – Cualidad\n\n**💡 Truco:** *-ec-* convierte una cualidad en una idea abstracta: *bela* → *beleco*.\n\n**⚠️ Atención:** no confundas *juneco* (\"juventud\" como cualidad/edad) con *junularo* (\"los jóvenes\" como grupo)."
+  },
+  {
+   "titulo": "Sufijo -uj-",
+   "md": "Significa \"que contiene\" y con él se forman nombres de:\n\na) Recipientes:\n\n- *salo* – Sal\n  - _sal**uj**o_ – Salero\n- *mono* – Dinero\n  - _mon**uj**o_ – Monedero\n\nb) Plantas, árboles:\n\n- *pomo* – Manzana\n  - _pom**uj**o_ – Manzano\n- *figo* – Higo\n  - _fig**uj**o_ – Higuera\n\nNormalmente, para evitar confusiones con los recipientes, se prefiere usar la palabra **arbo** (árbol): pomarbo, figarbo...\n\n**💡 Truco:** *-uj-* puede ser recipiente, árbol o país; mira siempre el contexto.\n\nc) Países:\n\n- *hispano* – (un) español\n  - _Hispan**uj**o_ – España\n- *franco* – (un) francés\n  - _Franc**uj**o_ – Francia\n\nCon el tiempo, los hablantes casi siempre usan *-io* (*Francio*, *Germanio*); a veces se usa *-lando* (*Irlando*, *Finnlando*) y otras veces la raíz es el nombre del país mismo (*Brazilo*, *Kolombio*), sobre todo para países del Nuevo Mundo. No es lo mismo *hispano* (más étnico o cultural) que *hispaniano/hispanujano* (ciudadano del Estado español).\n\n**⚠️ Atención:** para países modernos encontrarás varias formas; aprende la forma usada en el curso y reconoce las alternativas."
+  }
+ ],
+ "glosas": {
+  "Kiel": [
+   "cómo",
+   "como"
+  ],
+  "rapid": [
+   "rápido"
+  ],
+  "e": [
+   "Adverbio"
+  ],
+  "pas": [
+   "pasar"
+  ],
+  "as": [
+   "Verbo en presente"
+  ],
+  "tag": [
+   "día"
+  ],
+  "o": [
+   "Sustantivo"
+  ],
+  "j": [
+   "Plural"
+  ],
+  "Morgaŭ": [
+   "mañana"
+  ],
+  "est": [
+   "ser",
+   "estar",
+   "haber"
+  ],
+  "la": [
+   "el/la",
+   "los/las"
+  ],
+  "nask": [
+   "parir"
+  ],
+  "iĝ": [
+   "volverse",
+   "convertirse en"
+  ],
+  "de": [
+   "de",
+   "desde"
+  ],
+  "vi": [
+   "tú",
+   "usted",
+   "vosotros/as",
+   "ustedes",
+   "vos"
+  ],
+  "a": [
+   "Adjetivo"
+  ],
+  "patr": [
+   "padre"
+  ],
+  "Marko": [
+   "Marko"
+  ],
+  "Al": [
+   "a"
+  ],
+  "ven": [
+   "venir"
+  ],
+  "os": [
+   "Verbo en futuro"
+  ],
+  "kelk": [
+   "algún",
+   "algunos"
+  ],
+  "famili": [
+   "familia"
+  ],
+  "an": [
+   "miembro, partidario"
+  ],
+  "kaj": [
+   "y"
+  ],
+  "ge": [
+   "(ambos sexos)"
+  ],
+  "amik": [
+   "amigo"
+  ],
+  "Ĉu": [
+   "¿",
+   "¿Acaso"
+  ],
+  "bon": [
+   "bueno"
+  ],
+  "vol": [
+   "querer"
+  ],
+  "us": [
+   "Verbo en condicional"
+  ],
+  "iom": [
+   "un poco"
+  ],
+  "help": [
+   "ayudar"
+  ],
+  "i": [
+   "Infinitivo"
+  ],
+  "Trov": [
+   "encontrar"
+  ],
+  "u": [
+   "Volitivo"
+  ],
+  "et": [
+   "diminutivo"
+  ],
+  "da": [
+   "de (cantidad)"
+  ],
+  "temp": [
+   "tiempo"
+  ],
+  "almenaŭ": [
+   "al menos"
+  ],
+  "por": [
+   "para",
+   "por"
+  ],
+  "ord": [
+   "orden"
+  ],
+  "ig": [
+   "causar algo"
+  ],
+  "n": [
+   "Acusativo"
+  ],
+  "ĉambr": [
+   "habitación"
+  ],
+  "Mi": [
+   "yo"
+  ],
+  "ŝat": [
+   "gustar"
+  ],
+  "kuir": [
+   "cocinar"
+  ],
+  "io": [
+   "algo"
+  ],
+  "Por": [
+   "para",
+   "por"
+  ],
+  "kuk": [
+   "pastel",
+   "torta"
+  ],
+  "mank": [
+   "faltar"
+  ],
+  "lakt": [
+   "leche"
+  ],
+  "en": [
+   "en"
+  ],
+  "hejm": [
+   "hogar",
+   "casa"
+  ],
+  "Neces": [
+   "necesario"
+  ],
+  "hav": [
+   "tener"
+  ],
+  "manĝ": [
+   "comer"
+  ],
+  "aĵ": [
+   "cosa"
+  ],
+  "el": [
+   "de"
+  ],
+  "vend": [
+   "vender"
+  ],
+  "ej": [
+   "lugar"
+  ],
+  "Bon": [
+   "bueno"
+  ],
+  "mi": [
+   "yo"
+  ],
+  "aĉet": [
+   "comprar"
+  ],
+  "um": [
+   "significado indefinido"
+  ],
+  "Sed": [
+   "pero"
+  ],
+  "anstataŭ": [
+   "en vez de"
+  ],
+  "sid": [
+   "estar sentado"
+  ],
+  "eg": [
+   "aumentativo"
+  ],
+  "kun": [
+   "con"
+  ],
+  "ne": [
+   "no"
+  ],
+  "interes": [
+   "interés"
+  ],
+  "ekskurs": [
+   "excursión"
+  ],
+  "klub": [
+   "club"
+  ],
+  "Kun": [
+   "con"
+  ],
+  "kiu": [
+   "quién",
+   "cuál"
+  ],
+  "dir": [
+   "decir"
+  ],
+  "is": [
+   "Verbo en pasado"
+  ],
+  "in": [
+   "femenino"
+  ],
+  "ĵet": [
+   "lanzar"
+  ],
+  "ia": [
+   "algún tipo de"
+  ],
+  "paper": [
+   "papel"
+  ],
+  "uj": [
+   "contenedor",
+   "árbol",
+   "país"
+  ],
+  "fru": [
+   "temprano"
+  ],
+  "sport": [
+   "deporte"
+  ],
+  "kar": [
+   "querido"
+  ],
+  "ĉu": [
+   "¿",
+   "¿Acaso"
+  ],
+  "ĝust": [
+   "correcto"
+  ],
+  "morgaŭ": [
+   "mañana"
+  ],
+  "dev": [
+   "tener que",
+   "deber"
+  ],
+  "for": [
+   "(alejamiento, desaparición)"
+  ],
+  "inter": [
+   "entre"
+  ],
+  "vid": [
+   "ver"
+  ],
+  "sam": [
+   "mismo"
+  ],
+  "tri": [
+   "tres"
+  ],
+  "foj": [
+   "vez"
+  ],
+  "semajn": [
+   "semana"
+  ],
+  "rajt": [
+   "tener derecho (a)"
+  ],
+  "propon": [
+   "proponer"
+  ],
+  "du": [
+   "dos"
+  ],
+  "part": [
+   "parte"
+  ],
+  "ir": [
+   "ir"
+  ],
+  "Post": [
+   "después de, detrás de"
+  ],
+  "Maria": [
+   "Maria"
+  ],
+  "Petro": [
+   "Petro"
+  ],
+  "cert": [
+   "cierto",
+   "seguro"
+  ],
+  "parol": [
+   "hablar"
+  ],
+  "pri": [
+   "en cuanto a",
+   "sobre"
+  ],
+  "mal": [
+   "(contrario, siendo antónimos absolutos)"
+  ],
+  "sukces": [
+   "tener éxito"
+  ],
+  "vetur": [
+   "ir (con medio de transporte)"
+  ],
+  "ad": [
+   "acción continuada"
+  ],
+  "per": [
+   "por medio de",
+   "con"
+  ],
+  "aŭt": [
+   "auto",
+   "automóvil"
+  ],
+  "Mal": [
+   "(contrario, siendo antónimos absolutos)"
+  ],
+  "plu": [
+   "más (en el tiempo)"
+  ],
+  "tio": [
+   "eso"
+  ],
+  "aŭd": [
+   "oír"
+  ],
+  "Kial": [
+   "por qué"
+  ],
+  "ni": [
+   "nosotros/as"
+  ],
+  "iu": [
+   "alguien"
+  ],
+  "ide": [
+   "idea"
+  ],
+  "riĉ": [
+   "rico"
+  ],
+  "onkl": [
+   "tío"
+  ],
+  "Bonifacio": [
+   "Bonifacio"
+  ],
+  "La": [
+   "el/la",
+   "los/las"
+  ],
+  "rid": [
+   "reír"
+  ],
+  "je": [
+   "a (comodín)"
+  ],
+  "li": [
+   "él"
+  ],
+  "vort": [
+   "palabra"
+  ],
+  "Ŝi": [
+   "ella"
+  ],
+  "sci": [
+   "saber"
+  ],
+  "ke": [
+   "que"
+  ],
+  "tro": [
+   "demasiado"
+  ],
+  "hodiaŭ": [
+   "hoy"
+  ],
+  "Kar": [
+   "querido"
+  ],
+  "sufiĉ": [
+   "suficiente",
+   "bastante"
+  ],
+  "nur": [
+   "solo"
+  ],
+  "ec": [
+   "cualidad abstracta"
+  ],
+  "ankaŭ": [
+   "también"
+  ],
+  "plen": [
+   "lleno"
+  ],
+  "mon": [
+   "dinero"
+  ],
+  "real": [
+   "real"
+  ],
+  "ili": [
+   "ellos/as"
+  ],
+  "post": [
+   "después de, detrás de"
+  ],
+  "silent": [
+   "silencio"
+  ],
+  "daŭr": [
+   "durar"
+  ],
+  "Nu": [
+   "na"
+  ],
+  "antaŭ": [
+   "ante",
+   "antes de",
+   "delante de"
+  ],
+  "minut": [
+   "minuto"
+  ],
+  "telefon": [
+   "teléfono"
+  ],
+  "Ana": [
+   "Ana"
+  ],
+  "ŝi": [
+   "ella"
+  ],
+  "vizit": [
+   "visitar"
+  ],
+  "tre": [
+   "muy"
+  ],
+  "dolĉ": [
+   "dulce"
+  ],
+  "kvankam": [
+   "aunque"
+  ],
+  "atent": [
+   "estar atento",
+   "prestar atención"
+  ],
+  "dik": [
+   "gordo"
+  ],
+  "Tuj": [
+   "en seguida, inmediatamente"
+  ],
+  "ŝanĝ": [
+   "cambiar"
+  ],
+  "opini": [
+   "opinar"
+  ],
+  "Sen": [
+   "sin"
+  ],
+  "dum": [
+   "durante",
+   "mientras"
+  ],
+  "sol": [
+   "solo"
+  ],
+  "Patr": [
+   "padre"
+  ],
+  "tiu": [
+   "ese",
+   "esa"
+  ],
+  "okaz": [
+   "ocurrir",
+   "pasar"
+  ],
+  "tamen": [
+   "sin embargo"
+  ],
+  "Famili": [
+   "familia"
+  ]
+ },
  "raices_nuevas": [
   "ĉef",
   "ekzempl",

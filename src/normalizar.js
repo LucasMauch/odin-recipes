@@ -55,3 +55,23 @@ export function evaluar(respuesta, validas) {
   }
   return 'mal';
 }
+
+/**
+ * Marca, carácter a carácter, qué letras de la respuesta correcta NO coinciden con lo escrito
+ * (subsecuencia común más larga). La puntuación nunca se marca. -> [{c, mal}]
+ */
+export function marcarDiferencias(correcta, respuesta) {
+  const a = [...correcta];
+  const b = [...aplicarSistemaX(String(respuesta ?? '').normalize('NFC')).toLowerCase()].filter((ch) => /[\p{L}\d\s-]/u.test(ch));
+  const base = a.map((ch) => ch.toLowerCase());
+  const n = base.length, m = b.length;
+  const L = Array.from({ length: n + 1 }, () => new Array(m + 1).fill(0));
+  for (let i = n - 1; i >= 0; i--) for (let j = m - 1; j >= 0; j--) {
+    L[i][j] = base[i] === b[j] ? L[i + 1][j + 1] + 1 : Math.max(L[i + 1][j], L[i][j + 1]);
+  }
+  const ok = new Array(n).fill(false);
+  for (let i = 0, j = 0; i < n && j < m;) {
+    if (base[i] === b[j]) { ok[i] = true; i++; j++; } else if (L[i + 1][j] >= L[i][j + 1]) i++; else j++;
+  }
+  return a.map((c, i) => ({ c, mal: !ok[i] && /[\p{L}\d]/u.test(c) }));
+}

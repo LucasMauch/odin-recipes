@@ -494,7 +494,283 @@
    "Kio okazis poste? Ĉu vi scias?"
   ]
  },
- "gramatica_md": "# Adverbios\n\nLos adverbios acaban en **-E**.\n\n- _bel**e**_ – Bellamente\n- _bon**e**_ – Bien\n\nEn esperanto el adjetivo acompaña al sustantivo.\n\n- _bel**a** amikin**o**_ – Una bella amiga\n- _bon**a** libr**o**_ – Un buen libro\n\nY el adverbio al verbo.\n\n- _bel**e** parol**i**_ – Hablar bellamente\n- _la instruisto instru**as** bon**e**_ – El profesor enseña bien\n\n**💡 Truco:** *-a* describe nombres; *-e* describe verbos, adjetivos o frases enteras.\n\nHay en esperanto algunos adverbios simples, no derivados, que no llevan la terminación **-E**.\n\n- *ankoraŭ* - Todavía\n\n**⚠️ Atención:** no añadas *-e* a los adverbios simples como *ankoraŭ*.\n\n# Preposiciones *per* y *kun*\n\n## *Per* - con (\"con, por medio de\"), e indica medio o instrumento\n\n- _Manĝi **per** kulero_ – Comer con una cuchara\n- _Ŝi kantis **per** tre bela voĉo._ – Cantó con una voz muy bonita\n\n## *Kun* - con (\"con\"), e indica compañía\n\n- _Mi iris **kun** amiko._ – Fui con un amigo\n- _Mi parolos **kun** li._ – Hablaré con él\n\n**⚠️ Atención:** el español usa \"con\" para todo, pero en esperanto separa instrumento y compañía: *per kulero*, *kun amiko*.\n\n# Preposición *post*\n\nSignifica \"tras, detrás de, después de\", e indica posterioridad en el tiempo o en el espacio.\n\n- _Mi venos **post** tri horoj._ – Vendré en tres horas\n- _Mi iras **post** vi_ – Voy detrás de ti\n\nSin embargo, se usa más en sentido temporal, y para indicar la posterioridad en el espacio suele emplearse **malantaŭ**.\n\n- _Mi iras **malantaŭ** vi_ – Voy detrás de ti\n\n**Poste** significa \"después, posteriormente\".\n\n**💡 Truco:** *post* suele ser temporal; para \"detrás de\" piensa en *malantaŭ*.\n\n# Sufijo *-ul-*\n\nIndica al individuo (sin sexo) caracterizado por lo que expresa la raíz:\n\n- _grand**ul**o_ – Una persona grande, un/una grandullón/a\n- _malbon**ul**o_ – una persona malvada\n- _malbel**ul**ino_ – Una mujer fea\n- _kaf**ul**o_ – una persona relacionada con el café\n- _bel**ul**o_ – una persona bella\n\n**💡 Truco:** *-ul-* convierte una cualidad en una persona: *juna* → *junulo*, *riĉa* → *riĉulo*.\n\n# Sufijo *-ej-*\n\nIndica el lugar o local destinado a algo apropiado para algo:\n\n- _lern**ej**o_ – Escuela (lugar para aprender)\n- _kuir**ej**o_ – Cocina (lugar para cocinar)\n\n**💡 Truco:** *-ej-* es \"lugar para\": *lerni* → *lernejo*, *kuiri* → *kuirejo*.\n\n# Sufijo *-ebl-*\n\nSignifica \"que se puede\":\n\n- _manĝ**ebl**a_ – Comestible (que se puede comer)\n- _vid**ebl**a_ – Visible (que se puede ver)\n- _kompren**ebl**e_ – Comprensible (que se puede comprender)\n- _**ebl**a_ – Posible\n- _**ebl**e_ – Posiblemente, tal vez, quizá(s)\n- _mal**ebl**a_ – Imposible\n\n**💡 Truco:** *-ebl-* equivale a \"que se puede\": *manĝebla* = \"que se puede comer\".\n\n# Imperativo\n\nEn esperanto la terminación del imperativo para todas las personas es **-U**. Hay que poner siempre el pronombre correspondiente, excepto en la segunda persona (**vi**) donde no es necesario:\n\n- _Manĝ**u**!_ – ¡Come! / ¡Coman! / ¡Comed!\n\n- _Ir**u**!_ – ¡Ve! / ¡Vayan! / ¡Id!\n\n- _Li lern**u**_ – ¡Que él aprenda!\n\n- _Ni vid**u**!_ – ¡Veamos!\n\n- _Mi dorm**u**!_ – ¡Que duerma yo! / ¡Tengo que dormir! (orden a uno mismo)\n\n**⚠️ Atención:** *-u* no es solo \"tú\": sirve para mandatos, deseos o exhortaciones con cualquier persona.\n",
+ "gramatica": [
+  {
+   "titulo": "Adverbios",
+   "md": "Los adverbios acaban en **-E**.\n\n- _bel**e**_ – Bellamente\n- _bon**e**_ – Bien\n\nEn esperanto el adjetivo acompaña al sustantivo.\n\n- _bel**a** amikin**o**_ – Una bella amiga\n- _bon**a** libr**o**_ – Un buen libro\n\nY el adverbio al verbo.\n\n- _bel**e** parol**i**_ – Hablar bellamente\n- _la instruisto instru**as** bon**e**_ – El profesor enseña bien\n\n**💡 Truco:** *-a* describe nombres; *-e* describe verbos, adjetivos o frases enteras.\n\nHay en esperanto algunos adverbios simples, no derivados, que no llevan la terminación **-E**.\n\n- *ankoraŭ* - Todavía\n\n**⚠️ Atención:** no añadas *-e* a los adverbios simples como *ankoraŭ*."
+  },
+  {
+   "titulo": "Preposiciones per y kun",
+   "md": "## *Per* - con (\"con, por medio de\"), e indica medio o instrumento\n\n- _Manĝi **per** kulero_ – Comer con una cuchara\n- _Ŝi kantis **per** tre bela voĉo._ – Cantó con una voz muy bonita\n\n## *Kun* - con (\"con\"), e indica compañía\n\n- _Mi iris **kun** amiko._ – Fui con un amigo\n- _Mi parolos **kun** li._ – Hablaré con él\n\n**⚠️ Atención:** el español usa \"con\" para todo, pero en esperanto separa instrumento y compañía: *per kulero*, *kun amiko*."
+  },
+  {
+   "titulo": "Preposición post",
+   "md": "Significa \"tras, detrás de, después de\", e indica posterioridad en el tiempo o en el espacio.\n\n- _Mi venos **post** tri horoj._ – Vendré en tres horas\n- _Mi iras **post** vi_ – Voy detrás de ti\n\nSin embargo, se usa más en sentido temporal, y para indicar la posterioridad en el espacio suele emplearse **malantaŭ**.\n\n- _Mi iras **malantaŭ** vi_ – Voy detrás de ti\n\n**Poste** significa \"después, posteriormente\".\n\n**💡 Truco:** *post* suele ser temporal; para \"detrás de\" piensa en *malantaŭ*."
+  },
+  {
+   "titulo": "Sufijo -ul-",
+   "md": "Indica al individuo (sin sexo) caracterizado por lo que expresa la raíz:\n\n- _grand**ul**o_ – Una persona grande, un/una grandullón/a\n- _malbon**ul**o_ – una persona malvada\n- _malbel**ul**ino_ – Una mujer fea\n- _kaf**ul**o_ – una persona relacionada con el café\n- _bel**ul**o_ – una persona bella\n\n**💡 Truco:** *-ul-* convierte una cualidad en una persona: *juna* → *junulo*, *riĉa* → *riĉulo*."
+  },
+  {
+   "titulo": "Sufijo -ej-",
+   "md": "Indica el lugar o local destinado a algo apropiado para algo:\n\n- _lern**ej**o_ – Escuela (lugar para aprender)\n- _kuir**ej**o_ – Cocina (lugar para cocinar)\n\n**💡 Truco:** *-ej-* es \"lugar para\": *lerni* → *lernejo*, *kuiri* → *kuirejo*."
+  },
+  {
+   "titulo": "Sufijo -ebl-",
+   "md": "Significa \"que se puede\":\n\n- _manĝ**ebl**a_ – Comestible (que se puede comer)\n- _vid**ebl**a_ – Visible (que se puede ver)\n- _kompren**ebl**e_ – Comprensible (que se puede comprender)\n- _**ebl**a_ – Posible\n- _**ebl**e_ – Posiblemente, tal vez, quizá(s)\n- _mal**ebl**a_ – Imposible\n\n**💡 Truco:** *-ebl-* equivale a \"que se puede\": *manĝebla* = \"que se puede comer\"."
+  },
+  {
+   "titulo": "Imperativo",
+   "md": "En esperanto la terminación del imperativo para todas las personas es **-U**. Hay que poner siempre el pronombre correspondiente, excepto en la segunda persona (**vi**) donde no es necesario:\n\n- _Manĝ**u**!_ – ¡Come! / ¡Coman! / ¡Comed!\n\n- _Ir**u**!_ – ¡Ve! / ¡Vayan! / ¡Id!\n\n- _Li lern**u**_ – ¡Que él aprenda!\n\n- _Ni vid**u**!_ – ¡Veamos!\n\n- _Mi dorm**u**!_ – ¡Que duerma yo! / ¡Tengo que dormir! (orden a uno mismo)\n\n**⚠️ Atención:** *-u* no es solo \"tú\": sirve para mandatos, deseos o exhortaciones con cualquier persona."
+  }
+ ],
+ "glosas": {
+  "Ana": [
+   "Ana"
+  ],
+  "kaj": [
+   "y"
+  ],
+  "Marko": [
+   "Marko"
+  ],
+  "long": [
+   "largo"
+  ],
+  "e": [
+   "Adverbio"
+  ],
+  "parol": [
+   "hablar"
+  ],
+  "is": [
+   "Verbo en pasado"
+  ],
+  "antaŭ": [
+   "ante",
+   "antes de",
+   "delante de"
+  ],
+  "la": [
+   "el/la",
+   "los/las"
+  ],
+  "lern": [
+   "aprender"
+  ],
+  "ej": [
+   "lugar"
+  ],
+  "o": [
+   "Sustantivo"
+  ],
+  "Post": [
+   "después de, detrás de"
+  ],
+  "ili": [
+   "ellos/as"
+  ],
+  "ĝoj": [
+   "contento"
+  ],
+  "ir": [
+   "ir"
+  ],
+  "tra": [
+   "a través de, por"
+  ],
+  "strat": [
+   "calle"
+  ],
+  "Est": [
+   "ser",
+   "estar",
+   "haber"
+  ],
+  "varm": [
+   "caliente"
+  ],
+  "a": [
+   "Adjetivo"
+  ],
+  "tag": [
+   "día"
+  ],
+  "Ili": [
+   "ellos/as"
+  ],
+  "vid": [
+   "ver"
+  ],
+  "kaf": [
+   "café"
+  ],
+  "n": [
+   "Acusativo"
+  ],
+  "en": [
+   "en"
+  ],
+  "ĝi": [
+   "ello"
+  ],
+  "kuk": [
+   "pastel",
+   "torta"
+  ],
+  "j": [
+   "Plural"
+  ],
+  "Ni": [
+   "nosotros/as"
+  ],
+  "u": [
+   "Volitivo"
+  ],
+  "manĝ": [
+   "comer"
+  ],
+  "dir": [
+   "decir"
+  ],
+  "Ĉu": [
+   "¿",
+   "¿Acaso"
+  ],
+  "vi": [
+   "tú",
+   "usted",
+   "vosotros/as",
+   "ustedes",
+   "vos"
+  ],
+  "hav": [
+   "tener"
+  ],
+  "as": [
+   "Verbo en presente"
+  ],
+  "sufiĉ": [
+   "suficiente",
+   "bastante"
+  ],
+  "mon": [
+   "dinero"
+  ],
+  "Kompren": [
+   "entender"
+  ],
+  "ebl": [
+   "posibilidad"
+  ],
+  "mi": [
+   "yo"
+  ],
+  "cent": [
+   "cien"
+  ],
+  "dolar": [
+   "dólar"
+  ],
+  "Ho": [
+   "oh"
+  ],
+  "est": [
+   "ser",
+   "estar",
+   "haber"
+  ],
+  "riĉ": [
+   "rico"
+  ],
+  "La": [
+   "el/la",
+   "los/las"
+  ],
+  "kelner": [
+   "camarero"
+  ],
+  "al": [
+   "a"
+  ],
+  "port": [
+   "llevar",
+   "traer"
+  ],
+  "mult": [
+   "mucho"
+  ],
+  "post": [
+   "después de, detrás de"
+  ],
+  "de": [
+   "de",
+   "desde"
+  ],
+  "nov": [
+   "nuevo"
+  ],
+  "ven": [
+   "venir"
+  ],
+  "serĉ": [
+   "buscar"
+  ],
+  "unu": [
+   "uno"
+  ],
+  "lok": [
+   "lugar"
+  ],
+  "ali": [
+   "otro"
+  ],
+  "Li": [
+   "él"
+  ],
+  "vizaĝ": [
+   "cara"
+  ],
+  "mal": [
+   "(contrario, siendo antónimos absolutos)"
+  ],
+  "Fin": [
+   "acabar",
+   "terminar"
+  ],
+  "li": [
+   "él"
+  ],
+  "per": [
+   "por medio de",
+   "con"
+  ],
+  "fort": [
+   "fuerte"
+  ],
+  "voĉ": [
+   "voz"
+  ],
+  "Mi": [
+   "yo"
+  ],
+  "ne": [
+   "no"
+  ],
+  "Kio": [
+   "qué"
+  ],
+  "okaz": [
+   "ocurrir",
+   "pasar"
+  ],
+  "sci": [
+   "saber"
+  ],
+  "En": [
+   "en"
+  ]
+ },
  "raices_nuevas": [
   "afer",
   "aŭ",

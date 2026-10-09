@@ -711,7 +711,317 @@
    "– Estos pli bone, ke vi ne rigardu tiun ĉi sinjorinon. Ankaŭ ŝi estas tre multekosta. Mi scias, ĉar mi estas ŝia edzo."
   ]
  },
- "gramatica_md": "# Tabla de correlativos\n\nEstudia la tabla en la sección Apéndice y observa la lógica con la que está hecha: el significado de cada una de las 45 palabras puede deducirse del primer elemento combinado con el segundo. Memoriza especialmente:\n\n- *ĉio* – todo (cosa)\n- *ĉiu* – cada uno, todo\n- *ĉiuj* – todos/as\n- *ĉiam* – siempre\n- *iom* – un poco\n\n**💡 Truco:** aprende la tabla como piezas: *ki-* pregunta, *ti-* señala, *ĉi-* abarca todo, *neni-* niega.\n\nAlgunas de las palabras de la tabla pueden llevar la terminación *-j* (plural) y *-n* (acusativo):\n\n- La terminación *-j* se puede poner con las palabras que acaben en *-u* y *-a*\n- La terminación *-n* con las que acaben en *-o*, *-u*, *-a* y *-e*:\n\n**⚠️ Atención:** no todas las palabras de la tabla aceptan plural; mira la vocal final antes de añadir *-j*.\n\n## Kio\n\n- *Kio* – qué\n- *kion* – qué (objeto directo)\n\nEjemplo:\n\n- *Kion vi manĝas? Kukon mi manĝas.* – ¿Qué comes? Como un pastel\n\n**💡 Truco:** *kio* pregunta por una cosa; *kion* pregunta por una cosa como objeto directo.\n\n## Kiu\n\n- *Kiu* – quién, el/la cual\n- *kiun* – quién, el/la cual (objeto directo)\n- *kiuj* – quiénes, los/las cuales\n- *kiujn* – quiénes, los/las cuales (objeto directo)\n\nEjemplo:\n\n- *Kiun (kukon) vi manĝas? Tiun.* – ¿Cuál (pastel) comes? Ese/aquel.\n\n## Kia\n\nPregunta por adjetivos. Ejemplos:\n\n- *Kia estas la vetero?* – ¿Cómo está el tiempo?\n- *Kian aŭton vi havas?* – ¿Cómo es el auto que tienes?\n- *Kiaj estas ŝiaj leteroj?* – ¿De qué tipo son sus cartas?\n- *Kiajn fotojn vi faris?* – ¿Qué tipo de fotos has hecho?\n\n**⚠️ Atención:** *kia* pregunta por el tipo o cualidad; no lo confundas con *kiu*, que elige una persona o cosa concreta.\n\n## Kie\n\n- *Kie* – dónde (en)\n- *Kien* – adónde (hacia)\n\nEjemplos:\n\n- *Kie mi estas?* – ¿Dónde estoy?\n- *Kien vi iras?* – ¿Adónde vas?\n\n## Con preposiciones\n\n- *Al kiu* – a quién\n- *kun kiu* – con quién\n- *al tiu* – a ese\n- *inter tiuj* – entre esos\n\n# Comparativo\n\n- _**pli** bona_ – Más bueno, mejor\n- _**pli** granda_ – Más grande, mayor\n- _pli bona **ol** vi_ – Mejor que tú/ustedes/vosotros\n- _**tiel** bona, **kiel** vi_ – Tan bueno como tú\n- _**malpli** bona ol vi_ – Menos bueno que tú\n- pli-malpli – Más o menos\n\n**💡 Truco:** compara con *pli ... ol* (\"más ... que\") y con *tiel ... kiel* (\"tan ... como\").\n\n# Superlativo\n\n- _la **plej** bona **el** ĉiuj_ – El más bueno / El mejor de todos\n- _la **malplej** bona **el** ĉiuj_ – El peor de todos\n\n**⚠️ Atención:** para superlativos se usa *el ĉiuj* (\"de entre todos\"), no *de ĉiuj*.\n\nEl superlativo de un adverbio se forma sin el artículo:\n\n- _El ĉiuj, li **plej** bone kantas_ – De todos, él canta mejor/él es el que mejor canta.\n\n# *Dum*\n\n*Dum* significa \"durante\" antes de un sustantivo, y \"mientras\" antes de un verbo:\n\n- _Li sidas **dum** la manĝo._ – Él está sentado durante la comida\n- _Ŝi skribas **dum** li legas._ – Ella está escribiendo mientras él lee\n\n# *Ĉi*\n\nLos demostrativos (**ti-**) pueden ir precedidos de la partícula **ĉi**, o seguidos por ella. Esta partícula indica proximidad o cercanía:\n\n- *tiu* – ese / *ĉi tiu* o *tiu ĉi* – este\n- *tiuj* – esos / *ĉi tiuj* o *tiuj ĉi* – estos\n- *tie* – ahí / *ĉi tie* o *tie ĉi* – aquí\n\n**💡 Truco:** *ĉi* acerca: *tie* = ahí/allí, *ĉi tie* = aquí.\n\n# Sufijo *-ind-*\n\nSignifica \"digno de, que merece\".\n\n- _leg**ind**a_ – Digno de ser leído, que merece que se lea\n- _bedaŭr**ind**e_ (adverbio) – Lamentablemente ¡Qué lástima!\n- _bedaŭr**ind**a_ (adjetivo) – Lamentable; que da pena;\n- _nedank**ind**e_ – De nada, no hay de qué; no merece la pena agradecerlo\n- _dank**ind**a_ – Que merece agradecimiento, digno de agradecimiento\n",
+ "gramatica": [
+  {
+   "titulo": "Tabla de correlativos",
+   "md": "Estudia la tabla en la sección Apéndice y observa la lógica con la que está hecha: el significado de cada una de las 45 palabras puede deducirse del primer elemento combinado con el segundo. Memoriza especialmente:\n\n- *ĉio* – todo (cosa)\n- *ĉiu* – cada uno, todo\n- *ĉiuj* – todos/as\n- *ĉiam* – siempre\n- *iom* – un poco\n\n**💡 Truco:** aprende la tabla como piezas: *ki-* pregunta, *ti-* señala, *ĉi-* abarca todo, *neni-* niega.\n\nAlgunas de las palabras de la tabla pueden llevar la terminación *-j* (plural) y *-n* (acusativo):\n\n- La terminación *-j* se puede poner con las palabras que acaben en *-u* y *-a*\n- La terminación *-n* con las que acaben en *-o*, *-u*, *-a* y *-e*:\n\n**⚠️ Atención:** no todas las palabras de la tabla aceptan plural; mira la vocal final antes de añadir *-j*.\n\n## Kio\n\n- *Kio* – qué\n- *kion* – qué (objeto directo)\n\nEjemplo:\n\n- *Kion vi manĝas? Kukon mi manĝas.* – ¿Qué comes? Como un pastel\n\n**💡 Truco:** *kio* pregunta por una cosa; *kion* pregunta por una cosa como objeto directo.\n\n## Kiu\n\n- *Kiu* – quién, el/la cual\n- *kiun* – quién, el/la cual (objeto directo)\n- *kiuj* – quiénes, los/las cuales\n- *kiujn* – quiénes, los/las cuales (objeto directo)\n\nEjemplo:\n\n- *Kiun (kukon) vi manĝas? Tiun.* – ¿Cuál (pastel) comes? Ese/aquel.\n\n## Kia\n\nPregunta por adjetivos. Ejemplos:\n\n- *Kia estas la vetero?* – ¿Cómo está el tiempo?\n- *Kian aŭton vi havas?* – ¿Cómo es el auto que tienes?\n- *Kiaj estas ŝiaj leteroj?* – ¿De qué tipo son sus cartas?\n- *Kiajn fotojn vi faris?* – ¿Qué tipo de fotos has hecho?\n\n**⚠️ Atención:** *kia* pregunta por el tipo o cualidad; no lo confundas con *kiu*, que elige una persona o cosa concreta.\n\n## Kie\n\n- *Kie* – dónde (en)\n- *Kien* – adónde (hacia)\n\nEjemplos:\n\n- *Kie mi estas?* – ¿Dónde estoy?\n- *Kien vi iras?* – ¿Adónde vas?\n\n## Con preposiciones\n\n- *Al kiu* – a quién\n- *kun kiu* – con quién\n- *al tiu* – a ese\n- *inter tiuj* – entre esos"
+  },
+  {
+   "titulo": "Comparativo",
+   "md": "- _**pli** bona_ – Más bueno, mejor\n- _**pli** granda_ – Más grande, mayor\n- _pli bona **ol** vi_ – Mejor que tú/ustedes/vosotros\n- _**tiel** bona, **kiel** vi_ – Tan bueno como tú\n- _**malpli** bona ol vi_ – Menos bueno que tú\n- pli-malpli – Más o menos\n\n**💡 Truco:** compara con *pli ... ol* (\"más ... que\") y con *tiel ... kiel* (\"tan ... como\")."
+  },
+  {
+   "titulo": "Superlativo",
+   "md": "- _la **plej** bona **el** ĉiuj_ – El más bueno / El mejor de todos\n- _la **malplej** bona **el** ĉiuj_ – El peor de todos\n\n**⚠️ Atención:** para superlativos se usa *el ĉiuj* (\"de entre todos\"), no *de ĉiuj*.\n\nEl superlativo de un adverbio se forma sin el artículo:\n\n- _El ĉiuj, li **plej** bone kantas_ – De todos, él canta mejor/él es el que mejor canta."
+  },
+  {
+   "titulo": "Dum",
+   "md": "*Dum* significa \"durante\" antes de un sustantivo, y \"mientras\" antes de un verbo:\n\n- _Li sidas **dum** la manĝo._ – Él está sentado durante la comida\n- _Ŝi skribas **dum** li legas._ – Ella está escribiendo mientras él lee"
+  },
+  {
+   "titulo": "Ĉi",
+   "md": "Los demostrativos (**ti-**) pueden ir precedidos de la partícula **ĉi**, o seguidos por ella. Esta partícula indica proximidad o cercanía:\n\n- *tiu* – ese / *ĉi tiu* o *tiu ĉi* – este\n- *tiuj* – esos / *ĉi tiuj* o *tiuj ĉi* – estos\n- *tie* – ahí / *ĉi tie* o *tie ĉi* – aquí\n\n**💡 Truco:** *ĉi* acerca: *tie* = ahí/allí, *ĉi tie* = aquí."
+  },
+  {
+   "titulo": "Sufijo -ind-",
+   "md": "Significa \"digno de, que merece\".\n\n- _leg**ind**a_ – Digno de ser leído, que merece que se lea\n- _bedaŭr**ind**e_ (adverbio) – Lamentablemente ¡Qué lástima!\n- _bedaŭr**ind**a_ (adjetivo) – Lamentable; que da pena;\n- _nedank**ind**e_ – De nada, no hay de qué; no merece la pena agradecerlo\n- _dank**ind**a_ – Que merece agradecimiento, digno de agradecimiento"
+  }
+ ],
+ "glosas": {
+  "Sinjor": [
+   "señor"
+  ],
+  "o": [
+   "Sustantivo"
+  ],
+  "Rapid": [
+   "rápido"
+  ],
+  "amik": [
+   "amigo"
+  ],
+  "de": [
+   "de",
+   "desde"
+  ],
+  "Marko": [
+   "Marko"
+  ],
+  "en": [
+   "en"
+  ],
+  "ir": [
+   "ir"
+  ],
+  "is": [
+   "Verbo en pasado"
+  ],
+  "vend": [
+   "vender"
+  ],
+  "ej": [
+   "lugar"
+  ],
+  "n": [
+   "Acusativo"
+  ],
+  "aŭt": [
+   "auto",
+   "automóvil"
+  ],
+  "j": [
+   "Plural"
+  ],
+  "Tie": [
+   "ahí",
+   "allí",
+   "allá"
+  ],
+  "li": [
+   "él"
+  ],
+  "vid": [
+   "ver"
+  ],
+  "as": [
+   "Verbo en presente"
+  ],
+  "bel": [
+   "bonito",
+   "bello",
+   "lindo"
+  ],
+  "a": [
+   "Adjetivo"
+  ],
+  "sinjor": [
+   "señor"
+  ],
+  "in": [
+   "femenino"
+  ],
+  "kiu": [
+   "quién",
+   "cuál"
+  ],
+  "plaĉ": [
+   "agradar",
+   "gustar"
+  ],
+  "al": [
+   "a"
+  ],
+  "Vend": [
+   "vender"
+  ],
+  "ist": [
+   "profesión",
+   "algo habitual"
+  ],
+  "ven": [
+   "venir"
+  ],
+  "demand": [
+   "preguntar"
+  ],
+  "Kiu": [
+   "quién",
+   "cuál"
+  ],
+  "est": [
+   "ser",
+   "estar",
+   "haber"
+  ],
+  "la": [
+   "el/la",
+   "los/las"
+  ],
+  "plej": [
+   "más (superlativo)"
+  ],
+  "bon": [
+   "bueno"
+  ],
+  "Tiu": [
+   "ese",
+   "esa"
+  ],
+  "ĉi": [
+   "(partícula de proximidad, normalmente con correlativo)"
+  ],
+  "el": [
+   "de"
+  ],
+  "ĉiu": [
+   "cada uno",
+   "todos",
+   "todos los"
+  ],
+  "Ĉu": [
+   "¿",
+   "¿Acaso"
+  ],
+  "ĝi": [
+   "ello"
+  ],
+  "rapid": [
+   "rápido"
+  ],
+  "Ĝi": [
+   "ello"
+  ],
+  "pli": [
+   "más (comparativo)"
+  ],
+  "ol": [
+   "que (comparativo)"
+  ],
+  "ali": [
+   "otro"
+  ],
+  "ankaŭ": [
+   "también"
+  ],
+  "fort": [
+   "fuerte"
+  ],
+  "Ho": [
+   "oh"
+  ],
+  "jes": [
+   "sí"
+  ],
+  "tre": [
+   "muy"
+  ],
+  "Cert": [
+   "cierto",
+   "seguro"
+  ],
+  "e": [
+   "Adverbio"
+  ],
+  "mult": [
+   "mucho"
+  ],
+  "kost": [
+   "costar"
+  ],
+  "Kompren": [
+   "entender"
+  ],
+  "ebl": [
+   "posibilidad"
+  ],
+  "Dank": [
+   "agradecer (a)"
+  ],
+  "bedaŭr": [
+   "lamentar"
+  ],
+  "ind": [
+   "digno de"
+  ],
+  "mi": [
+   "yo"
+  ],
+  "ne": [
+   "no"
+  ],
+  "aĉet": [
+   "comprar"
+  ],
+  "os": [
+   "Verbo en futuro"
+  ],
+  "nov": [
+   "nuevo"
+  ],
+  "ĉar": [
+   "porque"
+  ],
+  "mal": [
+   "(contrario, siendo antónimos absolutos)"
+  ],
+  "Mi": [
+   "yo"
+  ],
+  "ankoraŭ": [
+   "todavía"
+  ],
+  "vetur": [
+   "ir (con medio de transporte)"
+  ],
+  "per": [
+   "por medio de",
+   "con"
+  ],
+  "Dum": [
+   "durante",
+   "mientras"
+  ],
+  "tio": [
+   "eso"
+  ],
+  "dir": [
+   "decir"
+  ],
+  "rigard": [
+   "mirar"
+  ],
+  "Sed": [
+   "pero"
+  ],
+  "Est": [
+   "ser",
+   "estar",
+   "haber"
+  ],
+  "ke": [
+   "que"
+  ],
+  "vi": [
+   "tú",
+   "usted",
+   "vosotros/as",
+   "ustedes",
+   "vos"
+  ],
+  "u": [
+   "Volitivo"
+  ],
+  "tiu": [
+   "ese",
+   "esa"
+  ],
+  "Ankaŭ": [
+   "también"
+  ],
+  "ŝi": [
+   "ella"
+  ],
+  "sci": [
+   "saber"
+  ],
+  "edz": [
+   "esposo",
+   "marido"
+  ],
+  "Nov": [
+   "nuevo"
+  ]
+ },
  "raices_nuevas": [
   "aŭskult",
   "forges",

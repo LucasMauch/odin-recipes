@@ -16,7 +16,7 @@ export function idEvento() {
 }
 
 function vacio() {
-  return { version: 1, log: [], pruebas: [], habla: [], ajustes: { codigo: null, sincronizado: 0 } };
+  return { version: 1, log: [], pruebas: [], habla: [], ajustes: { codigo: null, sincronizado: 0, pasos: {} } };
 }
 
 export function crearAlmacen(storage) {
@@ -58,6 +58,13 @@ export function crearAlmacen(storage) {
       const primeras = new Map();
       for (const e of [...datos.log].sort((a, b) => a.t - b.t)) if (!primeras.has(e.c)) primeras.set(e.c, e.t);
       return [...primeras.values()].filter((t) => claveDia(new Date(t)) === dia).length;
+    },
+    pasosHechos(lec) { return datos.ajustes.pasos?.[lec] ?? []; },
+    marcarPaso(lec, id) {
+      const pasos = { ...(datos.ajustes.pasos ?? {}) };
+      pasos[lec] = [...new Set([...(pasos[lec] ?? []), id])];
+      datos.ajustes = { ...datos.ajustes, pasos };
+      guardar();
     },
     ajustar(parcial) { datos.ajustes = { ...datos.ajustes, ...parcial }; guardar(); },
 

@@ -14,7 +14,10 @@ FIXTURE = {
     "enhavo/netradukenda/vortoj/01.yml": "- pom\n",
     "enhavo/netradukenda/ekzercoj/kompletigu-la-frazojn/01.yml":
         "- - videbla: Mi\n  - videbla:\n  - solvo: havas\n  - videbla:\n  - videbla: pomon.\n",
-    "enhavo/tradukenda/es/gramatiko/01.md": "# Tema\n\ntexto\n",
+    "enhavo/tradukenda/es/gramatiko/01.md": "# Tema *uno*\n\ntexto\n\n# Tema dos\n\n- a\n- b\n",
+    "enhavo/tradukenda/es/vortaro/radiko.yml": "pom: manzana\nham: tener\n",
+    "enhavo/tradukenda/es/vortaro/finajxo.yml": "o: Sustantivo\nas: Verbo en presente\n",
+    "enhavo/tradukenda/es/vortaro/pronomo.yml": "mi: yo\n",
     "enhavo/tradukenda/es/ekzercoj/traduku/01.yml":
         "- pomo: manzana\n- frukto:\n  - fruta\n  - fruto\n- pomujo: manzana\n",
     "enhavo/tradukenda/es/ekzercoj/kompletigu/01.yml":
@@ -45,6 +48,19 @@ class TestImportar(unittest.TestCase):
         self.assertEqual(self.lec["texto"]["parrafos"], ["Mi hamas."])
         self.assertEqual(self.lec["texto"]["paragrafoj_morfemas"], [[["Mi"], None, ["ham", "as"], "."]])
         self.assertEqual(self.lec["texto"]["licencia"], "CC BY-ND 4.0")
+
+    def test_gramatica_se_divide_en_secciones(self):
+        g = self.lec["gramatica"]
+        self.assertEqual([x["titulo"] for x in g], ["Tema uno", "Tema dos"])
+        self.assertEqual(g[0]["md"], "texto")
+        self.assertIn("- a", g[1]["md"])
+
+    def test_glosas_cubren_morfemas_del_texto(self):
+        gl = self.lec["glosas"]
+        self.assertEqual(gl["ham"], ["tener"])
+        self.assertEqual(gl["as"], ["Verbo en presente"])
+        self.assertEqual(gl["Mi"], ["yo"])  # mayúscula inicial: cae a minúscula
+        self.assertEqual(gl["o"], ["Sustantivo"])
 
     def test_palabras_agrupadas_por_prompt_en_espanol(self):
         pal = [c for c in self.lec["cartas"] if c["tipo"] == "palabra"]

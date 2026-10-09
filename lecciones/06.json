@@ -663,7 +663,353 @@
    "– Hm, jes … jes. Li povas veni … sed ankaŭ li estu trankvila."
   ]
  },
- "gramatica_md": "# Volitivo\n\nEl esperanto carece de modo subjuntivo. El volitivo (que no es solo imperativo) se usa:\n\na) Cuando el verbo expresa, directamente o indirectamente, orden, deseo, voluntad, mandato, ruego, permiso, consejo, encargo\n\n- _Mi **deziras**, **ke** vi lern**u**._ – Deseo que aprendas\n- _La patro **volas**, **ke** mi ir**u**._ – El padre quiere que vaya\n\nb) Después de \"para que\" o similares (\"a fin de que, con el objeto de que, etc.\"):\n\n- _Mi **eliras**, **por ke** vi leg**u** trankvile._ – Salgo para que leas tranquilamente\n\nEn todos los demás casos se usa el indicativo.\n\n**💡 Truco:** cuando en español aparece \"quiero que...\" o \"para que...\", revisa si en esperanto necesitas *-u*.\n\n**⚠️ Atención:** no uses *-u* para cualquier subjuntivo español; úsalo cuando hay deseo, orden, finalidad o petición.\n\n# Preposición *je*\n\nLa preposición comodín o indeterminada **je** se usa cuando el sentido de la frase no nos indica claramente qué preposición debemos emplear.\n\n- _**Je** kioma horo vi venos?_ – ¿A qué hora vendrás?\n- _**Je** la oka horo._ – A las ocho.\n\nAl decir la hora deben usarse los números ordinales: _je la kvin**a**_ (= a las cinco). La palabra **horo** puede no decirse si la frase queda clara: *mi venos je la oka (horo)*.\n\n**💡 Truco:** para la hora piensa \"a la octava\": *je la oka* = a las ocho.\n\n# El verbo *farti*\n\nLa palabra **farti** significa \"encontrarse (bien/mal...) o estar de salud\".\n\n- _Kiel vi **fartas**?_ – ¿Cómo estás? / ¿Qué tal (estás)?\n\nNo se dice \"Kiel vi estas?\".\n\n**⚠️ Atención:** para preguntar por la salud o estado de alguien se usa *farti*, no *esti*.\n\n# Sufijo *-et-*\n\nIndica el diminutivo o un grado menor:\n\n- _libr**et**o_ – Librito\n- _varm**et**a_ – Calentito, tibio\n- *eta* = malgranda\n\n**💡 Truco:** *-et-* suaviza o empequeñece: *varma* → *varmeta*, *libro* → *libreto*.\n\n# Sufijo *-eg-*\n\nIndica el aumentativo o un grado mayor:\n\n- _varm**eg**a_ – Abrasador\n- _bel**eg**a_ – Bellísimo/a\n- _ĉambr**eg**o_ – Habitación enorme\n\n**💡 Truco:** *-eg-* agranda o intensifica: *bona* → *bonega*, *varma* → *varmega*.\n\n# Sufijo *-iĝ-*\n\nSignifica \"hacerse, volverse\":\n\n- *beliĝi* – Hacerse bello\n- *trankviliĝi* – Tranquilizarse\n- *riĉiĝi* – Hacerse rico\n- _sid**iĝ**i_ – Sentarse\n\n**⚠️ Atención:** *-iĝ-* no significa \"hacer a otro\"; significa que el sujeto cambia de estado.\n",
+ "gramatica": [
+  {
+   "titulo": "Volitivo",
+   "md": "El esperanto carece de modo subjuntivo. El volitivo (que no es solo imperativo) se usa:\n\na) Cuando el verbo expresa, directamente o indirectamente, orden, deseo, voluntad, mandato, ruego, permiso, consejo, encargo\n\n- _Mi **deziras**, **ke** vi lern**u**._ – Deseo que aprendas\n- _La patro **volas**, **ke** mi ir**u**._ – El padre quiere que vaya\n\nb) Después de \"para que\" o similares (\"a fin de que, con el objeto de que, etc.\"):\n\n- _Mi **eliras**, **por ke** vi leg**u** trankvile._ – Salgo para que leas tranquilamente\n\nEn todos los demás casos se usa el indicativo.\n\n**💡 Truco:** cuando en español aparece \"quiero que...\" o \"para que...\", revisa si en esperanto necesitas *-u*.\n\n**⚠️ Atención:** no uses *-u* para cualquier subjuntivo español; úsalo cuando hay deseo, orden, finalidad o petición."
+  },
+  {
+   "titulo": "Preposición je",
+   "md": "La preposición comodín o indeterminada **je** se usa cuando el sentido de la frase no nos indica claramente qué preposición debemos emplear.\n\n- _**Je** kioma horo vi venos?_ – ¿A qué hora vendrás?\n- _**Je** la oka horo._ – A las ocho.\n\nAl decir la hora deben usarse los números ordinales: _je la kvin**a**_ (= a las cinco). La palabra **horo** puede no decirse si la frase queda clara: *mi venos je la oka (horo)*.\n\n**💡 Truco:** para la hora piensa \"a la octava\": *je la oka* = a las ocho."
+  },
+  {
+   "titulo": "El verbo farti",
+   "md": "La palabra **farti** significa \"encontrarse (bien/mal...) o estar de salud\".\n\n- _Kiel vi **fartas**?_ – ¿Cómo estás? / ¿Qué tal (estás)?\n\nNo se dice \"Kiel vi estas?\".\n\n**⚠️ Atención:** para preguntar por la salud o estado de alguien se usa *farti*, no *esti*."
+  },
+  {
+   "titulo": "Sufijo -et-",
+   "md": "Indica el diminutivo o un grado menor:\n\n- _libr**et**o_ – Librito\n- _varm**et**a_ – Calentito, tibio\n- *eta* = malgranda\n\n**💡 Truco:** *-et-* suaviza o empequeñece: *varma* → *varmeta*, *libro* → *libreto*."
+  },
+  {
+   "titulo": "Sufijo -eg-",
+   "md": "Indica el aumentativo o un grado mayor:\n\n- _varm**eg**a_ – Abrasador\n- _bel**eg**a_ – Bellísimo/a\n- _ĉambr**eg**o_ – Habitación enorme\n\n**💡 Truco:** *-eg-* agranda o intensifica: *bona* → *bonega*, *varma* → *varmega*."
+  },
+  {
+   "titulo": "Sufijo -iĝ-",
+   "md": "Significa \"hacerse, volverse\":\n\n- *beliĝi* – Hacerse bello\n- *trankviliĝi* – Tranquilizarse\n- *riĉiĝi* – Hacerse rico\n- _sid**iĝ**i_ – Sentarse\n\n**⚠️ Atención:** *-iĝ-* no significa \"hacer a otro\"; significa que el sujeto cambia de estado."
+  }
+ ],
+ "glosas": {
+  "Maja": [
+   "Maja"
+  ],
+  "est": [
+   "ser",
+   "estar",
+   "haber"
+  ],
+  "as": [
+   "Verbo en presente"
+  ],
+  "bel": [
+   "bonito",
+   "bello",
+   "lindo"
+  ],
+  "et": [
+   "diminutivo"
+  ],
+  "a": [
+   "Adjetivo"
+  ],
+  "jun": [
+   "joven"
+  ],
+  "ul": [
+   "individuo"
+  ],
+  "in": [
+   "femenino"
+  ],
+  "o": [
+   "Sustantivo"
+  ],
+  "Ĉiu": [
+   "cada uno",
+   "todos",
+   "todos los"
+  ],
+  "j": [
+   "Plural"
+  ],
+  "ŝi": [
+   "ella"
+  ],
+  "ge": [
+   "(ambos sexos)"
+  ],
+  "amik": [
+   "amigo"
+  ],
+  "am": [
+   "amar"
+  ],
+  "n": [
+   "Acusativo"
+  ],
+  "Antaŭ": [
+   "ante",
+   "antes de",
+   "delante de"
+  ],
+  "tri": [
+   "tres"
+  ],
+  "tag": [
+   "día"
+  ],
+  "mal": [
+   "(contrario, siendo antónimos absolutos)"
+  ],
+  "bon": [
+   "bueno"
+  ],
+  "okaz": [
+   "ocurrir",
+   "pasar"
+  ],
+  "is": [
+   "Verbo en pasado"
+  ],
+  "sur": [
+   "en (encima)"
+  ],
+  "strat": [
+   "calle"
+  ],
+  "aŭt": [
+   "auto",
+   "automóvil"
+  ],
+  "fal": [
+   "caer"
+  ],
+  "ig": [
+   "causar algo"
+  ],
+  "san": [
+   "sano"
+  ],
+  "iĝ": [
+   "volverse",
+   "convertirse en"
+  ],
+  "kaj": [
+   "y"
+  ],
+  "hav": [
+   "tener"
+  ],
+  "alt": [
+   "alto"
+  ],
+  "temperatur": [
+   "temperatura"
+  ],
+  "Ŝi": [
+   "ella"
+  ],
+  "patr": [
+   "padre"
+  ],
+  "dir": [
+   "decir"
+  ],
+  "ke": [
+   "que"
+  ],
+  "dev": [
+   "tener que",
+   "deber"
+  ],
+  "rest": [
+   "quedarse"
+  ],
+  "i": [
+   "Infinitivo"
+  ],
+  "hejm": [
+   "hogar",
+   "casa"
+  ],
+  "e": [
+   "Adverbio"
+  ],
+  "Morgaŭ": [
+   "mañana"
+  ],
+  "vok": [
+   "llamar"
+  ],
+  "os": [
+   "Verbo en futuro"
+  ],
+  "doktor": [
+   "doctor"
+  ],
+  "La": [
+   "el/la",
+   "los/las"
+  ],
+  "ven": [
+   "venir"
+  ],
+  "je": [
+   "a (comodín)"
+  ],
+  "la": [
+   "el/la",
+   "los/las"
+  ],
+  "naŭ": [
+   "nueve"
+  ],
+  "hor": [
+   "hora"
+  ],
+  "por": [
+   "para",
+   "por"
+  ],
+  "help": [
+   "ayudar"
+  ],
+  "al": [
+   "a"
+  ],
+  "Dir": [
+   "decir"
+  ],
+  "u": [
+   "Volitivo"
+  ],
+  "montr": [
+   "mostrar",
+   "enseñar"
+  ],
+  "vi": [
+   "tú",
+   "usted",
+   "vosotros/as",
+   "ustedes",
+   "vos"
+  ],
+  "man": [
+   "mano"
+  ],
+  "pied": [
+   "pie"
+  ],
+  "vest": [
+   "vestir"
+  ],
+  "ĉio": [
+   "todo"
+  ],
+  "rigard": [
+   "mirar"
+  ],
+  "fine": [
+   "finalmente"
+  ],
+  "Unu": [
+   "uno"
+  ],
+  "semajn": [
+   "semana"
+  ],
+  "ne": [
+   "no"
+  ],
+  "ir": [
+   "ir"
+  ],
+  "sub": [
+   "debajo de",
+   "debajo"
+  ],
+  "Trink": [
+   "beber"
+  ],
+  "mult": [
+   "mucho"
+  ],
+  "te": [
+   "té"
+  ],
+  "maten": [
+   "mañana"
+  ],
+  "vesper": [
+   "tarde"
+  ],
+  "Mi": [
+   "yo"
+  ],
+  "dezir": [
+   "desear"
+  ],
+  "trankvil": [
+   "tranquilo"
+  ],
+  "Post": [
+   "después de, detrás de"
+  ],
+  "unu": [
+   "uno"
+  ],
+  "fart": [
+   "estar",
+   "sentirse"
+  ],
+  "pli": [
+   "más (comparativo)"
+  ],
+  "re": [
+   "de nuevo",
+   "otra vez"
+  ],
+  "vid": [
+   "ver"
+  ],
+  "Sinjor": [
+   "señor"
+  ],
+  "ĉu": [
+   "¿",
+   "¿Acaso"
+  ],
+  "mi": [
+   "yo"
+  ],
+  "eg": [
+   "aumentativo"
+  ],
+  "Karlo": [
+   "Karlo"
+  ],
+  "pov": [
+   "poder"
+  ],
+  "Hm": [
+   "hm"
+  ],
+  "jes": [
+   "sí"
+  ],
+  "Li": [
+   "él"
+  ],
+  "sed": [
+   "pero"
+  ],
+  "ankaŭ": [
+   "también"
+  ],
+  "li": [
+   "él"
+  ]
+ },
  "raices_nuevas": [
   "bezon",
   "esper",
